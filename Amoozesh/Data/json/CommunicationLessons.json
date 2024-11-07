@@ -1,0 +1,934 @@
+{
+  "communicationLessons": [
+    {
+      "lesson": 1,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "title": "Introducing Yourself",
+      "language": "English and Persian",
+      "dialogue": [
+        {
+          "person": 1,
+          "english": "Hello! My name is Zahra. What’s your name?",
+          "persian": "سلام! من زهرا هستم. اسم شما چیست؟"
+        },
+        {
+          "person": 2,
+          "english": "Hi, I’m Ahmad. Nice to meet you, Zahra.",
+          "persian": "سلام، من احمد هستم. از دیدنت خوشحالم، زهرا"
+        },
+        {
+          "person": 1,
+          "english": "Nice to meet you too, Ahmad. Where are you from?",
+          "persian": "از دیدنت خوشحالم احمد. اهل کجا هستی؟"
+        },
+        {
+          "person": 2,
+          "english": "I’m from Kabul, Afghanistan. And you?",
+          "persian": "من اهل کابل، افغانستان هستم. و شما؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m from the Mazar. Are you here for vacation?",
+          "persian": "من اهل مزار هستم. اینجا برای تعطیلات آمدی؟"
+        },
+        {
+          "person": 2,
+          "english": "No, I’m here for work. I’m a software developer. What do you do?",
+          "persian": "نه، من اینجا برای کار هستم. من توسعه‌دهنده نرم‌افزار هستم. شما چه کاری انجام می‌دهید؟"
+        },
+        {
+          "person": 1,
+          "english": "I’m a student. I study computer science.",
+          "persian": "من دانشجو هستم. رشته علوم کامپیوتر می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "That’s great! How long have you been studying?",
+          "persian": "خیلی عالیست! چه مدت است که در حال تحصیل هستی؟"
+        },
+        {
+          "person": 1,
+          "english": "I’ve been studying for two years now.",
+          "persian": "دو سال است که درس می‌خوانم."
+        },
+        {
+          "person": 2,
+          "english": "Good luck with your studies!",
+          "persian": "موفق باشی در تحصیلاتت!"
+        },
+        {
+          "person": 1,
+          "english": "Thank you, Ahmad!",
+          "persian": "ممنون احمد!"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,995 @@
+{
+  "grammarFlashcards": [
+    {
+      "lesson": 1,
+      "title": "Noun",
+      "definition": {
+        "front": "A noun is a word that names a person, place, thing, or idea. Nouns can be common (general names) or proper (specific names), and they can be countable (can be counted) or uncountable (cannot be counted).",
+        "back": "اسم کلمه‌ای است که نام یک شخص، مکان، چیز یا ایده را نشان می‌دهد. اسامی می‌توانند عام (نام‌های عمومی) یا خاص (نام‌های خاص) باشند و می‌توانند قابل شمارش (قابل شمارش) یا غیرقابل شمارش (نمی‌توان شمارش کرد) باشند."
+      },
+      "examples": [
+        {
+          "front": "The cat is on the roof.",
+          "explanation": "'Cat' is a common noun because it refers to a general type of animal.",
+          "back": "گربه روی سقف است. 'گربه' یک اسم عام است زیرا به یک نوع عمومی از حیوان اشاره دارد."
+        },
+        {
+          "front": "Maryam is going to Paris.",
+          "explanation": "'Maryam' and 'Paris' are proper nouns because they refer to specific names of a person and a place.",
+          "back": "مریم به پاریس می‌رود. 'مریم' و 'پاریس' نام‌های خاص هستند زیرا به نام‌های خاص یک شخص و یک مکان اشاره دارند."
+        },
+        {
+          "front": "There are three books on the table.",
+          "explanation": "'Books' is a countable noun because you can count the number of books.",
+          "back": "سه کتاب روی میز است. 'کتاب‌ها' یک اسم قابل شمارش است زیرا می‌توانید تعداد کتاب‌ها را شمارش کنید."
+        },
+        {
+          "front": "There is some water in the glass.",
+          "explanation": "'Water' is an uncountable noun because you cannot count water in a regular way.",
+          "back": "کمی آب در لیوان است. 'آب' یک اسم غیرقابل شمارش است زیرا نمی‌توانید آب را به طور عادی شمارش کنید."
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "Pronoun",
+      "definition": {
+        "front": "A pronoun is a word that replaces a noun in a sentence to avoid repetition. Pronouns can be personal (I, you, he/she), possessive (my, your, his, her), reflexive (myself, yourself), and demonstrative (this, that).",
+        "back": "ضمیر کلمه‌ای است که در جمله به جای اسم می‌نشیند تا از تکرار جلوگیری کند. ضمایر می‌توانند شخصی (من، تو، او)، ملکی (من، تو، او)، انعکاسی (خودم، خودت) یا اشاره‌ای (این، آن) باشند."
+      },
+      "examples": [
+        {
+          "front": "He is reading a book.",
+          "explanation": "'He' is a personal pronoun that replaces the noun (e.g., a man or boy).",
+          "back": "او در حال خواندن یک کتاب است. 'او' یک ضمیر شخصی است که به جای اسم (مثلاً یک مرد یا پسر) نشسته است."
+        },
+        {
+          "front": "This is my book.",
+          "explanation": "'My' is a possessive pronoun indicating ownership.",
+          "back": "این کتاب من است. 'من' یک ضمیر ملکی است که مالکیت را نشان می‌دهد."
+        },
+        {
+          "front": "She made the cake herself.",
+          "explanation": "'Herself' is a reflexive pronoun that reflects back to the subject.",
+          "back": "او کیک را خودش درست کرد. 'خودش' یک ضمیر انعکاسی است که به فاعل برمی‌گردد."
+        },
+        {
+          "front": "This is my favorite movie.",
+          "explanation": "'This' is a demonstrative pronoun used to point to something specific.",
+          "back": "این فیلم مورد علاقه من است. 'این' یک ضمیر اشاره‌ای است که به چیزی خاص اشاره می‌کند."
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "Verb",
+      "definition": {
+        "front": "A verb is a word that expresses an action, occurrence, or state of being. Verbs can be action verbs (run, jump), linking verbs (is, seem), or helping verbs (has, do).",
+        "back": "فعل کلمه‌ای است که عملی، وقوع یا حالت بودن را بیان می‌کند. افعال می‌توانند افعال عمل (دویدن، پریدن)، افعال ربطی (است، به نظر می‌رسد)، یا افعال کمکی (دارد، انجام می‌دهد) باشند."
+      },
+      "examples": [
+        {
+          "front": "She runs every morning.",
+          "explanation": "'Runs' is an action verb because it describes an action.",
+          "back": "او هر صبح می‌دود. 'می‌دود' یک فعل عملی است زیرا یک عمل را توصیف می‌کند."
+        },
+        {
+          "front": "The cake is delicious.",
+          "explanation": "'Is' is a linking verb that connects the subject to an adjective.",
+          "back": "کیک خوشمزه است. 'است' یک فعل ربطی است که فاعل را به یک صفت متصل می‌کند."
+        },
+        {
+          "front": "He has finished his homework.",
+          "explanation": "'Has' is a helping verb that assists the main verb 'finished'.",
+          "back": "او تکالیفش را تمام کرده است. 'است' یک فعل کمکی است که به فعل اصلی 'تمام کرده' کمک می‌کند."
+        },
+        {
+          "front": "She does not like coffee.",
+          "explanation": "'Does not' is a helping verb phrase used to form the negative sentence.",
+          "back": "او قهوه دوست ندارد. 'ندارد' یک فعل کمکی است که جمله را منفی می‌کند."
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "Simple Present Tense",
+      "definition": {
+        "front": "The Simple Present Tense is used to describe habits, general truths, repeated actions, and fixed arrangements. It often describes actions that are regular or habitual.",
+        "back": "زمان حال ساده برای توصیف عادت‌ها، حقایق عمومی، اعمال تکراری و تنظیمات ثابت استفاده می‌شود. این زمان اغلب اعمالی را توصیف می‌کند که به طور منظم یا عادتاً انجام می‌شود."
+      },
+      "examples": [
+        {
+          "front": "She drinks coffee every morning.",
+          "explanation": "'Drinks' is in the simple present tense, indicating a regular habit.",
+          "back": "او هر صبح قهوه می‌نوشد. 'می‌نوشد' در زمان حال ساده است و یک عمل عادی را نشان می‌دهد."
+        },
+        {
+          "front": "The sun rises in the east.",
+          "explanation": "'Rises' is in the simple present tense, indicating a general truth.",
+          "back": "خورشید در شرق طلوع می‌کند. 'طلوع می‌کند' در زمان حال ساده است و یک حقیقت عمومی را نشان می‌دهد."
+        },
+        {
+          "front": "They go to the gym twice a week.",
+          "explanation": "'Go' is in the simple present tense, indicating a repeated action.",
+          "back": "آنها دو بار در هفته به باشگاه می‌روند. 'می‌روند' در زمان حال ساده است و یک عمل تکراری را نشان می‌دهد."
+        },
+        {
+          "front": "The train leaves at 6 PM.",
+          "explanation": "'Leaves' is in the simple present tense, indicating a fixed schedule.",
+          "back": "قطار ساعت 6 عصر حرکت می‌کند. 'حرکت می‌کند' در زمان حال ساده است و یک برنامه ثابت را نشان می‌دهد."
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "Simple Past Tense",
+      "definition": {
+        "front": "The Simple Past Tense is used to describe actions that happened and were completed in the past. It often includes specific time expressions like yesterday, last week, or in 2000.",
+        "back": "زمان گذشته ساده برای توصیف اعمالی که در گذشته اتفاق افتاده و تمام شده‌اند استفاده می‌شود. اغلب شامل عبارت‌های زمانی خاص مانند دیروز، هفته گذشته یا در سال ۲۰۰۰ است."
+      },
+      "examples": [
+        {
+          "front": "I visited my grandparents last weekend.",
+          "explanation": "'Visited' is in the simple past tense, indicating an action completed in the past.",
+          "back": "من آخر هفته گذشته به دیدن پدربزرگ و مادربزرگم رفتم. 'رفتم' در زمان گذشته ساده است و یک عمل کامل شده در گذشته را نشان می‌دهد."
+        },
+        {
+          "front": "She finished her homework last night.",
+          "explanation": "'Finished' is in the simple past tense, indicating an action completed in the past.",
+          "back": "او دیشب تکالیفش را تمام کرد. 'تمام کرد' در زمان گذشته ساده است و یک عمل کامل شده در گذشته را نشان می‌دهد."
+        },
+        {
+          "front": "They ate dinner and watched a movie.",
+          "explanation": "'Ate' and 'watched' are in the simple past tense, indicating actions completed in sequence.",
+          "back": "آنها شام خوردند و فیلم تماشا کردند. 'خوردند' و 'تماشا کردند' در زمان گذشته ساده است و نشان دهنده انجام متوالی اعمال است."
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "Simple Future Tense",
+      "definition": {
+        "front": "The Simple Future Tense is used to describe actions that will happen in the future. It often uses the auxiliary verb 'will' or the phrase 'going to' to indicate future intent or plans.",
+        "back": "زمان آینده ساده برای توصیف اعمالی که در آینده اتفاق خواهند افتاد استفاده می‌شود. اغلب از فعل کمکی 'خواهد' یا عبارت 'قصد دارد' برای نشان دادن نیت یا برنامه‌های آینده استفاده می‌کند."
+      },
+      "examples": [
+        {
+          "front": "I will call you tomorrow.",
+          "explanation": "'Will call' is in the simple future tense, indicating an action that will happen in the future.",
+          "back": "فردا با تو تماس خواهم گرفت. 'خواهم گرفت' در زمان آینده ساده است و یک عمل در آینده را نشان می‌دهد."
+        },
+        {
+          "front": "They are going to travel to Paris next month.",
+          "explanation": "'Are going to travel' is in the simple future tense, indicating a planned action in the future.",
+          "back": "آنها ماه آینده به پاریس سفر خواهند کرد. 'خواهند کرد' در زمان آینده ساده است و یک عمل برنامه‌ریزی شده در آینده را نشان می‌دهد."
+        },
+        {
+          "front": "It’s raining. I will take an umbrella.",
+          "explanation": "'Will take' is in the simple future tense, indicating a spontaneous decision.",
+          "back": "باران می‌بارد. من چتر می‌برم. 'می‌برم' در زمان آینده ساده است و یک تصمیم خودجوش را نشان می‌دهد."
+        },
+        {
+          "front": "She will be a great doctor someday.",
+          "explanation": "'Will be' is in the simple future tense, indicating a prediction about the future.",
+          "back": "او روزی دکتر عالی خواهد شد. 'خواهد شد' در زمان آینده ساده است و یک پیش‌بینی را نشان می‌دهد."
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Present Continuous Tense",
+      "definition": {
+        "front": "The Present Continuous Tense is used to describe actions that are happening right now, actions that are ongoing, or temporary situations. It is formed using the verb 'to be' (am, is, are) followed by the -ing form of the main verb.",
+        "back": "زمان حال استمراری برای توصیف اعمالی که همین الان در حال انجام هستند، اعمالی که مداوم هستند یا موقعیت‌های موقتی استفاده می‌شود. این زمان با فعل اصلی to be (هستم، است، هستند) همراه با فرم -ing تشکیل می‌شود."
+      },
+      "examples": [
+        {
+          "front": "She is reading a book.",
+          "explanation": "'Is reading' is in the present continuous tense, indicating an action happening right now.",
+          "back": "او در حال خواندن یک کتاب است. 'در حال خواندن است' در زمان حال استمراری است و نشان می‌دهد که یک عمل هم اکنون در حال انجام است."
+        },
+        {
+          "front": "They are studying for their exams.",
+          "explanation": "'Are studying' is in the present continuous tense, indicating an ongoing action.",
+          "back": "آنها در حال مطالعه برای امتحانات شان هستند. 'در حال مطالعه هستند' در زمان حال استمراری است و نشان می‌دهد که یک عمل مداوم در حال انجام است."
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Past Continuous Tense",
+      "definition": {
+        "front": "The Past Continuous Tense is used to describe actions that were happening at a specific moment in the past, often interrupted by another action. It is formed using the verb 'to be' (was, were) followed by the -ing form of the main verb.",
+        "back": "زمان گذشته استمراری برای توصیف اعمالی که در یک لحظه خاص در گذشته در حال انجام بودند و اغلب توسط عملی دیگر قطع شدند استفاده می‌شود. این زمان با استفاده از فعل اصلی to be (بودم، بودی، بودند) همراه با فرم -ing تشکیل می‌شود."
+      },
+      "examples": [
+        {
+          "front": "She was cooking dinner when the phone rang.",
+          "explanation": "'Was cooking' is in the past continuous tense, indicating an action that was happening in the past.",
+          "back": "او در حال پختن شام بود که تلفن زنگ زد."
+        },
+        {
+          "front": "I was reading when he arrived.",
+          "explanation": "'Was reading' is in the past continuous tense, indicating an action interrupted by another action.",
+          "back": "من در حال خواندن بودم که او رسید."
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "Future Continuous Tense",
+      "definition": {
+        "front": "The Future Continuous Tense is used to describe actions that will be happening at a specific moment in the future. It is formed using 'will be' followed by the -ing form of the main verb.",
+        "back": "زمان آینده استمراری برای توصیف اعمالی که در یک لحظه خاص در آینده در حال انجام خواهند بود استفاده می‌شود. این زمان با 'will be' به همراه فعل اصلی به شکل -ing تشکیل می‌شود."
+      },
+      "examples": [
+        {
+          "front": "This time tomorrow, I will be flying to New York.",
+          "explanation": "'Will be flying' is in the future continuous tense, indicating an action happening at a specific moment in the future.",
+          "back": "این موقع فردا، من در حال پرواز به نیویورک خواهم بود."
+        },
+        {
+          "front": "At 8 PM tonight, they will be having dinner.",
+          "explanation": "'Will be having' is in the future continuous tense, indicating an ongoing action in the future.",
+          "back": "ساعت ۸ امشب، آنها در حال خوردن شام خواهند بود."
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "Adjective",
+      "definition": {
+        "front": "An adjective is a word that describes or modifies a noun or pronoun. Adjectives provide more information about an object's size, shape, age, color, origin, or material. They answer questions like 'What kind?' 'Which one?' 'How many?'",
+        "back": "صفت کلمه‌ای است که یک اسم یا ضمیر را توصیف یا تعدیل می‌کند. صفات اطلاعات بیشتری در مورد اندازه، شکل، سن، رنگ، مبدأ یا جنس یک شیء ارائه می‌دهند. آنها به سوالاتی مانند 'چه نوع؟' 'کدام یک؟' 'چند تا؟' پاسخ می‌دهند."
+      },
+      "examples": [
+        {
+          "front": "She has a big house.",
+          "explanation": "'Big' is an adjective describing the size of the house.",
+          "back": "او یک خانه بزرگ دارد. 'بزرگ' یک صفت است که اندازه خانه را توصیف می‌کند."
+        },
+        {
+          "front": "He bought a red car.",
+          "explanation": "'Red' is an adjective describing the color of the car.",
+          "back": "او یک ماشین سرخ خرید. 'سرخ' یک صفت است که رنگ ماشین را توصیف می‌کند."
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "title": "Adverbs",
+      "definition": {
+        "front": "An adverb is a word that modifies a verb, an adjective, or another adverb. Adverbs often tell us how, when, where, or to what extent something is done. Many adverbs are formed by adding '-ly' to an adjective.",
+        "back": "قید کلمه‌ای است که یک فعل، صفت یا قید دیگر را تعدیل می‌کند. قیدها اغلب به ما می‌گویند که چگونه، کجا یا تا چه حد چیزی انجام شده است. بسیاری از قیدها با افزودن '-ly' به یک صفت ساخته می‌شوند."
+      },
+      "examples": [
+        {
+          "front": "She sings beautifully.",
+          "explanation": "'Beautifully' is an adverb describing how she sings.",
+          "back": "او به زیبایی می‌خواند. 'به زیبایی' یک قید است که نحوه خواندن او را توصیف می‌کند."
+        },
+        {
+          "front": "He is very tall.",
+          "explanation": "'Very' is an adverb modifying the adjective 'tall' to indicate the extent.",
+          "back": "او بسیار قد بلند است. 'بسیار' یک قید است که مقدار بلندی او را نشان می‌دهد."
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "title": "Prepositions",
+      "definition": {
+        "front": "A preposition is a word that shows the relationship between a noun (or pronoun) and other words in a sentence. Prepositions often indicate location, direction, time, or the method by which something is done.",
+        "back": "حرف اضافه کلمه‌ای است که رابطه بین یک اسم (یا ضمیر) و دیگر کلمات در جمله را نشان می‌دهد. حرف‌های اضافه اغلب مکان، جهت، زمان یا روش انجام کاری را نشان می‌دهند."
+      },
+      "examples": [
+        {
+          "front": "The cat is on the roof.",
+          "explanation": "'On' is a preposition indicating the location of the cat.",
+          "back": "گربه روی سقف است. 'روی' یک حرف اضافه است که مکان گربه را نشان می‌دهد."
+        },
+        {
+          "front": "She is walking towards the park.",
+          "explanation": "'Towards' is a preposition indicating the direction of her movement.",
+          "back": "او به سمت پارک می‌رود. 'به سمت' یک حرف اضافه است که جهت حرکت او را نشان می‌دهد."
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "title": "Present Perfect Tense",
+      "definition": {
+        "front": "The Present Perfect Tense is used to describe actions that occurred at an unspecified time in the past or that started in the past and continue to the present. It is formed using the auxiliary verb 'have' or 'has' followed by the past participle of the main verb.",
+        "back": "زمان حال کامل برای توصیف اعمالی که در زمان نامشخصی در گذشته اتفاق افتاده‌اند یا اعمالی که در گذشته شروع شده و تا زمان حال ادامه داشته‌اند، استفاده می‌شود. از فعل کمکی 'have' یا 'has' همراه با شکل سوم فعل (past participle) استفاده می‌شود."
+      },
+      "examples": [
+        {
+          "front": "She has visited Paris.",
+          "explanation": "'Has visited' is in the present perfect tense, indicating an action that occurred at an unspecified time in the past.",
+          "back": "او به پاریس سفر کرده است."
+        },
+        {
+          "front": "They have lived here for ten years.",
+          "explanation": "'Have lived' is in the present perfect tense, indicating an action that started in the past and continues to the present.",
+          "back": "آنها به مدت ده سال اینجا زندگی کرده‌اند."
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "title": "Past Perfect Tense",
+      "definition": {
+        "front": "The Past Perfect Tense is used to describe an action that was completed before another action or point in the past. It is formed using the auxiliary verb 'had' followed by the past participle of the main verb.",
+        "back": "زمان گذشته کامل برای توصیف عملی که قبل از یک عمل یا نقطه دیگر در گذشته کامل شده است، استفاده می‌شود. از فعل کمکی 'had' همراه با شکل سوم فعل (past participle) استفاده می‌شود."
+      },
+      "examples": [
+        {
+          "front": "She had left before I arrived.",
+          "explanation": "'Had left' is in the past perfect tense, indicating that the action of leaving was completed before the action of arriving.",
+          "back": "او قبل از اینکه من برسم، رفته بود."
+        },
+        {
+          "front": "By the time he called, I had already eaten.",
+          "explanation": "'Had already eaten' is in the past perfect tense, indicating that the action of eating was completed before the time he called.",
+          "back": "وقتی او زنگ زد، من قبلاً غذا خورده بودم."
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "title": "Future Perfect Tense",
+      "definition": {
+        "front": "The Future Perfect Tense is used to describe an action that will be completed before a specific point in the future. It is formed using 'will have' followed by the past participle of the main verb.",
+        "back": "زمان آینده کامل برای توصیف عملی که قبل از یک نقطه خاص در آینده کامل خواهد شد استفاده می‌شود. از فعل کمکی 'will have' همراه با شکل سوم فعل (past participle) استفاده می‌شود."
+      },
+      "examples": [
+        {
+          "front": "By next year, she will have graduated.",
+          "explanation": "'Will have graduated' is in the future perfect tense, indicating that the action of graduating will be completed before next year.",
+          "back": "تا سال آینده، او فارغ‌التحصیل شده خواهد بود."
+        },
+        {
+          "front": "They will have finished the project by the time the manager arrives.",
+          "explanation": "'Will have finished' is in the future perfect tense, indicating that the project will be completed before the manager arrives.",
+          "back": "آنها تا زمانی که مدیر برسد، پروژه را تمام کرده‌اند."
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "title": "Present Perfect Continuous Tense",
+      "definition": {
+        "front": "The Present Perfect Continuous Tense is used to describe actions that started in the past and are still continuing or have recently stopped but have a connection to the present. It is formed using 'have been' or 'has been' followed by the -ing form of the main verb.",
+        "back": "زمان حال کامل استمراری برای توصیف اعمالی استفاده می‌شود که در گذشته شروع شده‌اند و همچنان ادامه دارند یا به تازگی متوقف شده‌اند اما ارتباطی با زمان حال دارند. از 'have been' یا 'has been' همراه با فعل اصلی -ing- استفاده می‌شود."
+      },
+      "examples": [
+        {
+          "front": "She has been working here for five years.",
+          "back": "او به مدت پنج سال در اینجا کار کرده است."
+        },
+        {
+          "front": "I have been studying all morning.",
+          "back": "من تمام صبح در حال مطالعه بودم."
+        },
+        {
+          "front": "They have been traveling since last week.",
+          "back": "آنها از هفته گذشته در حال سفر بودند."
+        },
+        {
+          "front": "He has been learning English for three years.",
+          "back": "او به مدت سه سال در حال یادگیری زبان انگلیسی بوده است."
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "title": "Past Perfect Continuous Tense",
+      "definition": {
+        "front": "The Past Perfect Continuous Tense is used to describe an action that was ongoing in the past before another action or specific time in the past. It is formed using 'had been' followed by the -ing form of the main verb.",
+        "back": "زمان گذشته کامل استمراری برای توصیف عملی استفاده می‌شود که در گذشته ادامه داشته و قبل از یک عمل دیگر یا یک زمان خاص در گذشته اتفاق افتاده است. از 'had been' همراه با فعل اصلی -ing- استفاده می‌شود."
+      },
+      "examples": [
+        {
+          "front": "She had been cooking for an hour when he arrived.",
+          "back": "او به مدت یک ساعت در حال پختن غذا بود وقتی که او رسید."
+        },
+        {
+          "front": "They had been living in the city for ten years before they moved to the countryside.",
+          "back": "آنها به مدت ده سال در شهر زندگی می‌کردند قبل از اینکه به روستا نقل مکان کنند."
+        },
+        {
+          "front": "I had been reading for two hours when the power went out.",
+          "back": "من به مدت دو ساعت در حال خواندن بودم وقتی که برق رفت."
+        },
+        {
+          "front": "She was tired because she had been working all day.",
+          "back": "او خسته بود زیرا تمام روز در حال کار کردن بود."
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "title": "Future Perfect Continuous Tense",
+      "definition": {
+        "front": "The Future Perfect Continuous Tense is used to describe an action that will have been ongoing for a certain period of time before a specific point in the future. It is formed using 'will have been' followed by the -ing form of the main verb.",
+        "back": "زمان آینده کامل استمراری برای توصیف عملی استفاده می‌شود که تا یک زمان مشخص در آینده در حال انجام بوده و برای یک مدت زمانی ادامه داشته است. از 'will have been' همراه با فعل اصلی -ing- استفاده می‌شود."
+      },
+      "examples": [
+        {
+          "front": "By next year, she will have been working here for ten years.",
+          "back": "تا سال آینده، او به مدت ده سال اینجا کار کرده خواهد بود."
+        },
+        {
+          "front": "They will have been studying for hours by the time you arrive.",
+          "back": "آنها تا زمانی که تو برسی، به مدت چند ساعت مطالعه کرده خواهند بود."
+        },
+        {
+          "front": "He will have been practicing for months by the time of the concert.",
+          "back": "او تا زمان کنسرت، به مدت چند ماه تمرین کرده خواهد بود."
+        },
+        {
+          "front": "We will have been living in this house for five years by next June.",
+          "back": "ما تا جون آینده، به مدت پنج سال در این خانه زندگی کرده خواهیم بود."
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "title": "Conditionals (If-clauses)",
+      "definition": {
+        "front": "Conditionals are sentences that express a condition and its possible result. There are four main types of conditionals: zero, first, second, and third.",
+        "back": "جملات شرطی جملاتی هستند که یک شرط را بیان می‌کنند و یک نتیجه احتمالی. چهار نوع اصلی از جملات شرطی وجود دارد: صفر، اول، دوم، و سوم."
+      },
+      "examples": [
+        {
+          "front": "Zero Conditional (General Truths)",
+          "back": "اگر آب را تا ۱۰۰ درجه سانتیگراد گرم کنید، می‌جوشد."
+        },
+        {
+          "front": "First Conditional (Real Possibility)",
+          "back": "اگر باران ببارد، داخل می‌مانیم."
+        },
+        {
+          "front": "Second Conditional (Unreal or Hypothetical Situation)",
+          "back": "اگر ثروتمند بودم، به دور دنیا سفر می‌کردم."
+        },
+        {
+          "front": "Third Conditional (Unreal Past Situations)",
+          "back": "اگر او سخت‌تر درس می‌خواند، امتحان را قبول می‌شد."
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "title": "Modal Verbs",
+      "definition": {
+        "front": "Modal verbs express necessity, possibility, permission, ability, or obligation. Common modal verbs are can, may, must, should, and will.",
+        "back": "افعال کمکی به بیان ضرورت، امکان، اجازه، توانایی یا تعهد می‌پردازند. افعال کمکی رایج شامل can, may, must, should, will هستند."
+      },
+      "examples": [
+        {
+          "front": "She can speak three languages. (Expressing Ability)",
+          "back": "او می‌تواند سه زبان صحبت کند."
+        },
+        {
+          "front": "May I leave early today? (Expressing Permission)",
+          "back": "آیا می‌توانم امروز زودتر بروم؟"
+        },
+        {
+          "front": "You must wear a helmet while riding a bike. (Expressing Obligation)",
+          "back": "شما باید هنگام دوچرخه‌سواری کلاه ایمنی بپوشید."
+        },
+        {
+          "front": "It might rain tomorrow. (Expressing Possibility)",
+          "back": "ممکن است فردا باران ببارد."
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "title": "Passive Voice",
+      "definition": {
+        "front": "The passive voice is used when the focus is on the action or the object of the action rather than on who or what is performing the action.",
+        "back": "زمان مجهول زمانی استفاده می‌شود که تمرکز روی موضوع عمل باشد نه روی فرد یا چیزی که عمل را انجام می‌دهد."
+      },
+      "examples": [
+        {
+          "front": "The letters are delivered every morning.",
+          "explanation": "Are delivered is in the passive voice, focusing on the action of delivering.",
+          "back": "نامه‌ها هر روز صبح تحویل داده می‌شوند."
+        },
+        {
+          "front": "The cake was baked by my mother.",
+          "explanation": "Was baked is in the passive voice, focusing on the action rather than who performed it.",
+          "back": "کیک توسط مادرم پخته شد."
+        },
+        {
+          "front": "The project has been completed.",
+          "explanation": "Has been completed is in the passive voice, focusing on the completion of the project.",
+          "back": "پروژه تکمیل شده است."
+        },
+        {
+          "front": "The new bridge will be built next year.",
+          "explanation": "Will be built is in the passive voice, focusing on the construction of the bridge.",
+          "back": "پل جدید سال آینده ساخته خواهد شد."
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "title": "Relative Clauses",
+      "definition": {
+        "front": "A relative clause is a type of dependent clause that modifies a noun or pronoun in the main clause. It provides additional information about the noun or pronoun. Relative clauses often begin with a relative pronoun such as 'who', 'whom', 'whose', 'which', or 'that'.",
+        "back": "نوعی جمله وابسته است که یک اسم یا ضمیری را در جمله اصلی توصیف می‌کند. این جمله اطلاعات اضافی درباره اسم یا ضمیر ارائه می‌دهد."
+      },
+      "examples": [
+        {
+          "front": "The man who lives next door is a doctor.",
+          "back": "مردی که در همسایگی زندگی می‌کند دکتر است."
+        },
+        {
+          "front": "My brother, who is a teacher, lives in New York.",
+          "back": "برادرم، که معلم است، در نیویورک زندگی می‌کند."
+        },
+        {
+          "front": "The book, which I bought yesterday, is very interesting.",
+          "back": "کتابی که دیروز خریدم، بسیار جالب است."
+        },
+        {
+          "front": "The car that I drive is very fast.",
+          "back": "ماشینی که من می‌رانم بسیار سریع است."
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "title": "Reported Speech",
+      "definition": {
+        "front": "Reported speech is used to convey what someone else has said without quoting their exact words. It involves changes in pronouns, verb tenses, and time expressions.",
+        "back": "برای بیان آنچه کسی دیگر گفته است بدون استفاده از کلمات دقیق او استفاده می‌شود. تغییرات شامل ضمیرها، زمان افعال و عبارات زمان می‌شود."
+      },
+      "examples": [
+        {
+          "front": "She said, 'I like ice cream.'",
+          "back": "او گفت: 'من بستنی دوست دارم.'"
+        },
+        {
+          "front": "She said that she liked ice cream.",
+          "back": "او گفت که بستنی دوست داشت."
+        },
+        {
+          "front": "He said, 'I am reading a book.'",
+          "back": "او گفت: 'من در حال خواندن یک کتاب هستم.'"
+        },
+        {
+          "front": "He said that he was reading a book.",
+          "back": "او گفت که در حال خواندن کتاب بود."
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "title": "Subjunctive Mood",
+      "definition": {
+        "front": "The subjunctive mood is used to express wishes, suggestions, demands, or hypothetical situations that are not real. It often begins with clauses like 'that' after verbs such as 'suggest', 'recommend', 'demand', or 'wish'.",
+        "back": "وجه التزامی برای آرزوها، پیشنهادها، درخواست‌ها یا موقعیت‌های فرضی که واقعی نیستند استفاده می‌شود. معمولاً با جمله‌هایی که 'که' پس از افعالی مانند 'پیشنهاد دادن' یا 'آرزو کردن' شروع می‌شود."
+      },
+      "examples": [
+        {
+          "front": "I wish that we were here.",
+          "back": "آرزو می‌کنم که اینجا بودیم."
+        },
+        {
+          "front": "I suggest that she study harder.",
+          "back": "پیشنهاد می‌کنم که او بیشتر مطالعه کند."
+        },
+        {
+          "front": "The teacher demands that the student be on time.",
+          "back": "معلم درخواست می‌کند که دانش‌آموز به موقع باشد."
+        },
+        {
+          "front": "If I were you, I would apologize.",
+          "back": "اگر من جای تو بودم، عذرخواهی می‌کردم."
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "title": "Gerunds and Infinitives",
+      "definition": {
+        "front": "Gerunds are the -ing form of a verb that functions as a noun in a sentence. Infinitives are the base form of a verb, often preceded by 'to,' and can function as a noun, adjective, or adverb.",
+        "back": "افعال مصدر که به شکل اسم عمل می‌کنند، مصدرها (Gerunds) فرم ing فعل هستند که به عنوان اسم در جمله عمل می‌کنند. مصدرهای to به عنوان فعل‌، اسم یا صفت عمل می‌کنند."
+      },
+      "examples": [
+        {
+          "front": "Swimming is a good exercise.",
+          "back": "شنا کردن یک تمرین خوب است."
+        },
+        {
+          "front": "To travel is my dream.",
+          "back": "سفر کردن آرزوی من است."
+        },
+        {
+          "front": "I enjoy reading books.",
+          "back": "من از کتاب خواندن لذت می‌برم."
+        },
+        {
+          "front": "She wants to learn Spanish.",
+          "back": "او اسپانیایی یادگرفتن را می‌خواهد."
+        }
+      ]
+    },
+    {
+      "lesson": 26,
+      "title": "Articles (A, An, The)",
+      "definition": {
+        "front": "Articles are words that define a noun as specific or unspecific. The indefinite articles 'a' and 'an' are used with singular, countable nouns when referring to something non-specific. 'The' is the definite article used with both singular and plural nouns when referring to something specific.",
+        "back": "کلماتی هستند که یک اسم را به عنوان مشخص یا نامشخص تعریف می‌کنند. حروف تعریف Articles (a, an) و (the) به ترتیب برای اسامی مفرد و جمع مشخص استفاده می‌شوند."
+      },
+      "examples": [
+        {
+          "front": "I saw a cat in the garden.",
+          "back": "یک گربه در باغ دیدم."
+        },
+        {
+          "front": "She has an apple.",
+          "back": "او یک سیب دارد."
+        },
+        {
+          "front": "The book on the table is mine.",
+          "back": "این کتاب روی میز متعلق به من است."
+        },
+        {
+          "front": "The students are in the classroom.",
+          "back": "این دانش‌آموزان در کلاس حضور دارند."
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "title": "Conjunctions",
+      "definition": {
+        "front": "Conjunctions are words that connect words, phrases, or clauses. There are three main types of conjunctions: coordinating (e.g., and, but, or), subordinating (e.g., because, although, if), and correlative (e.g., either...or, neither...nor).",
+        "back": "کلماتی هستند که کلمات، عبارات یا جملات را به هم متصل می‌کنند. سه نوع اصلی حروف ربط وجود دارند: هماهنگ (مانند and, but, or), وابسته (مانند because, although, if) و دوگانه (مانند either...or, neither...nor)."
+      },
+      "examples": [
+        {
+          "front": "I want to buy a shirt and a pair of shoes.",
+          "back": "من می‌خواهم یک پیراهن و یک جفت کفش بخرم."
+        },
+        {
+          "front": "She stayed home because she was sick.",
+          "back": "او به خانه ماند زیرا بیمار بود."
+        },
+        {
+          "front": "You can either have tea or coffee.",
+          "back": "می‌توانید یا چای یا قهوه داشته باشید."
+        },
+        {
+          "front": "He went to the park although it was raining.",
+          "back": "او به پارک رفت اگرچه باران می‌بارید."
+        }
+      ]
+    },
+    {
+      "lesson": 28,
+      "title": "Active vs. Passive Voice",
+      "definition": {
+        "front": "The active voice is used when the subject of the sentence performs the action expressed by the verb. The passive voice is used when the focus is on the action or the object of the action rather than on the subject performing the action.",
+        "back": "زمانی استفاده میشود که فاعل جمله عملی را انجام میدهد. فعل معلوم (Active Voice) فعل جمله‌ای است که توسط فاعل انجام میشود، فعل معلوم (Passive Voice) فعل جمله‌ای است که در آن مفعول جمله عمل را انجام میدهد و از طریق شکل سوم فعل به همراه to be استفاده میشود."
+      },
+      "examples": [
+        {
+          "front": "Active Voice: The chef cooked the meal.",
+          "back": "آشپز غذا را پخت."
+        },
+        {
+          "front": "Cooked is an active verb, with the subject chef performing the action.",
+          "back": "پخت. فعل معلوم است و فاعل آشپز عمل را انجام میدهد."
+        },
+        {
+          "front": "Passive Voice: The meal was cooked by the chef.",
+          "back": "غذا توسط آشپز پخته شد."
+        },
+        {
+          "front": "Was cooked is a passive verb, focusing on the action of cooking rather than who performed it.",
+          "back": "فعل مجهول است و تمرکز بر عمل پختن غذا است."
+        }
+      ]
+    },
+    {
+      "lesson": 29,
+      "title": "Clauses (Independent and Dependent)",
+      "definition": {
+        "front": "A clause is a group of words that contains a subject and a predicate. An independent clause can stand alone as a complete sentence. A dependent clause cannot stand alone as a sentence and depends on an independent clause to give it meaning.",
+        "back": "گروهی از کلمات است که شامل فاعل و گزاره هستند. جمله‌واره مستقل می‌تواند به تنهایی جمله کاملی باشد. جمله‌واره وابسته نمی‌تواند به تنهایی جمله‌ای باشد و به جمله‌واره مستقل نیاز دارد تا معنی دهد."
+      },
+      "examples": [
+        {
+          "front": "Independent Clause: She went to the store.",
+          "back": "او به فروشگاه رفت."
+        },
+        {
+          "front": "This is an independent clause because it expresses a complete thought.",
+          "back": "این جمله مستقل است چون یک فکر کامل را بیان می‌کند."
+        },
+        {
+          "front": "Dependent Clause: When she arrived, the store was closed.",
+          "back": "وقتی او رسید، فروشگاه بسته بود."
+        },
+        {
+          "front": "This is a dependent clause because it does not express a complete thought on its own.",
+          "back": "این جمله وابسته است و به یک جمله مستقل نیاز دارد."
+        }
+      ]
+    },
+    {
+      "lesson": 30,
+      "title": "Phrasal Verbs",
+      "definition": {
+        "front": "Phrasal verbs are combinations of a verb and one or more particles (prepositions or adverbs) that together create a meaning different from the original verb. Common examples include 'give up,' 'look after,' and 'run into.'",
+        "back": "افعال ترکیبی از یک فعل و یک یا چند جزء اضافی (حروف اضافه یا قید) تشکیل می‌شوند که معنی متفاوتی از فعل اصلی دارند."
+      },
+      "examples": [
+        {
+          "front": "Phrasal Verb: Give up.",
+          "back": "ترک کردن"
+        },
+        {
+          "front": "Give up means to quit or stop doing something.",
+          "back": "به معنی ترک کردن یا دست کشیدن از انجام کاری است."
+        },
+        {
+          "front": "Phrasal Verb: Look after.",
+          "back": "مراقبت کردن"
+        },
+        {
+          "front": "Look after means to take care of someone.",
+          "back": "به معنی مراقبت از کسی است."
+        },
+        {
+          "front": "Phrasal Verb: Run into.",
+          "back": "اتفاقی دیدن"
+        },
+        {
+          "front": "Run into means to meet someone by chance.",
+          "back": "به معنی دیدن کسی به طور اتفاقی است."
+        }
+      ]
+    },
+    {
+      "lesson": 31,
+      "title": "Adjective Clauses",
+      "definition": {
+        "front": "An adjective clause is a type of dependent clause that describes or gives more information about a noun or pronoun in a sentence. Adjective clauses usually begin with a relative pronoun such as 'who,' 'whom,' 'whose,' 'which,' or 'that,' or with a relative adverb like 'where,' 'when,' or 'why.' These clauses provide essential or non-essential information and usually follow the noun or pronoun they modify.",
+        "back": "نوعی جمله‌واره وابسته است که یک اسم یا ضمیر را در جمله اصلی توصیف یا اطلاعات بیشتری درباره آن ارائه می‌دهد. جمله‌واره‌های صفتی معمولاً با ضمیرهای نسبی 'who,' 'whom,' 'whose,' 'which,' 'that' یا با قیدهای نسبی 'where,' 'when,' 'why' شروع می‌شوند. این جمله‌واره‌ها اطلاعات ضروری یا غیرضروری را ارائه می‌دهند و معمولاً بعد از اسم یا ضمیری که آن را توصیف می‌کنند می‌آیند."
+      },
+      "examples": [
+        {
+          "front": "The book that I borrowed was fascinating.",
+          "back": "کتابی که من قرض گرفتم جذاب بود."
+        },
+        {
+          "front": "My friend, who is a doctor, lives in London.",
+          "back": "دوست من، که دکتر است، در لندن زندگی می‌کند."
+        },
+        {
+          "front": "This is the place where we met.",
+          "back": "این همان جایی است که ما ملاقات کردیم."
+        },
+        {
+          "front": "I remember the day when we first met.",
+          "back": "من آن روز که برای اولین بار ملاقات کردیم را به یاد دارم."
+        }
+      ]
+    },
+    {
+      "lesson": 32,
+      "title": "Noun Clauses",
+      "definition": {
+        "front": "A noun clause is a dependent clause that functions as a noun within a sentence. It can act as a subject, object, or complement and usually begins with words like 'that,' 'what,' 'who,' 'whom,' 'whose,' 'which,' 'why,' 'where,' 'when,' 'whether,' or 'how.' Noun clauses are essential to the sentence's meaning and cannot stand alone.",
+        "back": "جمله‌واره اسمی نوعی جمله‌واره وابسته است که به عنوان یک اسم در جمله عمل می‌کند. این جمله‌واره‌ها می‌توانند به عنوان فاعل، مفعول، یا مکمل عمل کنند و معمولاً با کلماتی مانند 'that,' 'what,' 'who,' 'whom,' 'whose,' 'which,' 'why,' 'where,' 'when,' 'whether,' یا 'how' شروع می‌شوند. جمله‌واره‌های اسمی برای معنی جمله ضروری هستند و نمی‌توانند به تنهایی عمل کنند."
+      },
+      "examples": [
+        {
+          "front": "What she said was surprising.",
+          "back": "آنچه او گفت شگفت‌آور بود."
+        },
+        {
+          "front": "I don’t know where he went.",
+          "back": "من نمی‌دانم کجا رفت."
+        },
+        {
+          "front": "The problem is that we have no money.",
+          "back": "مشکل این است که ما پول نداریم."
+        },
+        {
+          "front": "I wonder whether he will come.",
+          "back": "من تعجب می‌کنم آیا او خواهد آمد."
+        }
+      ]
+    },
+    {
+      "lesson": 33,
+      "title": "Appositive Phrases",
+      "definition": {
+        "front": "An appositive phrase is a noun or noun phrase that renames or provides additional information about a noun next to it. Appositives can be essential or non-essential. Essential appositives are necessary to understand the meaning of the sentence, while non-essential appositives add extra information and are usually set off by commas.",
+        "back": "عبارت اسمی اضافی (Appositive Phrase) یک اسم یا عبارت اسمی است که نام دیگری برای یک اسم در کنار آن ارائه می‌دهد. عبارات وصفی می‌توانند ضروری یا غیرضروری باشند. عبارات وصفی ضروری برای درک معنی جمله لازم هستند، در حالی که عبارات وصفی غیرضروری اطلاعات اضافی ارائه می‌دهند و معمولاً با کاما جدا می‌شوند."
+      },
+      "examples": [
+        {
+          "front": "My friend Sarah is coming over tonight.",
+          "back": "دوست من سارا امشب می‌آید."
+        },
+        {
+          "front": "My brother, a skilled musician, plays the piano.",
+          "back": "برادرم، یک نوازنده ماهر، پیانو می‌نوازد."
+        },
+        {
+          "front": "The city New York is known for its skyscrapers.",
+          "back": "شهر نیویورک به آسمان‌خراش‌هایش معروف است."
+        },
+        {
+          "front": "My pet, a golden retriever, is very friendly.",
+          "back": "حیوان خانگی من، یک سگ گلدن رتریور، بسیار دوستانه است."
+        }
+      ]
+    },
+    {
+      "lesson": 34,
+      "title": "Comparative and Superlative Adjectives",
+      "definition": {
+        "front": "Comparative adjectives are used to compare two nouns, showing a difference in degree or quality. They are typically formed by adding '-er' to the end of a short adjective (e.g., 'taller') or by using 'more' before a longer adjective (e.g., 'more beautiful'). Superlative adjectives are used to describe the highest degree of quality among three or more nouns.",
+        "back": "برای مقایسه دو اسم استفاده می‌شوند و نشان‌دهنده تفاوت در درجه یا کیفیت هستند. آنها معمولاً با اضافه کردن '-er' به انتهای یک صفت کوتاه (مانند 'تُندتر') یا با استفاده از 'more' برای یک صفت طولانی‌تر (مانند 'زیباتر') ساخته می‌شوند."
+      },
+      "examples": [
+        {
+          "front": "She is taller than her brother.",
+          "back": "او از برادرش بلندتر است."
+        },
+        {
+          "front": "This book is more interesting than the other one.",
+          "back": "این کتاب جالب‌تر از دیگری است."
+        },
+        {
+          "front": "She is the tallest person in the class.",
+          "back": "او بلندترین فرد در کلاس است."
+        },
+        {
+          "front": "This is the most beautiful painting in the gallery.",
+          "back": "این زیباترین نقاشی در گالری است."
+        }
+      ]
+    },
+    {
+      "lesson": 35,
+      "title": "Conditionals (Zero, First, Second, Third)",
+      "definition": {
+        "front": "Conditionals are sentences that express a condition and its possible result. There are four main types of conditionals: Zero (general truths), First (real possibilities), Second (hypothetical situations), and Third (unreal past situations).",
+        "back": "جملات شرطی که یک شرط و نتیجه ممکن آن را بیان می‌کنند. چهار نوع اصلی وجود دارد: شرط صفر (حقایق عمومی)، شرط اول (امکان واقعی)، شرط دوم (شرایط فرضی)، و شرط سوم (شرایط غیر واقعی در گذشته)."
+      },
+      "examples": [
+        {
+          "front": "If you heat ice, it melts. (Zero Conditional)",
+          "back": "اگر یخ را گرم کنید، ذوب می‌شود."
+        },
+        {
+          "front": "If it rains, we will stay home. (First Conditional)",
+          "back": "اگر باران ببارد، در خانه خواهیم ماند."
+        },
+        {
+          "front": "If I were you, I would apologize. (Second Conditional)",
+          "back": "اگر من جای تو بودم، عذرخواهی می‌کردم."
+        },
+        {
+          "front": "If she had studied, she would have passed the exam. (Third Conditional)",
+          "back": "اگر درس خوانده بود، امتحان را پاس می‌کرد."
+        }
+      ]
+    },
+    {
+      "lesson": 36,
+      "title": "Direct and Indirect Questions",
+      "definition": {
+        "front": "Direct questions are straightforward questions asked directly to someone, often starting with a question word (who, what, when, etc.) or an auxiliary verb (do, does, did, etc.). Indirect questions are more polite or formal ways of asking for information, often embedded in other statements or questions.",
+        "back": "سوالات مستقیم که به طور مستقیم از کسی پرسیده می‌شوند. سوالات غیرمستقیم معمولاً رسمی‌تر هستند و اغلب در جملات دیگر تعبیه می‌شوند."
+      },
+      "examples": [
+        {
+          "front": "Where is the station? (Direct Question)",
+          "back": "ایستگاه کجاست؟"
+        },
+        {
+          "front": "Can you tell me where the station is? (Indirect Question)",
+          "back": "می‌توانید به من بگویید ایستگاه کجاست؟"
+        },
+        {
+          "front": "What time does the train leave? (Direct Question)",
+          "back": "قطار چه زمانی حرکت می‌کند؟"
+        },
+        {
+          "front": "Do you know what time the train leaves? (Indirect Question)",
+          "back": "آیا می‌دانید قطار چه زمانی حرکت می‌کند؟"
+        }
+      ]
+    },
+    {
+      "lesson": 37,
+      "title": "Modal Verbs",
+      "definition": {
+        "front": "Modal verbs are auxiliary verbs that express necessity, possibility, permission, ability, or obligation. Common modal verbs include 'can,' 'could,' 'may,' 'might,' 'must,' 'shall,' 'should,' 'will,' and 'would.' Modal verbs do not change form according to the subject and are always followed by the base form of the main verb. They are used to express different degrees of certainty, necessity, and permission.",
+        "back": "افعال کمکی هستند که ضرورت، امکان، اجازه، توانایی یا الزام را بیان می‌کنند. افعال مدال مانند «می‌تواند»، «می‌تواند»، «ممکن است»، «ممکن است»، «باید»، «باید»، «باید»، «باید»، «خواهد شد» و «خواهد بود». افعال مدال بر اساس فاعل فرم تغییر نمی‌کنند و همیشه با شکل اصلی فعل دنبال می‌شوند. آنها برای بیان درجات مختلف قطعیت، ضرورت و اجازه استفاده می شوند."
+      },
+      "examples": [
+        {
+          "front": "Expressing Possibility: \n- English: 'It might rain later.'\n- Explanation: 'Might' is a modal verb expressing a possibility.",
+          "back": "بیان امکان: \n- فارسی: 'ممکن است بعداً باران ببارد.'\n- توضیح: 'ممکن است' یک فعل مدال است که بیان امکان را نشان می‌دهد."
+        },
+        {
+          "front": "Expressing Permission: \n- English: 'You can leave early if you want.'\n- Explanation: 'Can' is a modal verb giving permission.",
+          "back": "بیان اجازه: \n- فارسی: 'می‌توانید اگر می‌خواهید زودتر بروید.'\n- توضیح: 'می‌تواند' یک فعل مدال است که اجازه را بیان می‌کند."
+        },
+        {
+          "front": "Expressing Obligation: \n- English: 'You must wear a seatbelt.'\n- Explanation: 'Must' is a modal verb expressing obligation or necessity.",
+          "back": "بیان الزام: \n- فارسی: 'باید کمربند ایمنی ببندید.'\n- توضیح: 'باید' یک فعل مدال است که الزام را بیان می‌کند."
+        },
+        {
+          "front": "Expressing Ability: \n- English: 'She can speak three languages.'\n- Explanation: 'Can' is a modal verb expressing ability.",
+          "back": "بیان توانایی: \n- فارسی: 'او می‌تواند سه زبان صحبت کند.'\n- توضیح: 'می‌تواند' یک فعل مدال است که توانایی را بیان می‌کند."
+        }
+      ]
+    },
+    {
+      "lesson": 38,
+      "title": "Reported Speech",
+      "definition": {
+        "front": "Reported speech (also known as indirect speech) is used to convey what someone else has said without quoting their exact words. It often involves changes in pronouns, verb tenses, and time expressions. In reported speech:\n- Statements are often introduced with 'said' or 'told' and may involve changes in verb tense.\n- Questions are usually introduced with 'asked' and the word order changes to a statement format.\n- Commands are reported using 'told' or 'asked' with the verb in the infinitive form.",
+        "back": "گزارش گفتار (همچنین به عنوان گفتار غیرمستقیم شناخته می شود) برای بیان چیزی که شخص دیگری گفته است بدون ذکر دقیق کلمات آنها استفاده می شود. معمولاً شامل تغییراتی در ضمایر، زمان افعال و عبارات زمانی است. در گفتار غیرمستقیم: \n- جملات اغلب با 'گفت' یا 'گفت' معرفی می شوند و ممکن است شامل تغییرات در زمان فعل باشند.\n- سوالات معمولاً با 'پرسید' معرفی می شوند و ترتیب کلمات به فرمت جمله تغییر می کند.\n- دستورات با استفاده از 'گفت' یا 'پرسید' با فعل در شکل مصدر گزارش می شوند."
+      },
+      "examples": [
+        {
+          "front": "Reported Statement: \n- Direct: 'I am tired,' she said.\n- Reported: 'She said that she was tired.'\n- Explanation: The verb 'am' changes to 'was' in reported speech.",
+          "back": "گزارش جمله: \n- مستقیم: 'خسته ام' او گفت.\n- گزارش شده: 'او گفت که خسته است.'\n- توضیح: فعل 'هستم' به 'بود' در گفتار غیرمستقیم تغییر می‌کند."
+        },
+        {
+          "front": "Reported Question: \n- Direct: 'Where do you live?' she asked.\n- Reported: 'She asked where I lived.'\n- Explanation: The question 'Where do you live?' changes to a statement 'where I lived' in reported speech.",
+          "back": "گزارش سؤال: \n- مستقیم: 'کجا زندگی می‌کنید؟' او پرسید.\n- گزارش شده: 'او پرسید که کجا زندگی می‌کنم.'\n- توضیح: سوال 'کجا زندگی می‌کنید؟' به جمله 'کجا زندگی می‌کردم' در گفتار غیرمستقیم تغییر می‌کند."
+        },
+        {
+          "front": "Reported Command: \n- Direct: 'Close the door,' he told her.\n- Reported: 'He told her to close the door.'\n- Explanation: The command 'Close the door' is reported as 'to close the door.'",
+          "back": "گزارش فرمان: \n- مستقیم: 'در را ببند' او به او گفت.\n- گزارش شده: 'او به او گفت در را ببندد.'\n- توضیح: دستور 'در را ببند' به 'ببندد' در گفتار غیرمستقیم تغییر می‌کند."
+        },
+        {
+          "front": "Reported Statement with 'Said': \n- Direct: 'I will be late,' John said.\n- Reported: 'John said that he would be late.'\n- Explanation: The verb 'will' changes to 'would' in reported speech.",
+          "back": "گزارش جمله با 'گفت': \n- مستقیم: 'من دیر خواهم کرد' جان گفت.\n- گزارش شده: 'جان گفت که او دیر خواهد کرد.'\n- توضیح: فعل 'خواهد' به 'می‌بود' در گفتار غیرمستقیم تغییر می‌کند."
+        }
+      ]
+    },
+    {
+      "lesson": 39,
+      "title": "Reflexive Pronouns",
+      "definition": {
+        "front": "Reflexive pronouns are used when the subject and the object of a sentence are the same person or thing. They are formed by adding '-self' (singular) or '-selves' (plural) to personal pronouns (e.g., myself, yourself, himself, herself, itself, ourselves, yourselves, themselves). Reflexive pronouns are used for emphasis or to indicate that the action of the verb is directed back to the subject.",
+        "back": "ضمایر انعکاسی زمانی استفاده می‌شوند که فاعل و مفعول جمله یک شخص یا چیز هستند. آنها با اضافه کردن '-خود' (مفرد) یا '-خودشان' (جمع) به ضمایر شخصی تشکیل می‌شوند. ضمایر انعکاسی برای تأکید یا نشان دادن اینکه عمل فعل به فاعل باز می‌گردد استفاده می‌شوند."
+      },
+      "examples": [
+        {
+          "front": "Reflexive Pronoun as Object: \n- English: 'She looked at herself in the mirror.'\n- Explanation: 'Herself' is a reflexive pronoun, indicating that she is looking at herself.",
+          "back": "ضمیر انعکاسی به عنوان مفعول: \n- فارسی: 'او به خودش در آینه نگاه کرد.'\n- توضیح: 'خودش' یک ضمیر انعکاسی است که نشان می‌دهد او به خودش نگاه می‌کند."
+        },
+        {
+          "front": "Reflexive Pronoun for Emphasis: \n- English: 'I did the work myself.'\n- Explanation: 'Myself' is used to emphasize that 'I' did the work alone.",
+          "back": "ضمیر انعکاسی برای تأکید: \n- فارسی: 'من کار را به تنهایی انجام دادم.'\n- توضیح: 'خودم' برای تأکید استفاده می‌شود که من به تنهایی کار را انجام دادم."
+        },
+        {
+          "front": "Reflexive Pronoun as Indirect Object: \n- English: 'They bought themselves new clothes.'\n- Explanation: 'Themselves' is a reflexive pronoun indicating that they bought new clothes for themselves.",
+          "back": "ضمیر انعکاسی به عنوان مفعول غیرمستقیم: \n- فارسی: 'آنها برای خودشان لباس‌های جدید خریدند.'\n- توضیح: 'خودشان' یک ضمیر انعکاسی است که نشان می‌دهد آنها برای خودشان لباس خریدند."
+        },
+        {
+          "front": "Reflexive Pronoun in a Prepositional Phrase: \n- English: 'He did it by himself.'\n- Explanation: 'Himself' is a reflexive pronoun used to emphasize that he did it alone.",
+          "back": "ضمیر انعکاسی در عبارت حرف اضافه‌ای: \n- فارسی: 'او این کار را به تنهایی انجام داد.'\n- توضیح: 'خودش' یک ضمیر انعکاسی است که تأکید می‌کند او آن را به تنهایی انجام داد."
+        }
+      ]
+    }
+  ]
+}

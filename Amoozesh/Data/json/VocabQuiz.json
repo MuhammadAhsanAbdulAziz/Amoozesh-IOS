@@ -1,0 +1,1571 @@
+{
+  "quizzes": [
+    {
+      "quiz": [
+        {
+          "question": "Hello",
+          "answers": [
+            "مرکشتم",
+            "ظJڡاحادح",
+            "ملاس"
+          ],
+          "correctAnswer": "ملاس"
+        },
+        {
+          "question": "Mother",
+          "answers": [
+            "ردار",
+            "ردام",
+            "ردٮ"
+          ],
+          "correctAnswer": "ردام"
+        },
+        {
+          "question": "Two",
+          "answers": [
+            "راهح",
+            "هس",
+            "ود"
+          ],
+          "correctAnswer": "ود"
+        },
+        {
+          "question": "Goodbye",
+          "answers": [
+            "هن",
+            "ظJڡاحادح",
+            "هلٮ"
+          ],
+          "correctAnswer": "ظJڡاحادح"
+        },
+        {
+          "question": "Brother",
+          "answers": [
+            "رتحد",
+            "ردارٮ",
+            "رهاوح"
+          ],
+          "correctAnswer": "ردارٮ"
+        },
+        {
+          "question": "Five",
+          "answers": [
+            "تJڡه",
+            "شش",
+            "جنٮ"
+          ],
+          "correctAnswer": "جنٮ"
+        },
+        {
+          "question": "Please",
+          "answers": [
+            "د<ٮشح",
+            "اJڡطل",
+            "مهاوحیم ترذعم"
+          ],
+          "correctAnswer": "اJڡطل"
+        },
+        {
+          "question": "Daughter",
+          "answers": [
+            "رهوش",
+            "رتحد",
+            "رسٮ"
+          ],
+          "correctAnswer": "رتحد"
+        },
+        {
+          "question": "Ten",
+          "answers": [
+            "هد",
+            "هن",
+            "تشه"
+          ],
+          "correctAnswer": "هد"
+        },
+        {
+          "question": "Yes",
+          "answers": [
+            "مرکشتم",
+            "هلٮ",
+            "هن"
+          ],
+          "correctAnswer": "هلٮ"
+        },
+        {
+          "question": "Son",
+          "answers": [
+            "رد",
+            "رهوش",
+            "رسٮ"
+          ],
+          "correctAnswer": "رسٮ"
+        },
+        {
+          "question": "Three",
+          "answers": [
+            "ود",
+            "هس",
+            "ک<ٮ"
+          ],
+          "correctAnswer": "هس"
+        },
+        {
+          "question": "I'm sorry",
+          "answers": [
+            "د<ٮشح",
+            "ظJڡاحادح",
+            "مهاوحیم ترذعم"
+          ],
+          "correctAnswer": "مهاوحیم ترذعم"
+        },
+        {
+          "question": "Uncle",
+          "answers": [
+            "ود ره",
+            "كاكا",
+            "امام"
+          ],
+          "correctAnswer": "ود ره"
+        },
+        {
+          "question": "Four",
+          "answers": [
+            "هس",
+            "راهح",
+            "ود"
+          ],
+          "correctAnswer": "راهح"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Red",
+          "answers": [
+            "آتی",
+            "سرخ",
+            "سبز"
+          ],
+          "correctAnswer": "سرخ"
+        },
+        {
+          "question": "Monday",
+          "answers": [
+            "دوشنبه",
+            "سه‌شنبه",
+            "چهارشنبه"
+          ],
+          "correctAnswer": "دوشنبه"
+        },
+        {
+          "question": "January",
+          "answers": [
+            "فوریه",
+            "مارچ",
+            "جولای"
+          ],
+          "correctAnswer": "جولای"
+        },
+        {
+          "question": "Blue",
+          "answers": [
+            "آبی",
+            "زرد",
+            "سیاه"
+          ],
+          "correctAnswer": "آبی"
+        },
+        {
+          "question": "Wednesday",
+          "answers": [
+            "چهارشنبه",
+            "پنجشنبه",
+            "جمعه"
+          ],
+          "correctAnswer": "چهارشنبه"
+        },
+        {
+          "question": "April",
+          "answers": [
+            "آوریل",
+            "جون",
+            "جولای"
+          ],
+          "correctAnswer": "آوریل"
+        },
+        {
+          "question": "Green",
+          "answers": [
+            "سبز",
+            "سیاه",
+            "قهوه‌ای"
+          ],
+          "correctAnswer": "سبز"
+        },
+        {
+          "question": "Friday",
+          "answers": [
+            "جمعه",
+            "یکشنبه",
+            "شنبه"
+          ],
+          "correctAnswer": "جمعه"
+        },
+        {
+          "question": "October",
+          "answers": [
+            "نوامبر",
+            "اکتبر",
+            "سپتامبر"
+          ],
+          "correctAnswer": "اکتبر"
+        },
+        {
+          "question": "White",
+          "answers": [
+            "سفید",
+            "کلایین",
+            "ایشفن"
+          ],
+          "correctAnswer": "سفید"
+        },
+        {
+          "question": "Sunday",
+          "answers": [
+            "یکشنبه",
+            "شنبه",
+            "دوشنبه"
+          ],
+          "correctAnswer": "یکشنبه"
+        },
+        {
+          "question": "August",
+          "answers": [
+            "آگوست",
+            "سپتامبر",
+            "اکتبر"
+          ],
+          "correctAnswer": "آگوست"
+        },
+        {
+          "question": "Black",
+          "answers": [
+            "سیاه",
+            "نارنجی",
+            "زرد"
+          ],
+          "correctAnswer": "سیاه"
+        },
+        {
+          "question": "Thursday",
+          "answers": [
+            "پنج‌شنبه",
+            "سه‌شنبه",
+            "یکشنبه"
+          ],
+          "correctAnswer": "پنج‌شنبه"
+        },
+        {
+          "question": "June",
+          "answers": [
+            "جون",
+            "جولای",
+            "آگوست"
+          ],
+          "correctAnswer": "جون"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Spring",
+          "answers": [
+            "تابستان",
+            "بهار",
+            "زمستان"
+          ],
+          "correctAnswer": "بهار"
+        },
+        {
+          "question": "Bread",
+          "answers": [
+            "نان",
+            "آب",
+            "چای"
+          ],
+          "correctAnswer": "نان"
+        },
+        {
+          "question": "To eat",
+          "answers": [
+            "خوردن",
+            "رفتن",
+            "نوشیدن"
+          ],
+          "correctAnswer": "خوردن"
+        },
+        {
+          "question": "Summer",
+          "answers": [
+            "پاییز",
+            "تابستان",
+            "بهار"
+          ],
+          "correctAnswer": "تابستان"
+        },
+        {
+          "question": "Apple",
+          "answers": [
+            "سیب",
+            "انگور",
+            "انار"
+          ],
+          "correctAnswer": "سیب"
+        },
+        {
+          "question": "To drink",
+          "answers": [
+            "نوشیدن",
+            "خوردن",
+            "رفتن"
+          ],
+          "correctAnswer": "نوشیدن"
+        },
+        {
+          "question": "Winter",
+          "answers": [
+            "زمستان",
+            "پاییز",
+            "بهار"
+          ],
+          "correctAnswer": "زمستان"
+        },
+        {
+          "question": "Rice",
+          "answers": [
+            "برنج",
+            "سالاد",
+            "آب"
+          ],
+          "correctAnswer": "برنج"
+        },
+        {
+          "question": "To go",
+          "answers": [
+            "رفتن",
+            "آمدن",
+            "دیدن"
+          ],
+          "correctAnswer": "رفتن"
+        },
+        {
+          "question": "Autumn",
+          "answers": [
+            "زمستان",
+            "پاییز",
+            "تابستان"
+          ],
+          "correctAnswer": "پاییز"
+        },
+        {
+          "question": "Tea",
+          "answers": [
+            "چای",
+            "آب",
+            "شیر"
+          ],
+          "correctAnswer": "چای"
+        },
+        {
+          "question": "To come",
+          "answers": [
+            "آمدن",
+            "رفتن",
+            "دیدن"
+          ],
+          "correctAnswer": "آمدن"
+        },
+        {
+          "question": "Weather",
+          "answers": [
+            "هوا",
+            "باران",
+            "برف"
+          ],
+          "correctAnswer": "هوا"
+        },
+        {
+          "question": "Coffee",
+          "answers": [
+            "قهوه",
+            "شیر",
+            "گوشت"
+          ],
+          "correctAnswer": "قهوه"
+        },
+        {
+          "question": "To see",
+          "answers": [
+            "دیدن",
+            "شنیدن",
+            "صحبت کردن"
+          ],
+          "correctAnswer": "دیدن"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Table",
+          "answers": [
+            "صندلی",
+            "میز",
+            "تختخواب"
+          ],
+          "correctAnswer": "میز"
+        },
+        {
+          "question": "Shirt",
+          "answers": [
+            "کت",
+            "بوت",
+            "پیراهن"
+          ],
+          "correctAnswer": "پیراهن"
+        },
+        {
+          "question": "Head",
+          "answers": [
+            "چشم",
+            "دست",
+            "سر"
+          ],
+          "correctAnswer": "سر"
+        },
+        {
+          "question": "Chair",
+          "answers": [
+            "تختخواب",
+            "چوکی",
+            "پنجره"
+          ],
+          "correctAnswer": "چوکی"
+        },
+        {
+          "question": "Pants",
+          "answers": [
+            "کت",
+            "تنبان",
+            "بوت"
+          ],
+          "correctAnswer": "تنبان/شلوار"
+        },
+        {
+          "question": "Eye",
+          "answers": [
+            "گوش",
+            "چشم",
+            "دهان"
+          ],
+          "correctAnswer": "چشم"
+        },
+        {
+          "question": "Bed",
+          "answers": [
+            "تختخواب",
+            "میبل",
+            "فرش"
+          ],
+          "correctAnswer": "تختخواب"
+        },
+        {
+          "question": "Dress",
+          "answers": [
+            "پیراهن",
+            "دامن",
+            "لباس"
+          ],
+          "correctAnswer": "لباس"
+        },
+        {
+          "question": "Ear",
+          "answers": [
+            "چشم",
+            "دهان",
+            "گوش"
+          ],
+          "correctAnswer": "گوش"
+        },
+        {
+          "question": "Window",
+          "answers": [
+            "حمام",
+            "پنجره",
+            "آشپزخانه"
+          ],
+          "correctAnswer": "پنجره"
+        },
+        {
+          "question": "Shoes",
+          "answers": [
+            "کت",
+            "کفش",
+            "ژاکت"
+          ],
+          "correctAnswer": "کفش"
+        },
+        {
+          "question": "Nose",
+          "answers": [
+            "دست",
+            "پانو",
+            "بینی"
+          ],
+          "correctAnswer": "بینی"
+        },
+        {
+          "question": "Lamp",
+          "answers": [
+            "چراغ",
+            "فرش",
+            "میبل"
+          ],
+          "correctAnswer": "چراغ"
+        },
+        {
+          "question": "Coat",
+          "answers": [
+            "شلوار",
+            "کت",
+            "کفش"
+          ],
+          "correctAnswer": "کت"
+        },
+        {
+          "question": "Mouth",
+          "answers": [
+            "چشم",
+            "پانو",
+            "دهان"
+          ],
+          "correctAnswer": "دهان"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Doctor",
+          "answers": [
+            "داکتر",
+            "معلم",
+            "مهندس",
+            "انجنیر"
+          ],
+          "correctAnswer": "داکتر"
+        },
+        {
+          "question": "Math",
+          "answers": [
+            "علوم",
+            "ریاضی",
+            "تاریخ"
+          ],
+          "correctAnswer": "ریاضی"
+        },
+        {
+          "question": "Car",
+          "answers": [
+            "بس",
+            "ماشین",
+            "روچرخه"
+          ],
+          "correctAnswer": "ماشین"
+        },
+        {
+          "question": "Teacher",
+          "answers": [
+            "معلم",
+            "پرستار",
+            "پولیس"
+          ],
+          "correctAnswer": "معلم"
+        },
+        {
+          "question": "Science",
+          "answers": [
+            "تاریخ",
+            "جغرافیا",
+            "علوم"
+          ],
+          "correctAnswer": "علوم"
+        },
+        {
+          "question": "Bus",
+          "answers": [
+            "قطار",
+            "بس",
+            "هواپیما"
+          ],
+          "correctAnswer": "بس"
+        },
+        {
+          "question": "Engineer",
+          "answers": [
+            "وکیل",
+            "مهندس",
+            "انجنیر",
+            "راننده"
+          ],
+          "correctAnswer": "مهندس/انجنیر"
+        },
+        {
+          "question": "History",
+          "answers": [
+            "هنر",
+            "تاریخ",
+            "زیست‌شناسی"
+          ],
+          "correctAnswer": "تاریخ"
+        },
+        {
+          "question": "Train",
+          "answers": [
+            "مترو",
+            "ریا‌ل‌قطار",
+            "قایق"
+          ],
+          "correctAnswer": "ریال‌قطار"
+        },
+        {
+          "question": "Nurse",
+          "answers": [
+            "پرستار",
+            "کشاورز",
+            "پولیس"
+          ],
+          "correctAnswer": "پرستار"
+        },
+        {
+          "question": "Geography",
+          "answers": [
+            "شیمی/کیمیا",
+            "جغرافیا",
+            "موسیقی"
+          ],
+          "correctAnswer": "جغرافیا"
+        },
+        {
+          "question": "Bicycle",
+          "answers": [
+            "ماشین",
+            "دوچرخه",
+            "هواپیما"
+          ],
+          "correctAnswer": "دوچرخه"
+        },
+        {
+          "question": "Police",
+          "answers": [
+            "پولیس",
+            "آتش‌نشان",
+            "وکیل"
+          ],
+          "correctAnswer": "پولیس"
+        },
+        {
+          "question": "Art",
+          "answers": [
+            "هنر",
+            "ادبیات",
+            "تاریخ"
+          ],
+          "correctAnswer": "هنر"
+        },
+        {
+          "question": "Airplane",
+          "answers": [
+            "کشتی",
+            "هواپیما",
+            "مترو"
+          ],
+          "correctAnswer": "هواپیما"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Tree",
+          "answers": ["گل", "درخت", "کوه"],
+          "correctAnswer": "درخت"
+        },
+        {
+          "question": "Dog",
+          "answers": ["بشک", "ماهی", "سگ"],
+          "correctAnswer": "سگ"
+        },
+        {
+          "question": "Happy",
+          "answers": ["غمگین", "خوشحال", "عصبانی"],
+          "correctAnswer": "خوشحال"
+        },
+        {
+          "question": "Flower",
+          "answers": ["دریا", "گل", "رودخانه"],
+          "correctAnswer": "گل"
+        },
+        {
+          "question": "Cat",
+          "answers": ["سگ", "پشک", "مرغ"],
+          "correctAnswer": "پشک"
+        },
+        {
+          "question": "Sad",
+          "answers": ["خوشحال", "عصبانی", "غمگین"],
+          "correctAnswer": "غمگین"
+        },
+        {
+          "question": "Mountain",
+          "answers": ["چمن", "کوه", "دریاچه"],
+          "correctAnswer": "کوه"
+        },
+        {
+          "question": "Bird",
+          "answers": ["فیل", "شیر", "پرنده"],
+          "correctAnswer": "پرنده"
+        },
+        {
+          "question": "Angry",
+          "answers": ["عصبانی", "ترسیده", "هیجان‌زده"],
+          "correctAnswer": "عصبانی"
+        },
+        {
+          "question": "River",
+          "answers": ["دریاچه", "رودخانه", "باران"],
+          "correctAnswer": "رودخانه"
+        },
+        {
+          "question": "Fish",
+          "answers": ["گاو", "گوسفند", "ماهی"],
+          "correctAnswer": "ماهی"
+        },
+        {
+          "question": "Afraid",
+          "answers": ["ترسیده", "هیجان‌زده", "بیمار"],
+          "correctAnswer": "ترسیده"
+        },
+        {
+          "question": "Sea",
+          "answers": ["باران", "دریا", "باد"],
+          "correctAnswer": "دریا"
+        },
+        {
+          "question": "Lion",
+          "answers": ["مرغ", "شیر", "اسب"],
+          "correctAnswer": "شیر"
+        },
+        {
+          "question": "Excited",
+          "answers": ["هیجان‌زده", "خسته", "بیمار"],
+          "correctAnswer": "هیجان‌زده"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Hour",
+          "answers": ["دقیقه", "روز", "ساعت"],
+          "correctAnswer": "ساعت"
+        },
+        {
+          "question": "School",
+          "answers": ["مکتب", "بانک", "بیمارستان"],
+          "correctAnswer": "مکتب"
+        },
+        {
+          "question": "Cook",
+          "answers": ["پختن", "جوشاندن", "سرخ کردن"],
+          "correctAnswer": "پختن"
+        },
+        {
+          "question": "Minute",
+          "answers": ["ساعت", "دقیقه", "هفته"],
+          "correctAnswer": "دقیقه"
+        },
+        {
+          "question": "Hospital",
+          "answers": ["کتابخانه", "شفاخانه", "بانک"],
+          "correctAnswer": "شفاخانه"
+        },
+        {
+          "question": "Bake",
+          "answers": ["پختن (در فر/کوره)", "پوست کندن", "خرد کردن"],
+          "correctAnswer": "پختن (در فر/کوره)"
+        },
+        {
+          "question": "Day",
+          "answers": ["روز", "سال", "ماه"],
+          "correctAnswer": "روز"
+        },
+        {
+          "question": "Bank",
+          "answers": ["شفاخانه", "کتابخانه", "بانک"],
+          "correctAnswer": "بانک"
+        },
+        {
+          "question": "Boil",
+          "answers": ["سرخ کردن", "جوشاندن", "مخلوط کردن"],
+          "correctAnswer": "جوشاندن"
+        },
+        {
+          "question": "Week",
+          "answers": ["روز", "ماه", "هفته"],
+          "correctAnswer": "هفته"
+        },
+        {
+          "question": "Library",
+          "answers": ["رستوران", "کتابخانه", "هوتل"],
+          "correctAnswer": "کتابخانه"
+        },
+        {
+          "question": "Fry",
+          "answers": ["سرخ کردن", "پوست کندن", "خرد کردن"],
+          "correctAnswer": "سرخ کردن"
+        },
+        {
+          "question": "Year",
+          "answers": ["ماه", "سال", "روز"],
+          "correctAnswer": "سال"
+        },
+        {
+          "question": "Store",
+          "answers": ["پارک", "رستوران", "فروشگاه"],
+          "correctAnswer": "فروشگاه"
+        },
+        {
+          "question": "Grill",
+          "answers": ["کباب کردن", "خرد کردن", "پوست کندن"],
+          "correctAnswer": "کباب کردن"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Price",
+          "answers": ["قیمت", "تخفیف", "فروش"],
+          "correctAnswer": "قیمت"
+        },
+        {
+          "question": "Doctor",
+          "answers": ["پرستار", "دکتر", "بیمار"],
+          "correctAnswer": "دکتر"
+        },
+        {
+          "question": "Sunny",
+          "answers": ["باران", "آفتابی", "ابری"],
+          "correctAnswer": "آفتابی"
+        },
+        {
+          "question": "Discount",
+          "answers": ["خرید", "قیمت", "تخفیف"],
+          "correctAnswer": "تخفیف"
+        },
+        {
+          "question": "Nurse",
+          "answers": ["پرستار", "دکتر", "دارو"],
+          "correctAnswer": "پرستار"
+        },
+        {
+          "question": "Rainy",
+          "answers": ["برف", "باران", "طوفان"],
+          "correctAnswer": "باران"
+        },
+        {
+          "question": "Sale",
+          "answers": ["تخفیف", "فروش", "نقد"],
+          "correctAnswer": "فروش"
+        },
+        {
+          "question": "Medicine",
+          "answers": ["درمان", "دارو", "جراحی"],
+          "correctAnswer": "دارو"
+        },
+        {
+          "question": "Cloudy",
+          "answers": ["باد", "ابری", "مه‌آلود"],
+          "correctAnswer": "ابری"
+        },
+        {
+          "question": "Cash",
+          "answers": ["نقد", "تخفیف", "خرید"],
+          "correctAnswer": "نقد"
+        },
+        {
+          "question": "Hospital",
+          "answers": ["کلینیک", "شفاخانه", "داروخانه"],
+          "correctAnswer": "بیمارستان"
+        },
+        {
+          "question": "Windy",
+          "answers": ["بادی", "مه‌آلود", "آفتابی"],
+          "correctAnswer": "بادی"
+        },
+        {
+          "question": "Receipt",
+          "answers": ["رسید", "تخفیف", "فروش"],
+          "correctAnswer": "رسید"
+        },
+        {
+          "question": "Clinic",
+          "answers": ["بیمارستان", "کلینیک", "داروخانه"],
+          "correctAnswer": "کلینیک"
+        },
+        {
+          "question": "Snowy",
+          "answers": ["طوفان", "برف", "باران"],
+          "correctAnswer": "برف"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Computer",
+          "answers": ["انترنت", "كمبيوتر", "تلفن"],
+          "correctAnswer": "كمبيوتر"
+        },
+        {
+          "question": "Football",
+          "answers": ["فوتبال", "باسكتبال", "تينس"],
+          "correctAnswer": "فوتبال"
+        },
+        {
+          "question": "Song",
+          "answers": ["أهنك", "موسيقي", "خواننده"],
+          "correctAnswer": "أهنك"
+        },
+        {
+          "question": "Internet",
+          "answers": ["تلفن", "إيميل", "إنترنت"],
+          "correctAnswer": "إنترنت"
+        },
+        {
+          "question": "Basketball",
+          "answers": ["تينس", "فوتبال", "باسكتبال"],
+          "correctAnswer": "باسكتبال"
+        },
+        {
+          "question": "Music",
+          "answers": ["خواننده", "گروه موسيقي", "موسيقى"],
+          "correctAnswer": "موسيقى"
+        },
+        {
+          "question": "Phone",
+          "answers": ["كمبيوتر", "تلفن", "كبورد"],
+          "correctAnswer": "تلفن"
+        },
+        {
+          "question": "Swimming",
+          "answers": ["أب بازى/ شنا", "دویدن", "دوجرخه سواري"],
+          "correctAnswer": "شنا/أب بازى"
+        },
+        {
+          "question": "Singer",
+          "answers": ["أهنك", "موسيقى", "خواننده"],
+          "correctAnswer": "خواننده"
+        },
+        {
+          "question": "Email",
+          "answers": ["إيميل", "وسایت", "كبورد"],
+          "correctAnswer": "إيميل"
+        },
+        {
+          "question": "Running",
+          "answers": ["دویدن", "شنا/أب بازى", "دوجرخه سواري"],
+          "correctAnswer": "دویدن"
+        },
+        {
+          "question": "Band",
+          "answers": ["كونسرت", "أهنك", "گروه موسيقى"],
+          "correctAnswer": "گروه موسيقى"
+        },
+        {
+          "question": "Software",
+          "answers": ["نرم‌افزار", "سخت‌افزار", "وسایت"],
+          "correctAnswer": "نرم‌افزار"
+        },
+        {
+          "question": "Gymnastics",
+          "answers": ["جيمناستيك", "بوس", "دوجرخه سواري"],
+          "correctAnswer": "جيمناستيك"
+        },
+        {
+          "question": "Concert",
+          "answers": ["كونسرت", "أهنك", "موسيقى"],
+          "correctAnswer": "كونسرت"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Passport",
+          "answers": ["بلیط/تکت", "گذرنامه/شناسنامه", "چمدان"],
+          "correctAnswer": "گذرنامه/شناسنامه"
+        },
+        {
+          "question": "Newspaper",
+          "answers": ["مجله", "روزنامه", "تلویزیون"],
+          "correctAnswer": "روزنامه"
+        },
+        {
+          "question": "Painting",
+          "answers": ["نقاشی", "مجسمه‌سازی", "طراحی"],
+          "correctAnswer": "نقاشی"
+        },
+        {
+          "question": "Ticket",
+          "answers": ["نقشه", "بلیط/تکت", "گذرنامه"],
+          "correctAnswer": "بلیط/تکت"
+        },
+        {
+          "question": "Magazine",
+          "answers": ["رادیو", "تلویزیون", "مجله"],
+          "correctAnswer": "مجله"
+        },
+        {
+          "question": "Sculpture",
+          "answers": ["گالری", "مجسمه‌سازی", "موزیم/موزه"],
+          "correctAnswer": "مجسمه‌سازی"
+        },
+        {
+          "question": "Luggage",
+          "answers": ["راهنما", "چمدان/کیس سفر", "سیاست/تور"],
+          "correctAnswer": "چمدان/کیس سفر"
+        },
+        {
+          "question": "Television",
+          "answers": ["رادیو", "تلویزیون", "اینترنت"],
+          "correctAnswer": "تلویزیون"
+        },
+        {
+          "question": "Drawing",
+          "answers": ["نقاشی", "طراحی", "گالری"],
+          "correctAnswer": "طراحی"
+        },
+        {
+          "question": "Map",
+          "answers": ["مقصد", "نقشه", "راهنما"],
+          "correctAnswer": "نقشه"
+        },
+        {
+          "question": "Radio",
+          "answers": ["اینترنت", "مجله", "رادیو"],
+          "correctAnswer": "رادیو"
+        },
+        {
+          "question": "Gallery",
+          "answers": ["گالری", "یوم نقاشی", "فلم/مو"],
+          "correctAnswer": "گالری"
+        },
+        {
+          "question": "Guide",
+          "answers": ["سفر", "سیاست/تور", "راهنما"],
+          "correctAnswer": "راهنما"
+        },
+        {
+          "question": "Internet",
+          "answers": ["مجله", "روزنامه", "اینترنت"],
+          "correctAnswer": "اینترنت"
+        },
+        {
+          "question": "Museum",
+          "answers": ["گالری", "موزیم", "نقاشی"],
+          "correctAnswer": "موزیم"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Experiment",
+          "answers": ["تحقیق", "آزمایش", "نظریه"],
+          "correctAnswer": "آزمایش"
+        },
+        {
+          "question": "Car",
+          "answers": ["دوچرخه/باسیکل", "موتر", "هواپیما"],
+          "correctAnswer": "موتر"
+        },
+        {
+          "question": "Office",
+          "answers": ["دفتر", "میز کار", "چاپگر"],
+          "correctAnswer": "دفتر"
+        },
+        {
+          "question": "Laboratory",
+          "answers": ["داده", "آزمایشگاه", "مشاهده"],
+          "correctAnswer": "آزمایشگاه"
+        },
+        {
+          "question": "Bus",
+          "answers": ["ماشین", "مترو", "بس/اتوبوس"],
+          "correctAnswer": "بس/اتوبوس"
+        },
+        {
+          "question": "Desk",
+          "answers": ["تلفن", "میز کار", "چاپگر"],
+          "correctAnswer": "میز کار"
+        },
+        {
+          "question": "Research",
+          "answers": ["تحقیق", "تحلیل", "فرضیه"],
+          "correctAnswer": "تحقیق"
+        },
+        {
+          "question": "Train",
+          "answers": ["هواپیما", "ریل/قطار", "قایق"],
+          "correctAnswer": "قطار/ ریل"
+        },
+        {
+          "question": "Computer",
+          "answers": ["چاپگر", "تلفن", "کامپیوتر"],
+          "correctAnswer": "کامپیوتر"
+        },
+        {
+          "question": "Scientist",
+          "answers": ["داده", "دانشمند", "فرضیه"],
+          "correctAnswer": "دانشمند"
+        },
+        {
+          "question": "Bicycle",
+          "answers": ["کشتی", "دوچرخه/باسیکل", "کامبون/موتر باری"],
+          "correctAnswer": "دوچرخه"
+        },
+        {
+          "question": "Telephone",
+          "answers": ["چاپگر", "تلفن", "میز کار"],
+          "correctAnswer": "تلفن"
+        },
+        {
+          "question": "Theory",
+          "answers": ["تحلیل", "نظریه", "داده"],
+          "correctAnswer": "نظریه"
+        },
+        {
+          "question": "Airplane",
+          "answers": ["اتاق", "هواپیما", "مترو"],
+          "correctAnswer": "هواپیما"
+        },
+        {
+          "question": "Printer",
+          "answers": ["میز کار", "چاپگر", "دفتر"],
+          "correctAnswer": "چاپگر"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Hospital",
+          "answers": ["دارو", "شفاخانه", "نسخه"],
+          "correctAnswer": "شفاخانه"
+        },
+        {
+          "question": "Money",
+          "answers": ["بانک", "پول", "حساب"],
+          "correctAnswer": "پول"
+        },
+        {
+          "question": "School",
+          "answers": ["مکتب", "شاگرد", "معلم"],
+          "correctAnswer": "مکتب"
+        },
+        {
+          "question": "Doctor",
+          "answers": ["پرستار", "داکتر", "بیمار/مریض"],
+          "correctAnswer": "داکتر"
+        },
+        {
+          "question": "Bank",
+          "answers": ["وام/قرض", "سود", "بانک"],
+          "correctAnswer": "بانک"
+        },
+        {
+          "question": "Student",
+          "answers": ["مکتب", "دانش‌آموز", "معلم"],
+          "correctAnswer": "دانش‌آموز"
+        },
+        {
+          "question": "Nurse",
+          "answers": ["پرستار", "نسخه", "دارو/دوا"],
+          "correctAnswer": "پرستار"
+        },
+        {
+          "question": "Account",
+          "answers": ["حساب", "قرض/وام", "پس‌انداز"],
+          "correctAnswer": "حساب"
+        },
+        {
+          "question": "Teacher",
+          "answers": ["معلم", "صنف", "درس"],
+          "correctAnswer": "معلم"
+        },
+        {
+          "question": "Patient",
+          "answers": ["بیمار/مریض", "پرستار", "داکتر"],
+          "correctAnswer": "بیمار/مریض"
+        },
+        {
+          "question": "Loan",
+          "answers": ["سود", "سرمایه‌گذاری", "قرض/وام"],
+          "correctAnswer": "قرض/وام"
+        },
+        {
+          "question": "Class",
+          "answers": ["امتحان", "صنف", "نمره"],
+          "correctAnswer": "صنف"
+        },
+        {
+          "question": "Medicine",
+          "answers": ["دارو/دوا", "جراحی", "درمان"],
+          "correctAnswer": "دارو/دوا"
+        },
+        {
+          "question": "Interest",
+          "answers": ["بودجه", "هزینه", "سود"],
+          "correctAnswer": "سود"
+        },
+        {
+          "question": "Lesson",
+          "answers": ["درس", "مکتب", "دانشگاه"],
+          "correctAnswer": "درس"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Sunny",
+          "answers": ["بارانی", "آفتابی", "ابری"],
+          "correctAnswer": "آفتابی"
+        },
+        {
+          "question": "Computer",
+          "answers": ["اینترنت", "کامپیوتر", "تلفن"],
+          "correctAnswer": "کامپیوتر"
+        },
+        {
+          "question": "Football",
+          "answers": ["فوتبال", "بسکتبال", "تنیس"],
+          "correctAnswer": "فوتبال"
+        },
+        {
+          "question": "Rainy",
+          "answers": ["برفی", "بارانی", "طوفانی"],
+          "correctAnswer": "بارانی"
+        },
+        {
+          "question": "Internet",
+          "answers": ["تلفن", "ایمیل", "اینترنت"],
+          "correctAnswer": "اینترنت"
+        },
+        {
+          "question": "Basketball",
+          "answers": ["تنیس", "فوتبال", "بسکتبال"],
+          "correctAnswer": "بسکتبال"
+        },
+        {
+          "question": "Cloudy",
+          "answers": ["باد", "ابری", "مه‌آلود"],
+          "correctAnswer": "ابری"
+        },
+        {
+          "question": "Phone",
+          "answers": ["کامپیوتر", "تلفن", "کیبورد"],
+          "correctAnswer": "تلفن"
+        },
+        {
+          "question": "Swimming",
+          "answers": ["شنا/آب‌بازی", "دویدن", "دوچرخه‌سواری"],
+          "correctAnswer": "شنا/آب‌بازی"
+        },
+        {
+          "question": "Windy",
+          "answers": ["بادی", "مه‌آلود", "آفتابی"],
+          "correctAnswer": "بادی"
+        },
+        {
+          "question": "Email",
+          "answers": ["ایمیل", "وبسایت", "کیبورد"],
+          "correctAnswer": "ایمیل"
+        },
+        {
+          "question": "Running",
+          "answers": ["دویدن", "آب‌بازی/شنا", "دوچرخه‌سواری"],
+          "correctAnswer": "دویدن"
+        },
+        {
+          "question": "Snowy",
+          "answers": ["طوفانی", "برفی", "بارانی"],
+          "correctAnswer": "برفی"
+        },
+        {
+          "question": "Software",
+          "answers": ["نرم‌افزار", "سخت‌افزار", "وبسایت"],
+          "correctAnswer": "نرم‌افزار"
+        },
+        {
+          "question": "Gymnastics",
+          "answers": ["جیمناستیک", "بوکس", "پایسکل‌رانی/دوچرخه‌سواری"],
+          "correctAnswer": "جیمناستیک"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Hospital",
+          "answers": ["دارو", "شفاخانه", "نسخه"],
+          "correctAnswer": "شفاخانه"
+        },
+        {
+          "question": "Money",
+          "answers": ["بانک", "پول", "حساب"],
+          "correctAnswer": "پول"
+        },
+        {
+          "question": "School",
+          "answers": ["مکتب", "شاگرد", "معلم"],
+          "correctAnswer": "مکتب"
+        },
+        {
+          "question": "Doctor",
+          "answers": ["پرستار", "داکتر", "بیمار/مریض"],
+          "correctAnswer": "داکتر"
+        },
+        {
+          "question": "Bank",
+          "answers": ["وام/قرض", "سود", "بانک"],
+          "correctAnswer": "بانک"
+        },
+        {
+          "question": "Student",
+          "answers": ["مکتب", "دانش‌آموز", "معلم"],
+          "correctAnswer": "دانش‌آموز"
+        },
+        {
+          "question": "Nurse",
+          "answers": ["پرستار", "نسخه", "دارو/دوا"],
+          "correctAnswer": "پرستار"
+        },
+        {
+          "question": "Account",
+          "answers": ["حساب", "قرض/وام", "پس‌انداز"],
+          "correctAnswer": "حساب"
+        },
+        {
+          "question": "Teacher",
+          "answers": ["معلم", "صنف", "درس"],
+          "correctAnswer": "معلم"
+        },
+        {
+          "question": "Patient",
+          "answers": ["بیمار/مریض", "پرستار", "داکتر"],
+          "correctAnswer": "بیمار/مریض"
+        },
+        {
+          "question": "Loan",
+          "answers": ["سود", "سرمایه‌گذاری", "قرض/وام"],
+          "correctAnswer": "قرض/وام"
+        },
+        {
+          "question": "Class",
+          "answers": ["امتحان", "صنف", "نمره"],
+          "correctAnswer": "صنف"
+        },
+        {
+          "question": "Medicine",
+          "answers": ["دارو/دوا", "جراحی", "درمان"],
+          "correctAnswer": "دارو/دوا"
+        },
+        {
+          "question": "Interest",
+          "answers": ["بودیجه", "هزینه", "سود"],
+          "correctAnswer": "سود"
+        },
+        {
+          "question": "Lesson",
+          "answers": ["درس", "مکتب", "دانشگاه"],
+          "correctAnswer": "درس"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "Hospital",
+          "answers": ["دارو", "شفاخانه", "نسخه"],
+          "correctAnswer": "شفاخانه"
+        },
+        {
+          "question": "Money",
+          "answers": ["بانک", "پول", "حساب"],
+          "correctAnswer": "پول"
+        },
+        {
+          "question": "School",
+          "answers": ["مکتب", "شاگرد", "معلم"],
+          "correctAnswer": "مکتب"
+        },
+        {
+          "question": "Doctor",
+          "answers": ["پرستار", "داکتر", "بیمار/مریض"],
+          "correctAnswer": "داکتر"
+        },
+        {
+          "question": "Bank",
+          "answers": ["وام/قرض", "سود", "بانک"],
+          "correctAnswer": "بانک"
+        },
+        {
+          "question": "Student",
+          "answers": ["مکتب", "دانش‌آموز", "معلم"],
+          "correctAnswer": "شاگرد/دانش‌آموز"
+        },
+        {
+          "question": "Nurse",
+          "answers": ["پرستار", "نسخه", "دارو/دوا"],
+          "correctAnswer": "پرستار"
+        },
+        {
+          "question": "Account",
+          "answers": ["حساب", "قرض/وام", "پس‌انداز"],
+          "correctAnswer": "حساب"
+        },
+        {
+          "question": "Teacher",
+          "answers": ["معلم", "صنف", "درس"],
+          "correctAnswer": "معلم"
+        },
+        {
+          "question": "Patient",
+          "answers": ["بیمار/مریض", "پرستار", "داکتر"],
+          "correctAnswer": "بیمار/مریض"
+        },
+        {
+          "question": "Loan",
+          "answers": ["سود", "سرمایه‌گذاری", "قرض/وام"],
+          "correctAnswer": "قرض/وام"
+        },
+        {
+          "question": "Class",
+          "answers": ["امتحان", "صنف", "نمره"],
+          "correctAnswer": "صنف"
+        },
+        {
+          "question": "Medicine",
+          "answers": ["دارو/دوا", "جراحی", "درمان"],
+          "correctAnswer": "دارو/دوا"
+        },
+        {
+          "question": "Interest",
+          "answers": ["بودجه", "هزینه", "سود"],
+          "correctAnswer": "سود"
+        },
+        {
+          "question": "Lesson",
+          "answers": ["درس", "مکتب", "دانشگاه"],
+          "correctAnswer": "درس"
+        }
+      ]
+
+    },
+    {
+      "quiz": [
+        {
+          "question": "Car",
+          "answers": ["موٹر", "بس", "بائیکل"],
+          "correctAnswer": "موٹر"
+        },
+        {
+          "question": "Office",
+          "answers": ["دفتر", "میز کار", "تلفن"],
+          "correctAnswer": "دفتر"
+        },
+        {
+          "question": "Hospital",
+          "answers": ["شفاخانہ", "دواء", "جراحی"],
+          "correctAnswer": "شفاخانہ"
+        },
+        {
+          "question": "Bus",
+          "answers": ["بس", "قطار", "کشتی"],
+          "correctAnswer": "بس"
+        },
+        {
+          "question": "Desk",
+          "answers": ["چوکی", "میز کار", "تلفن"],
+          "correctAnswer": "میز کار"
+        },
+        {
+          "question": "Doctor",
+          "answers": ["پرستار", "مریض/بیمار", "داکتر"],
+          "correctAnswer": "داکتر"
+        },
+        {
+          "question": "Train",
+          "answers": ["مترو", "قطار", "طیارہ"],
+          "correctAnswer": "قطار"
+        },
+        {
+          "question": "Computer",
+          "answers": ["تلفن", "کامپیوتر", "دفتر"],
+          "correctAnswer": "کامپیوتر"
+        },
+        {
+          "question": "Nurse",
+          "answers": ["پرستار", "دارو/دوا", "بیمار"],
+          "correctAnswer": "پرستار"
+        },
+        {
+          "question": "Bicycle",
+          "answers": ["بائیکل/دوچرخہ", "طیارہ", "کشتی"],
+          "correctAnswer": "بائیکل/دوچرخہ"
+        },
+        {
+          "question": "Printer",
+          "answers": ["دفتر", "مطبعه", "میز کار"],
+          "correctAnswer": "مطبعه"
+        },
+        {
+          "question": "Patient",
+          "answers": ["داکتر", "بیمار/مریض", "پرستار"],
+          "correctAnswer": "بیمار/مریض"
+        },
+        {
+          "question": "Airplane",
+          "answers": ["قایق", "طیارہ", "ماشین"],
+          "correctAnswer": "طیارہ"
+        },
+        {
+          "question": "Telephone",
+          "answers": ["چوکی", "تلفن", "میز کار"],
+          "correctAnswer": "تلفن"
+        },
+        {
+          "question": "Medicine",
+          "answers": ["درمان", "دارو/دوا", "نسخه"],
+          "correctAnswer": "دارو/دوا"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2304 @@
+{
+  "lessons": [
+    {
+      "lesson": 1,
+      "title": "Basic Greetings",
+      "vocabulary": [
+        {
+          "word": "Hello",
+          "translation": "سلام"
+        },
+        {
+          "word": "Goodbye",
+          "translation": "خداحافظ"
+        },
+        {
+          "word": "Please",
+          "translation": "لطفاً"
+        },
+        {
+          "word": "Thank you",
+          "translation": "متشکرم/تشکر"
+        },
+        {
+          "word": "Yes",
+          "translation": "بله/بالی"
+        },
+        {
+          "word": "No",
+          "translation": "نه/نخیر"
+        },
+        {
+          "word": "Excuse me",
+          "translation": "ببخشید"
+        },
+        {
+          "word": "I'm sorry",
+          "translation": "معذرت می‌خواهم"
+        },
+        {
+          "word": "Good morning",
+          "translation": "صبح بخیر"
+        },
+        {
+          "word": "Good night",
+          "translation": "شب بخیر"
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "title": "Family Members",
+      "vocabulary": [
+        {
+          "word": "Father",
+          "translation": "پدر"
+        },
+        {
+          "word": "Mother",
+          "translation": "مادر"
+        },
+        {
+          "word": "Brother",
+          "translation": "برادر"
+        },
+        {
+          "word": "Sister",
+          "translation": "خواهر"
+        },
+        {
+          "word": "Son",
+          "translation": "پسر"
+        },
+        {
+          "word": "Daughter",
+          "translation": "دختر"
+        },
+        {
+          "word": "Husband",
+          "translation": "شوهر"
+        },
+        {
+          "word": "Wife",
+          "translation": "همسر"
+        },
+        {
+          "word": "Uncle",
+          "translation": "کاکا / ماما"
+        },
+        {
+          "word": "Aunt",
+          "translation": "عمه / خاله"
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "title": "Numbers",
+      "vocabulary": [
+        {
+          "word": "One",
+          "translation": "یک"
+        },
+        {
+          "word": "Two",
+          "translation": "دو"
+        },
+        {
+          "word": "Three",
+          "translation": "سه"
+        },
+        {
+          "word": "Four",
+          "translation": "چهار"
+        },
+        {
+          "word": "Five",
+          "translation": "پنج"
+        },
+        {
+          "word": "Six",
+          "translation": "شش"
+        },
+        {
+          "word": "Seven",
+          "translation": "هفت"
+        },
+        {
+          "word": "Eight",
+          "translation": "هشت"
+        },
+        {
+          "word": "Nine",
+          "translation": "نه"
+        },
+        {
+          "word": "Ten",
+          "translation": "ده"
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "title": "Colors",
+      "vocabulary": [
+        {
+          "word": "Red",
+          "translation": "سرخ"
+        },
+        {
+          "word": "Blue",
+          "translation": "آبی"
+        },
+        {
+          "word": "Green",
+          "translation": "سبز"
+        },
+        {
+          "word": "Yellow",
+          "translation": "زرد"
+        },
+        {
+          "word": "Black",
+          "translation": "سیاه"
+        },
+        {
+          "word": "White",
+          "translation": "سفید"
+        },
+        {
+          "word": "Brown",
+          "translation": "قهوه‌ای"
+        },
+        {
+          "word": "Pink",
+          "translation": "گلابی"
+        },
+        {
+          "word": "Orange",
+          "translation": "نارنجی"
+        },
+        {
+          "word": "Purple",
+          "translation": "بنفش"
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "title": "Days of the Week",
+      "vocabulary": [
+        {
+          "word": "Monday",
+          "translation": "دوشنبه"
+        },
+        {
+          "word": "Tuesday",
+          "translation": "سه‌شنبه"
+        },
+        {
+          "word": "Wednesday",
+          "translation": "چهارشنبه"
+        },
+        {
+          "word": "Thursday",
+          "translation": "پنج‌شنبه"
+        },
+        {
+          "word": "Friday",
+          "translation": "جمعه"
+        },
+        {
+          "word": "Saturday",
+          "translation": "شنبه"
+        },
+        {
+          "word": "Sunday",
+          "translation": "یکشنبه"
+        },
+        {
+          "word": "Today",
+          "translation": "امروز"
+        },
+        {
+          "word": "Yesterday",
+          "translation": "دیروز"
+        },
+        {
+          "word": "Tomorrow",
+          "translation": "فردا"
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "title": "Months of the Year",
+      "vocabulary": [
+        {
+          "word": "January",
+          "translation": "ژانویه(جنوری)"
+        },
+        {
+          "word": "February",
+          "translation": "فوریه(فبروری)"
+        },
+        {
+          "word": "March",
+          "translation": "مارس(حوت)"
+        },
+        {
+          "word": "April",
+          "translation": "آوریل(اپریل)"
+        },
+        {
+          "word": "May",
+          "translation": "مه(می)"
+        },
+        {
+          "word": "June",
+          "translation": "ژوئن(جون)"
+        },
+        {
+          "word": "July",
+          "translation": "ژوئیه(جولای)"
+        },
+        {
+          "word": "August",
+          "translation": "اوت(آگست)"
+        },
+        {
+          "word": "September",
+          "translation": "سپتامبر"
+        },
+        {
+          "word": "October",
+          "translation": "اکتبر"
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "title": "Seasons",
+      "vocabulary": [
+        {
+          "word": "Spring",
+          "translation": "بهار"
+        },
+        {
+          "word": "Summer",
+          "translation": "تابستان"
+        },
+        {
+          "word": "Autumn",
+          "translation": "خزان"
+        },
+        {
+          "word": "Winter",
+          "translation": "زمستان"
+        },
+        {
+          "word": "Weather",
+          "translation": "هوا"
+        },
+        {
+          "word": "Hot",
+          "translation": "گرم"
+        },
+        {
+          "word": "Cold",
+          "translation": "سرد"
+        },
+        {
+          "word": "Rain",
+          "translation": "باران"
+        },
+        {
+          "word": "Snow",
+          "translation": "برف"
+        },
+        {
+          "word": "Wind",
+          "translation": "باد"
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "title": "Food and Drinks",
+      "vocabulary": [
+        {
+          "word": "Bread",
+          "translation": "نان"
+        },
+        {
+          "word": "Water",
+          "translation": "آب"
+        },
+        {
+          "word": "Milk",
+          "translation": "شیر"
+        },
+        {
+          "word": "Coffee",
+          "translation": "قهوه"
+        },
+        {
+          "word": "Tea",
+          "translation": "چای"
+        },
+        {
+          "word": "Apple",
+          "translation": "سیب"
+        },
+        {
+          "word": "Orange",
+          "translation": "نارنج"
+        },
+        {
+          "word": "Meat",
+          "translation": "گوشت"
+        },
+        {
+          "word": "Rice",
+          "translation": "برنج"
+        },
+        {
+          "word": "Salad",
+          "translation": "سالاد"
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "title": "Common Verbs",
+      "vocabulary": [
+        {
+          "word": "To eat",
+          "translation": "خوردن"
+        },
+        {
+          "word": "To drink",
+          "translation": "نوشیدن"
+        },
+        {
+          "word": "To go",
+          "translation": "رفتن"
+        },
+        {
+          "word": "To come",
+          "translation": "آمدن"
+        },
+        {
+          "word": "To see",
+          "translation": "دیدن"
+        },
+        {
+          "word": "To hear",
+          "translation": "شنیدن"
+        },
+        {
+          "word": "To speak",
+          "translation": "صحبت کردن"
+        },
+        {
+          "word": "To read",
+          "translation": "خواندن"
+        },
+        {
+          "word": "To write",
+          "translation": "نوشتن"
+        },
+        {
+          "word": "To sleep",
+          "translation": "خوابیدن"
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "title": "House Items",
+      "vocabulary": [
+        {
+          "word": "Table",
+          "translation": "میز"
+        },
+        {
+          "word": "Chair",
+          "translation": "چوکی"
+        },
+        {
+          "word": "Bed",
+          "translation": "تخت خواب"
+        },
+        {
+          "word": "Window",
+          "translation": "کلکین/پنجره"
+        },
+        {
+          "word": "Door",
+          "translation": "درب/در"
+        },
+        {
+          "word": "Lamp",
+          "translation": "چراغ"
+        },
+        {
+          "word": "Carpet",
+          "translation": "فرش"
+        },
+        {
+          "word": "Sofa",
+          "translation": "کوج"
+        },
+        {
+          "word": "Kitchen",
+          "translation": "آشپزخانه"
+        },
+        {
+          "word": "Bathroom",
+          "translation": "حمام"
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "title": "Clothing",
+      "vocabulary": [
+        {
+          "word": "Shirt",
+          "translation": "پیراهن"
+        },
+        {
+          "word": "Pants",
+          "translation": "تنبان/شلوار"
+        },
+        {
+          "word": "Dress",
+          "translation": "لباس"
+        },
+        {
+          "word": "Skirt",
+          "translation": "دامن"
+        },
+        {
+          "word": "Shoes",
+          "translation": "کفش/بوت"
+        },
+        {
+          "word": "Socks",
+          "translation": "جوراب"
+        },
+        {
+          "word": "Hat",
+          "translation": "کلاه"
+        },
+        {
+          "word": "Coat",
+          "translation": "کرتی"
+        },
+        {
+          "word": "Jacket",
+          "translation": "جاکت"
+        },
+        {
+          "word": "Scarf",
+          "translation": "شال/چادر"
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "title": "Body Parts",
+      "vocabulary": [
+        {
+          "word": "Head",
+          "translation": "سر"
+        },
+        {
+          "word": "Eye",
+          "translation": "چشم"
+        },
+        {
+          "word": "Ear",
+          "translation": "گوش"
+        },
+        {
+          "word": "Nose",
+          "translation": "بینی"
+        },
+        {
+          "word": "Mouth",
+          "translation": "دهان"
+        },
+        {
+          "word": "Hand",
+          "translation": "دست"
+        },
+        {
+          "word": "Foot",
+          "translation": "پا"
+        },
+        {
+          "word": "Leg",
+          "translation": "ساق پا"
+        },
+        {
+          "word": "Arm",
+          "translation": "بازو"
+        },
+        {
+          "word": "Back",
+          "translation": "پشت"
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "title": "Occupations",
+      "vocabulary": [
+        {
+          "word": "Doctor",
+          "translation": "دکتر"
+        },
+        {
+          "word": "Teacher",
+          "translation": "معلم"
+        },
+        {
+          "word": "Engineer",
+          "translation": "مهندس/انجنیر"
+        },
+        {
+          "word": "Nurse",
+          "translation": "پرستار"
+        },
+        {
+          "word": "Police",
+          "translation": "پلیس"
+        },
+        {
+          "word": "Firefighter",
+          "translation": "آتش‌نشان"
+        },
+        {
+          "word": "Farmer",
+          "translation": "کشاورز/دهقان"
+        },
+        {
+          "word": "Chef",
+          "translation": "آشپز"
+        },
+        {
+          "word": "Driver",
+          "translation": "راننده"
+        },
+        {
+          "word": "Lawyer",
+          "translation": "وکیل"
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "title": "School Subjects",
+      "vocabulary": [
+        {
+          "word": "Math",
+          "translation": "ریاضی"
+        },
+        {
+          "word": "Science",
+          "translation": "ساینس"
+        },
+        {
+          "word": "History",
+          "translation": "تاریخ"
+        },
+        {
+          "word": "Geography",
+          "translation": "جغرافیا"
+        },
+        {
+          "word": "Literature",
+          "translation": "ادبیات"
+        },
+        {
+          "word": "Art",
+          "translation": "هنر"
+        },
+        {
+          "word": "Music",
+          "translation": "موسیقی"
+        },
+        {
+          "word": "Physical Education",
+          "translation": "تربیت بدنی"
+        },
+        {
+          "word": "Biology",
+          "translation": "بیولوژی/زیست شناسی"
+        },
+        {
+          "word": "Chemistry",
+          "translation": "کیمیا"
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "title": "Transportation",
+      "vocabulary": [
+        {
+          "word": "Car",
+          "translation": "موتر"
+        },
+        {
+          "word": "Bus",
+          "translation": "بس"
+        },
+        {
+          "word": "Train",
+          "translation": "قطار/ریل"
+        },
+        {
+          "word": "Bicycle",
+          "translation": "دوچرخه/بایسکل"
+        },
+        {
+          "word": "Airplane",
+          "translation": "طیاره/هواپیما"
+        },
+        {
+          "word": "Boat",
+          "translation": "قایق"
+        },
+        {
+          "word": "Motorcycle",
+          "translation": "موتورسیکلت"
+        },
+        {
+          "word": "Truck",
+          "translation": "موتر بزرگ"
+        },
+        {
+          "word": "Taxi",
+          "translation": "تاکسی"
+        },
+        {
+          "word": "Subway",
+          "translation": "مترو"
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "title": "Nature",
+      "vocabulary": [
+        {
+          "word": "Tree",
+          "translation": "درخت"
+        },
+        {
+          "word": "Flower",
+          "translation": "گل"
+        },
+        {
+          "word": "Grass",
+          "translation": "چمن/سبزه"
+        },
+        {
+          "word": "Mountain",
+          "translation": "کوه"
+        },
+        {
+          "word": "River",
+          "translation": "رودخانه"
+        },
+        {
+          "word": "Sea",
+          "translation": "دریا"
+        },
+        {
+          "word": "Lake",
+          "translation": "دریاچه"
+        },
+        {
+          "word": "Sky",
+          "translation": "آسمان"
+        },
+        {
+          "word": "Sun",
+          "translation": "خورشید"
+        },
+        {
+          "word": "Moon",
+          "translation": "ماه"
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "title": "Animals",
+      "vocabulary": [
+        {
+          "word": "Dog",
+          "translation": "سگ"
+        },
+        {
+          "word": "Cat",
+          "translation": "گربه/پیشک"
+        },
+        {
+          "word": "Bird",
+          "translation": "پرنده"
+        },
+        {
+          "word": "Fish",
+          "translation": "ماهی"
+        },
+        {
+          "word": "Cow",
+          "translation": "گاو"
+        },
+        {
+          "word": "Horse",
+          "translation": "اسب"
+        },
+        {
+          "word": "Sheep",
+          "translation": "گوسفند"
+        },
+        {
+          "word": "Chicken",
+          "translation": "مرغ"
+        },
+        {
+          "word": "Lion",
+          "translation": "شیر"
+        },
+        {
+          "word": "Elephant",
+          "translation": "فیل"
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "title": "Emotions",
+      "vocabulary": [
+        {
+          "word": "Happy",
+          "translation": "خوشحال"
+        },
+        {
+          "word": "Sad",
+          "translation": "غمگین"
+        },
+        {
+          "word": "Angry",
+          "translation": "عصبانی"
+        },
+        {
+          "word": "Excited",
+          "translation": "هیجان‌زده"
+        },
+        {
+          "word": "Afraid",
+          "translation": "ترسیده"
+        },
+        {
+          "word": "Surprised",
+          "translation": "متعجب"
+        },
+        {
+          "word": "Bored",
+          "translation": "خسته"
+        },
+        {
+          "word": "Tired",
+          "translation": "خسته"
+        },
+        {
+          "word": "Nervous",
+          "translation": "عصبی/دست و پاچه"
+        },
+        {
+          "word": "Calm",
+          "translation": "آرام"
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "title": "Time",
+      "vocabulary": [
+        {
+          "word": "Hour",
+          "translation": "ساعت"
+        },
+        {
+          "word": "Minute",
+          "translation": "دقیقه"
+        },
+        {
+          "word": "Second",
+          "translation": "ثانیه"
+        },
+        {
+          "word": "Day",
+          "translation": "روز"
+        },
+        {
+          "word": "Week",
+          "translation": "هفته"
+        },
+        {
+          "word": "Month",
+          "translation": "ماه"
+        },
+        {
+          "word": "Year",
+          "translation": "سال"
+        },
+        {
+          "word": "Morning",
+          "translation": "صبح"
+        },
+        {
+          "word": "Afternoon",
+          "translation": "بعد از ظهر"
+        },
+        {
+          "word": "Evening",
+          "translation": "عصر"
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "title": "Places in Town",
+      "vocabulary": [
+        {
+          "word": "School",
+          "translation": "مکتب"
+        },
+        {
+          "word": "Hospital",
+          "translation": "شفا خانه"
+        },
+        {
+          "word": "Bank",
+          "translation": "بانک"
+        },
+        {
+          "word": "Store",
+          "translation": "فروشگاه"
+        },
+        {
+          "word": "Park",
+          "translation": "پارک"
+        },
+        {
+          "word": "Library",
+          "translation": "کتابخانه"
+        },
+        {
+          "word": "Restaurant",
+          "translation": "رستوران"
+        },
+        {
+          "word": "Hotel",
+          "translation": "هوتل"
+        },
+        {
+          "word": "Airport",
+          "translation": "فرودگاه"
+        },
+        {
+          "word": "Train Station",
+          "translation": "ایستگاه قطار"
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "title": "Food Preparation",
+      "vocabulary": [
+        {
+          "word": "Cook",
+          "translation": "پختن"
+        },
+        {
+          "word": "Bake",
+          "translation": "پختن در داش"
+        },
+        {
+          "word": "Boil",
+          "translation": "جوشاندن"
+        },
+        {
+          "word": "Fry",
+          "translation": "سرخ کردن"
+        },
+        {
+          "word": "Grill",
+          "translation": "کباب کردن"
+        },
+        {
+          "word": "Chop",
+          "translation": "قطع کردن"
+        },
+        {
+          "word": "Mix",
+          "translation": "مخلوط کردن"
+        },
+        {
+          "word": "Peel",
+          "translation": "پوست کندن"
+        },
+        {
+          "word": "Slice",
+          "translation": "برش کردن/لبریدن"
+        },
+        {
+          "word": "Stir",
+          "translation": "بهم زدن/شور دادن"
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "title": "Shopping",
+      "vocabulary": [
+        {
+          "word": "Price",
+          "translation": "قیمت"
+        },
+        {
+          "word": "Discount",
+          "translation": "تخفیف"
+        },
+        {
+          "word": "Sale",
+          "translation": "فروش"
+        },
+        {
+          "word": "Cash",
+          "translation": "نقد"
+        },
+        {
+          "word": "Credit Card",
+          "translation": "کارت اعتباری"
+        },
+        {
+          "word": "Receipt",
+          "translation": "صورت حساب"
+        },
+        {
+          "word": "Bargain",
+          "translation": "چانه زدن"
+        },
+        {
+          "word": "Purchase",
+          "translation": "خرید"
+        },
+        {
+          "word": "Return",
+          "translation": "برگشت"
+        },
+        {
+          "word": "Exchange",
+          "translation": "تعویض"
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "title": "Health",
+      "vocabulary": [
+        {
+          "word": "Medicine",
+          "translation": "دوا"
+        },
+        {
+          "word": "Doctor",
+          "translation": "داکتر"
+        },
+        {
+          "word": "Nurse",
+          "translation": "پرستار"
+        },
+        {
+          "word": "Hospital",
+          "translation": "شفاخانه"
+        },
+        {
+          "word": "Clinic",
+          "translation": "کلینیک"
+        },
+        {
+          "word": "Pharmacy",
+          "translation": "دوا خانه"
+        },
+        {
+          "word": "Prescription",
+          "translation": "نسخه"
+        },
+        {
+          "word": "Illness",
+          "translation": "بیماری"
+        },
+        {
+          "word": "Treatment",
+          "translation": "درمان"
+        },
+        {
+          "word": "Surgery",
+          "translation": "جراحی"
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "title": "Weather",
+      "vocabulary": [
+        {
+          "word": "Sunny",
+          "translation": "آفتابی"
+        },
+        {
+          "word": "Rainy",
+          "translation": "بارانی"
+        },
+        {
+          "word": "Cloudy",
+          "translation": "ابری"
+        },
+        {
+          "word": "Windy",
+          "translation": "بادی"
+        },
+        {
+          "word": "Stormy",
+          "translation": "طوفانی"
+        },
+        {
+          "word": "Snowy",
+          "translation": "برفی"
+        },
+        {
+          "word": "Foggy",
+          "translation": "مه‌آلود"
+        },
+        {
+          "word": "Hot",
+          "translation": "گرم"
+        },
+        {
+          "word": "Cold",
+          "translation": "سرد"
+        },
+        {
+          "word": "Mild",
+          "translation": "معتدل"
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "title": "Technology",
+      "vocabulary": [
+        {
+          "word": "Computer",
+          "translation": "کامپیوتر"
+        },
+        {
+          "word": "Internet",
+          "translation": "اینترنت"
+        },
+        {
+          "word": "Phone",
+          "translation": "تلفن"
+        },
+        {
+          "word": "Email",
+          "translation": "ایمیل"
+        },
+        {
+          "word": "Software",
+          "translation": "نرم‌افزار"
+        },
+        {
+          "word": "Hardware",
+          "translation": "سخت‌افزار"
+        },
+        {
+          "word": "Website",
+          "translation": "وبسایت"
+        },
+        {
+          "word": "Keyboard",
+          "translation": "کیبورد"
+        },
+        {
+          "word": "Mouse",
+          "translation": "ماوس"
+        },
+        {
+          "word": "Screen",
+          "translation": "صفحه نمایش"
+        }
+      ]
+    },
+    {
+      "lesson": 26,
+      "title": "Sports",
+      "vocabulary": [
+        {
+          "word": "Football",
+          "translation": "فوتبال"
+        },
+        {
+          "word": "Basketball",
+          "translation": "بسکتبال"
+        },
+        {
+          "word": "Tennis",
+          "translation": "تنیس"
+        },
+        {
+          "word": "Swimming",
+          "translation": "شنا"
+        },
+        {
+          "word": "Running",
+          "translation": "دویدن"
+        },
+        {
+          "word": "Cycling",
+          "translation": "دوچرخه‌سواری"
+        },
+        {
+          "word": "Gymnastics",
+          "translation": "ژیمناستیک"
+        },
+        {
+          "word": "Boxing",
+          "translation": "بوکس"
+        },
+        {
+          "word": "Volleyball",
+          "translation": "والیبال"
+        },
+        {
+          "word": "Hockey",
+          "translation": "هاکی"
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "title": "Music",
+      "vocabulary": [
+        {
+          "word": "Song",
+          "translation": "آهنگ"
+        },
+        {
+          "word": "Music",
+          "translation": "موسیقی"
+        },
+        {
+          "word": "Singer",
+          "translation": "خواننده"
+        },
+        {
+          "word": "Band",
+          "translation": "گروه موسیقی"
+        },
+        {
+          "word": "Concert",
+          "translation": "کنسرت"
+        },
+        {
+          "word": "Instrument",
+          "translation": "ساز"
+        },
+        {
+          "word": "Piano",
+          "translation": "پیانو"
+        },
+        {
+          "word": "Guitar",
+          "translation": "گیتار"
+        },
+        {
+          "word": "Drums",
+          "translation": "درامز"
+        },
+        {
+          "word": "Violin",
+          "translation": "ویولن"
+        }
+      ]
+    },
+    {
+      "lesson": 28,
+      "title": "Travel",
+      "vocabulary": [
+        {
+          "word": "Passport",
+          "translation": "شناسنامه"
+        },
+        {
+          "word": "Ticket",
+          "translation": "بلیط"
+        },
+        {
+          "word": "Luggage",
+          "translation": "بکس سفر"
+        },
+        {
+          "word": "Map",
+          "translation": "نقشه"
+        },
+        {
+          "word": "Guide",
+          "translation": "راهنما"
+        },
+        {
+          "word": "Tour",
+          "translation": "تور"
+        },
+        {
+          "word": "Destination",
+          "translation": "مقصد"
+        },
+        {
+          "word": "Journey",
+          "translation": "سفر"
+        },
+        {
+          "word": "Adventure",
+          "translation": "ماجراجویی"
+        },
+        {
+          "word": "Sightseeing",
+          "translation": "دیدن مناظر"
+        }
+      ]
+    },
+    {
+      "lesson": 29,
+      "title": "Media",
+      "vocabulary": [
+        {
+          "word": "Newspaper",
+          "translation": "روزنامه"
+        },
+        {
+          "word": "Magazine",
+          "translation": "مجله"
+        },
+        {
+          "word": "Television",
+          "translation": "تلویزیون"
+        },
+        {
+          "word": "Radio",
+          "translation": "رادیو"
+        },
+        {
+          "word": "Internet",
+          "translation": "اینترنت"
+        },
+        {
+          "word": "Article",
+          "translation": "مقاله"
+        },
+        {
+          "word": "News",
+          "translation": "اخبار"
+        },
+        {
+          "word": "Report",
+          "translation": "گزارش"
+        },
+        {
+          "word": "Broadcast",
+          "translation": "پخش"
+        },
+        {
+          "word": "Interview",
+          "translation": "مصاحبه"
+        }
+      ]
+    },
+    {
+      "lesson": 30,
+      "title": "Art",
+      "vocabulary": [
+        {
+          "word": "Painting",
+          "translation": "نقاشی"
+        },
+        {
+          "word": "Sculpture",
+          "translation": "مجسمه‌سازی"
+        },
+        {
+          "word": "Drawing",
+          "translation": "طراحی"
+        },
+        {
+          "word": "Gallery",
+          "translation": "گالری"
+        },
+        {
+          "word": "Museum",
+          "translation": "موزه"
+        },
+        {
+          "word": "Artist",
+          "translation": "هنرمند"
+        },
+        {
+          "word": "Exhibition",
+          "translation": "نمایشگاه"
+        },
+        {
+          "word": "Canvas",
+          "translation": "بوم نقاشی"
+        },
+        {
+          "word": "Brush",
+          "translation": "قلم‌مو"
+        },
+        {
+          "word": "Color",
+          "translation": "رنگ"
+        }
+      ]
+    },
+    {
+      "lesson": 31,
+      "title": "Science",
+      "vocabulary": [
+        {
+          "word": "Experiment",
+          "translation": "آزمایش"
+        },
+        {
+          "word": "Laboratory",
+          "translation": "آزمایشگاه"
+        },
+        {
+          "word": "Research",
+          "translation": "تحقیق"
+        },
+        {
+          "word": "Scientist",
+          "translation": "دانشمند"
+        },
+        {
+          "word": "Theory",
+          "translation": "نظریه"
+        },
+        {
+          "word": "Data",
+          "translation": "اطلاعات"
+        },
+        {
+          "word": "Analysis",
+          "translation": "تحلیل"
+        },
+        {
+          "word": "Hypothesis",
+          "translation": "فرضیه"
+        },
+        {
+          "word": "Observation",
+          "translation": "مشاهده"
+        },
+        {
+          "word": "Conclusion",
+          "translation": "نتیجه‌گیری"
+        }
+      ]
+    },
+    {
+      "lesson": 32,
+      "title": "Emotions",
+      "vocabulary": [
+        {
+          "word": "Happy",
+          "translation": "خوشحال"
+        },
+        {
+          "word": "Sad",
+          "translation": "غمگین"
+        },
+        {
+          "word": "Angry",
+          "translation": "عصبانی"
+        },
+        {
+          "word": "Excited",
+          "translation": "هیجان‌زده"
+        },
+        {
+          "word": "Afraid",
+          "translation": "ترسیده"
+        },
+        {
+          "word": "Surprised",
+          "translation": "متعجب"
+        },
+        {
+          "word": "Bored",
+          "translation": "خسته"
+        },
+        {
+          "word": "Tired",
+          "translation": "خسته"
+        },
+        {
+          "word": "Nervous",
+          "translation": "عصبی"
+        },
+        {
+          "word": "Calm",
+          "translation": "آرام"
+        }
+      ]
+    },
+    {
+      "lesson": 33,
+      "title": "Time",
+      "vocabulary": [
+        {
+          "word": "Hour",
+          "translation": "ساعت"
+        },
+        {
+          "word": "Minute",
+          "translation": "دقیقه"
+        },
+        {
+          "word": "Second",
+          "translation": "ثانیه"
+        },
+        {
+          "word": "Day",
+          "translation": "روز"
+        },
+        {
+          "word": "Week",
+          "translation": "هفته"
+        },
+        {
+          "word": "Month",
+          "translation": "ماه"
+        },
+        {
+          "word": "Year",
+          "translation": "سال"
+        },
+        {
+          "word": "Morning",
+          "translation": "صبح"
+        },
+        {
+          "word": "Afternoon",
+          "translation": "بعد از ظهر"
+        },
+        {
+          "word": "Evening",
+          "translation": "عصر"
+        }
+      ]
+    },
+    {
+      "lesson": 34,
+      "title": "Places in Town",
+      "vocabulary": [
+        {
+          "word": "School",
+          "translation": "مدرسه/مکتب"
+        },
+        {
+          "word": "Hospital",
+          "translation": "بیمارستان/شفاخانه"
+        },
+        {
+          "word": "Bank",
+          "translation": "بانک"
+        },
+        {
+          "word": "Store",
+          "translation": "فروشگاه"
+        },
+        {
+          "word": "Park",
+          "translation": "پارک"
+        },
+        {
+          "word": "Library",
+          "translation": "کتابخانه"
+        },
+        {
+          "word": "Restaurant",
+          "translation": "رستوران"
+        },
+        {
+          "word": "Hotel",
+          "translation": "هتل"
+        },
+        {
+          "word": "Airport",
+          "translation": "فرودگاه"
+        },
+        {
+          "word": "Train Station",
+          "translation": "ایستگاه قطار"
+        }
+      ]
+    },
+    {
+      "lesson": 35,
+      "title": "Food Preparation",
+      "vocabulary": [
+        {
+          "word": "Cook",
+          "translation": "پختن"
+        },
+        {
+          "word": "Bake",
+          "translation": "پختن در داش"
+        },
+        {
+          "word": "Boil",
+          "translation": "جوشاندن"
+        },
+        {
+          "word": "Fry",
+          "translation": "سرخ کردن"
+        },
+        {
+          "word": "Grill",
+          "translation": "کباب کردن"
+        },
+        {
+          "word": "Chop",
+          "translation": "قطع کردن"
+        },
+        {
+          "word": "Mix",
+          "translation": "مخلوط کردن"
+        },
+        {
+          "word": "Peel",
+          "translation": "پوست کندن"
+        },
+        {
+          "word": "Slice",
+          "translation": "برش کردن/لبریدن"
+        },
+        {
+          "word": "Stir",
+          "translation": "بهم زدن/شور دادن"
+        }
+      ]
+    },
+    {
+      "lesson": 36,
+      "title": "Shopping",
+      "vocabulary": [
+        {
+          "word": "Price",
+          "translation": "قیمت"
+        },
+        {
+          "word": "Discount",
+          "translation": "تخفیف"
+        },
+        {
+          "word": "Sale",
+          "translation": "فروش"
+        },
+        {
+          "word": "Cash",
+          "translation": "نقد"
+        },
+        {
+          "word": "Credit Card",
+          "translation": "کارت اعتباری"
+        },
+        {
+          "word": "Receipt",
+          "translation": "صورت حساب"
+        },
+        {
+          "word": "Bargain",
+          "translation": "چانه زدن"
+        },
+        {
+          "word": "Purchase",
+          "translation": "خرید"
+        },
+        {
+          "word": "Return",
+          "translation": "برگشت"
+        },
+        {
+          "word": "Exchange",
+          "translation": "تعویض"
+        }
+      ]
+    },
+    {
+      "lesson": 37,
+      "title": "Health",
+      "vocabulary": [
+        {
+          "word": "Medicine",
+          "translation": "دارو"
+        },
+        {
+          "word": "Doctor",
+          "translation": "دکتر"
+        },
+        {
+          "word": "Nurse",
+          "translation": "پرستار"
+        },
+        {
+          "word": "Hospital",
+          "translation": "بیمارستان/شفاخانه"
+        },
+        {
+          "word": "Clinic",
+          "translation": "کلینیک"
+        },
+        {
+          "word": "Pharmacy",
+          "translation": "داروخانه"
+        },
+        {
+          "word": "Prescription",
+          "translation": "نسخه"
+        },
+        {
+          "word": "Illness",
+          "translation": "بیماری"
+        },
+        {
+          "word": "Treatment",
+          "translation": "درمان"
+        },
+        {
+          "word": "Surgery",
+          "translation": "جراحی"
+        }
+      ]
+    },
+    {
+      "lesson": 38,
+      "title": "Weather",
+      "vocabulary": [
+        {
+          "word": "Sunny",
+          "translation": "آفتابی"
+        },
+        {
+          "word": "Rainy",
+          "translation": "بارانی"
+        },
+        {
+          "word": "Cloudy",
+          "translation": "ابری"
+        },
+        {
+          "word": "Windy",
+          "translation": "بادی"
+        },
+        {
+          "word": "Stormy",
+          "translation": "طوفانی"
+        },
+        {
+          "word": "Snowy",
+          "translation": "برفی"
+        },
+        {
+          "word": "Foggy",
+          "translation": "مه‌آلود"
+        },
+        {
+          "word": "Hot",
+          "translation": "گرم"
+        },
+        {
+          "word": "Cold",
+          "translation": "سرد"
+        },
+        {
+          "word": "Mild",
+          "translation": "معتدل"
+        }
+      ]
+    },
+    {
+      "lesson": 39,
+      "title": "Technology",
+      "vocabulary": [
+        {
+          "word": "Computer",
+          "translation": "کامپیوتر"
+        },
+        {
+          "word": "Internet",
+          "translation": "اینترنت"
+        },
+        {
+          "word": "Phone",
+          "translation": "تلفن"
+        },
+        {
+          "word": "Email",
+          "translation": "ایمیل"
+        },
+        {
+          "word": "Software",
+          "translation": "نرم‌افزار"
+        },
+        {
+          "word": "Hardware",
+          "translation": "سخت‌افزار"
+        },
+        {
+          "word": "Website",
+          "translation": "وبسایت"
+        },
+        {
+          "word": "Keyboard",
+          "translation": "کیبورد"
+        },
+        {
+          "word": "Mouse",
+          "translation": "ماوس"
+        },
+        {
+          "word": "Screen",
+          "translation": "صفحه نمایش"
+        }
+      ]
+    },
+    {
+      "lesson": 40,
+      "title": "Sports",
+      "vocabulary": [
+        {
+          "word": "Football",
+          "translation": "فوتبال"
+        },
+        {
+          "word": "Basketball",
+          "translation": "بسکتبال"
+        },
+        {
+          "word": "Tennis",
+          "translation": "تنیس"
+        },
+        {
+          "word": "Swimming",
+          "translation": "شنا"
+        },
+        {
+          "word": "Running",
+          "translation": "دویدن"
+        },
+        {
+          "word": "Cycling",
+          "translation": "دوچرخه‌سواری"
+        },
+        {
+          "word": "Gymnastics",
+          "translation": "ژیمناستیک"
+        },
+        {
+          "word": "Boxing",
+          "translation": "بوکس"
+        },
+        {
+          "word": "Volleyball",
+          "translation": "والیبال"
+        },
+        {
+          "word": "Hockey",
+          "translation": "هاکی"
+        }
+      ]
+    },
+    {
+      "lesson": 41,
+      "title": "Music",
+      "vocabulary": [
+        {
+          "word": "Song",
+          "translation": "آهنگ"
+        },
+        {
+          "word": "Music",
+          "translation": "موسیقی"
+        },
+        {
+          "word": "Singer",
+          "translation": "خواننده"
+        },
+        {
+          "word": "Band",
+          "translation": "گروه موسیقی"
+        },
+        {
+          "word": "Concert",
+          "translation": "کنسرت"
+        },
+        {
+          "word": "Instrument",
+          "translation": "ساز"
+        },
+        {
+          "word": "Piano",
+          "translation": "پیانو"
+        },
+        {
+          "word": "Guitar",
+          "translation": "گیتار"
+        },
+        {
+          "word": "Drums",
+          "translation": "درامز"
+        },
+        {
+          "word": "Violin",
+          "translation": "ویولن"
+        }
+      ]
+    },
+    {
+      "lesson": 42,
+      "title": "Travel",
+      "vocabulary": [
+        {
+          "word": "Passport",
+          "translation": "گذرنامه"
+        },
+        {
+          "word": "Ticket",
+          "translation": "بلیط/تکت"
+        },
+        {
+          "word": "Luggage",
+          "translation": "چمدان/بکس سفر"
+        },
+        {
+          "word": "Map",
+          "translation": "نقشه"
+        },
+        {
+          "word": "Guide",
+          "translation": "راهنما"
+        },
+        {
+          "word": "Tour",
+          "translation": "تور/سياحت"
+        },
+        {
+          "word": "Destination",
+          "translation": "مقصد"
+        },
+        {
+          "word": "Journey",
+          "translation": "سفر"
+        },
+        {
+          "word": "Adventure",
+          "translation": "ماجراجویی"
+        },
+        {
+          "word": "Sightseeing",
+          "translation": "دیدن مناظر"
+        }
+      ]
+    },
+    {
+      "lesson": 43,
+      "title": "Media",
+      "vocabulary": [
+        {
+          "word": "Newspaper",
+          "translation": "روزنامه"
+        },
+        {
+          "word": "Magazine",
+          "translation": "مجله"
+        },
+        {
+          "word": "Television",
+          "translation": "تلویزیون"
+        },
+        {
+          "word": "Radio",
+          "translation": "رادیو"
+        },
+        {
+          "word": "Internet",
+          "translation": "اینترنت"
+        },
+        {
+          "word": "Article",
+          "translation": "مقاله"
+        },
+        {
+          "word": "News",
+          "translation": "اخبار"
+        },
+        {
+          "word": "Report",
+          "translation": "گزارش"
+        },
+        {
+          "word": "Broadcast",
+          "translation": "پخش"
+        },
+        {
+          "word": "Interview",
+          "translation": "مصاحبه"
+        }
+      ]
+    },
+    {
+      "lesson": 44,
+      "title": "Art",
+      "vocabulary": [
+        {
+          "word": "Painting",
+          "translation": "نقاشی"
+        },
+        {
+          "word": "Sculpture",
+          "translation": "مجسمه‌سازی"
+        },
+        {
+          "word": "Drawing",
+          "translation": "طراحی"
+        },
+        {
+          "word": "Gallery",
+          "translation": "گالری"
+        },
+        {
+          "word": "Museum",
+          "translation": "موزه"
+        },
+        {
+          "word": "Artist",
+          "translation": "هنرمند"
+        },
+        {
+          "word": "Exhibition",
+          "translation": "نمایشگاه"
+        },
+        {
+          "word": "Canvas",
+          "translation": "بوم نقاشی"
+        },
+        {
+          "word": "Brush",
+          "translation": "قلم‌مو"
+        },
+        {
+          "word": "Color",
+          "translation": "رنگ"
+        }
+      ]
+    },
+    {
+      "lesson": 45,
+      "title": "Science",
+      "vocabulary": [
+        {
+          "word": "Experiment",
+          "translation": "آزمایش"
+        },
+        {
+          "word": "Laboratory",
+          "translation": "آزمایشگاه"
+        },
+        {
+          "word": "Research",
+          "translation": "تحقیق"
+        },
+        {
+          "word": "Scientist",
+          "translation": "دانشمند"
+        },
+        {
+          "word": "Theory",
+          "translation": "نظریه"
+        },
+        {
+          "word": "Data",
+          "translation": "داده/سوابق/اطلاعات"
+        },
+        {
+          "word": "Analysis",
+          "translation": "تحلیل"
+        },
+        {
+          "word": "Hypothesis",
+          "translation": "فرضیه"
+        },
+        {
+          "word": "Observation",
+          "translation": "مشاهده"
+        },
+        {
+          "word": "Conclusion",
+          "translation": "نتیجه‌گیری"
+        }
+      ]
+    },
+    {
+      "lesson": 46,
+      "title": "Vehicles",
+      "vocabulary": [
+        {
+          "word": "Car",
+          "translation": "ماشین"
+        },
+        {
+          "word": "Bus",
+          "translation": "اتوبوس/بس"
+        },
+        {
+          "word": "Train",
+          "translation": "قطار/ریل"
+        },
+        {
+          "word": "Bicycle",
+          "translation": "دوچرخه/بایسکل"
+        },
+        {
+          "word": "Airplane",
+          "translation": "هواپیما"
+        },
+        {
+          "word": "Boat",
+          "translation": "قایق/کشتی"
+        },
+        {
+          "word": "Motorcycle",
+          "translation": "موتورسیکلت"
+        },
+        {
+          "word": "Truck",
+          "translation": "کامیون/موتر باربری"
+        },
+        {
+          "word": "Taxi",
+          "translation": "تاکسی"
+        },
+        {
+          "word": "Subway",
+          "translation": "مترو"
+        }
+      ]
+    },
+    {
+      "lesson": 47,
+      "title": "Office",
+      "vocabulary": [
+        {
+          "word": "Office",
+          "translation": "دفتر"
+        },
+        {
+          "word": "Desk",
+          "translation": "میز کار"
+        },
+        {
+          "word": "Computer",
+          "translation": "کامپیوتر"
+        },
+        {
+          "word": "Telephone",
+          "translation": "تلفن"
+        },
+        {
+          "word": "Printer",
+          "translation": "چاپگر"
+        },
+        {
+          "word": "Paper",
+          "translation": "کاغذ"
+        },
+        {
+          "word": "Pen",
+          "translation": "خودکار"
+        },
+        {
+          "word": "Meeting",
+          "translation": "جلسه"
+        },
+        {
+          "word": "Report",
+          "translation": "گزارش"
+        },
+        {
+          "word": "File",
+          "translation": "پرونده"
+        }
+      ]
+    },
+    {
+      "lesson": 48,
+      "title": "Hospital",
+      "vocabulary": [
+        {
+          "word": "Hospital",
+          "translation": "بیمارستان/شفاخانه"
+        },
+        {
+          "word": "Doctor",
+          "translation": "دکتر"
+        },
+        {
+          "word": "Nurse",
+          "translation": "پرستار"
+        },
+        {
+          "word": "Patient",
+          "translation": "بیمار"
+        },
+        {
+          "word": "Medicine",
+          "translation": "دارو"
+        },
+        {
+          "word": "Surgery",
+          "translation": "جراحی"
+        },
+        {
+          "word": "Bed",
+          "translation": "تخت"
+        },
+        {
+          "word": "Clinic",
+          "translation": "کلینیک"
+        },
+        {
+          "word": "Emergency",
+          "translation": "اورژانس/عاجل"
+        },
+        {
+          "word": "Treatment",
+          "translation": "درمان"
+        }
+      ]
+    },
+    {
+      "lesson": 49,
+      "title": "Finance",
+      "vocabulary": [
+        {
+          "word": "Money",
+          "translation": "پول"
+        },
+        {
+          "word": "Bank",
+          "translation": "بانک"
+        },
+        {
+          "word": "Account",
+          "translation": "حساب"
+        },
+        {
+          "word": "Loan",
+          "translation": "وام/قرض"
+        },
+        {
+          "word": "Interest",
+          "translation": "سود"
+        },
+        {
+          "word": "Savings",
+          "translation": "پس‌انداز"
+        },
+        {
+          "word": "Investment",
+          "translation": "سرمایه‌گذاری"
+        },
+        {
+          "word": "Budget",
+          "translation": "بودجه"
+        },
+        {
+          "word": "Expense",
+          "translation": "هزینه"
+        },
+        {
+          "word": "Income",
+          "translation": "درآمد"
+        }
+      ]
+    },
+    {
+      "lesson": 50,
+      "title": "Education",
+      "vocabulary": [
+        {
+          "word": "School",
+          "translation": "مدرسه/مکتب"
+        },
+        {
+          "word": "Student",
+          "translation": "دانش‌آموز/شاگرد"
+        },
+        {
+          "word": "Teacher",
+          "translation": "معلم"
+        },
+        {
+          "word": "Class",
+          "translation": "کلاس"
+        },
+        {
+          "word": "Lesson",
+          "translation": "درس"
+        },
+        {
+          "word": "Homework",
+          "translation": "مشق"
+        },
+        {
+          "word": "Exam",
+          "translation": "امتحان"
+        },
+        {
+          "word": "Grade",
+          "translation": "نمره"
+        },
+        {
+          "word": "University",
+          "translation": "دانشگاه"
+        },
+        {
+          "word": "Diploma",
+          "translation": "دیپلم"
+        }
+      ]
+    }
+  ]
+}

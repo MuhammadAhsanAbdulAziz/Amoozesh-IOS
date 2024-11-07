@@ -1,0 +1,2152 @@
+{
+  "quizzes": [
+    {
+      "quiz": [
+        {
+          "question": "The dog is barking at the stranger. What type of noun is 'dog'?",
+          "translation": "سوال: سگ در حال پارس(زوزه)کردن به غریبه است. 'سگ' چه نوع اسمی است؟",
+          "answers": {
+            "a": "Common noun | اسم عام",
+            "b": "Proper noun | اسم خاص",
+            "c": "Abstract noun | اسم انتزاعی"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "اسم عام"
+        },
+        {
+          "question": "Maryam went to the store yesterday. What type of noun is 'Maryam'?",
+          "translation": "سوال:مریم دیروز به فروشگاه رفت. 'مریم' چه نوع اسمی است؟",
+          "answers": {
+            "a": "Common noun | اسم عام",
+            "b": "Proper noun | اسم خاص",
+            "c": "Countable noun | اسم قابل شمارش"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "اسم خاص"
+        },
+        {
+          "question": "How many books did you buy?",
+          "translation": "سوال: چند کتاب خریدی؟",
+          "answers": {
+            "a": "Uncountable noun | اسم غیرقابل شمارش",
+            "b": "Proper noun | اسم خاص",
+            "c": "Countable noun | اسم قابل شمارش"
+          },
+          "correct_answer": "c",
+          "correct_answer_translation": "اسم قابل شمارش"
+        },
+        {
+          "question": "There is some sugar in the bowl. What type of noun is 'sugar'?",
+          "translation": "سوال: کمی شکر در کاسه است. 'شکر' چه نوع اسمی است؟",
+          "answers": {
+            "a": "Countable noun | اسم قابل شمارش",
+            "b": "Uncountable noun | اسم غیرقابل شمارش",
+            "c": "Proper noun | اسم خاص"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "اسم غیرقابل شمارش"
+        },
+        {
+          "question": "He is my brother. What type of pronoun is 'He'?",
+          "translation": "سوال:او برادر من است. 'او' چه نوع ضمیری است؟",
+          "answers": {
+            "a": "Possessive pronoun | ضمیر ملکی",
+            "b": "Personal pronoun | ضمیر شخصی",
+            "c": "Demonstrative pronoun | ضمیر اشاره‌ای"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "ضمیر شخصی"
+        },
+        {
+          "question": "This book is mine. What type of pronoun is 'mine'?",
+          "translation": "سوال: این کتاب مال من است. 'مال من' چه نوع ضمیری است؟",
+          "answers": {
+            "a": "Reflexive pronoun | ضمیر انعکاسی",
+            "b": "Possessive pronoun | ضمیر ملکی",
+            "c": "Demonstrative pronoun | ضمیر اشاره‌ای"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "ضمیر ملکی"
+        },
+        {
+          "question": "The teacher praised herself. What type of pronoun is 'herself'?",
+          "translation": "سوال: معلم خود را تحسین کرد. 'خودش' چه نوع ضمیری است؟",
+          "answers": {
+            "a": "Personal pronoun | ضمیر شخصی",
+            "b": "Reflexive pronoun | ضمیر انعکاسی",
+            "c": "Demonstrative pronoun | ضمیر اشاره‌ای"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "ضمیر انعکاسی"
+        },
+        {
+          "question": "This is the car I want to buy. What type of pronoun is 'This'?",
+          "translation": "سوال: این موتری است که می‌خواهم بخرم. 'این' چه نوع ضمیری است؟",
+          "answers": {
+            "a": "Possessive pronoun | ضمیر ملکی",
+            "b": "Demonstrative pronoun | ضمیر اشاره‌ای",
+            "c": "Personal pronoun | ضمیر شخصی"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "ضمیر اشاره‌ای"
+        },
+        {
+          "question": "She runs every morning. What type of verb is 'runs'?",
+          "translation": "سوال: او هر روز صبح می‌دود. 'می‌دود' چه نوع فعلی است؟",
+          "answers": {
+            "a": "Linking verb | فعل ربطی",
+            "b": "Helping verb | فعل کمکی",
+            "c": "Action verb | فعل عملی"
+          },
+          "correct_answer": "c",
+          "correct_answer_translation": "فعل عملی"
+        },
+        {
+          "question": "The sky is blue. What type of verb is 'is'?",
+          "translation": "سوال: آسمان آبی است. 'است' چه نوع فعلی است؟",
+          "answers": {
+            "a": "Action verb | فعل عملی",
+            "b": "Linking verb | فعل ربطی",
+            "c": "Helping verb | فعل کمکی"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "فعل ربطی"
+        },
+        {
+          "question": "He has finished his work. What type of verb is 'has'?",
+          "translation": "سوال: او کارش را تمام کرده است. 'داده است' چه نوع فعلی است؟",
+          "answers": {
+            "a": "Action verb | فعل عملی",
+            "b": "Linking verb | فعل ربطی",
+            "c": "Helping verb | فعل کمکی"
+          },
+          "correct_answer": "c",
+          "correct_answer_translation": "فعل کمکی"
+        },
+        {
+          "question": "She does not like ice cream. What type of verb is 'does not'?",
+          "translation": "سوال: او قهوه دوست ندارد. 'ندارد' چه نوع فعلی است؟",
+          "answers": {
+            "a": "Action verb | فعل عملی",
+            "b": "Action verb | فعل عملی",
+            "c": "Action verb | فعل عملی"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "فعل عملی"
+        },
+        {
+          "question": "The city is beautiful at night. What type of noun is 'city'?",
+          "translation": "سوال: شهر در شب زیبا است. 'شهر' چه نوع اسمی است؟",
+          "answers": {
+            "a": "Common noun | اسم عام",
+            "b": "Proper noun | اسم خاص",
+            "c": "Abstract noun | اسم انتزاعی"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "اسم عام"
+        },
+        {
+          "question": "We are going to the park. What type of pronoun is 'We'?",
+          "translation": "سوال: ما به پارک می‌رویم. 'ما' چه نوع ضمیری است؟",
+          "answers": {
+            "a": "Possessive pronoun | ضمیر ملکی",
+            "b": "Reflexive pronoun | ضمیر انعکاسی",
+            "c": "Personal pronoun | ضمیر شخصی"
+          },
+          "correct_answer": "c",
+          "correct_answer_translation": "ضمیر شخصی"
+        },
+        {
+          "question": "The cake tastes delicious. What type of verb is 'tastes'?",
+          "translation": "سوال: کیک خوشمزه است. 'است' چه نوع فعلی است؟",
+          "answers": {
+            "a": "Action verb | فعل عملی",
+            "b": "Linking verb | فعل ربطی",
+            "c": "Helping verb | فعل کمکی"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "فعل ربطی"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "She ______ coffee every morning.",
+          "translation": "سوال: او هر روز صبح قهوه ______.",
+          "answers": {
+            "a": "drinks | می‌نوشد",
+            "b": "drink | نوشید",
+            "c": "drinking | نوشیدن"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "می‌نوشد"
+        },
+        {
+          "question": "They______ to the gym twice a week.",
+          "translation": "سوال: آنها دو بار در هفته به باشگاه ______.",
+          "answers": {
+            "a": "go | می‌روند",
+            "b": "went | رفتند",
+            "c": "will go | خواهند رفت"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "می‌روند"
+        },
+        {
+          "question": "The train ______ at 6 PM every day.",
+          "translation": "سوال: قطار هر روز ساعت 6 عصر ______.",
+          "answers": {
+            "a": "leaves | حرکت می‌کند",
+            "b": "leave | حرکت کردن",
+            "c": "leaving | حرکت کردن"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "حرکت می‌کند"
+        },
+        {
+          "question": "I ______ my grandparents last weekend.",
+          "translation": "سوال: من آخر هفته گذشته به دیدن پدربزرگ و مادربزرگم ______.",
+          "answers": {
+            "a": "visited | رفتم",
+            "b": "visit | می‌روم",
+            "c": "will visit | خواهم رفت"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "رفتم"
+        },
+        {
+          "question": "She ______ her homework last night.",
+          "translation": "سوال: او دیشب تکالیفش را ______.",
+          "answers": {
+            "a": "finished | تمام کرد",
+            "b": "finishes | تمام می‌کند",
+            "c": "will finish | تمام خواهد کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تمام کرد"
+        },
+        {
+          "question": "They ______ dinner and then ______ a movie.",
+          "translation": "سوال: آنها شام ______ و سپس یک فیلم ______.",
+          "answers": {
+            "a": "ate, watched | خوردند، تماشا کردند",
+            "b": "eat, watch | می‌خورند، تماشا می‌کنند",
+            "c": "will eat, will watch | خواهند خورد، خواهند تماشا کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خوردند، تماشا کردند"
+        },
+        {
+          "question": "He ______ football every Saturday when he was young.",
+          "translation": "سوال: او هر شنبه فوتبال ______ وقتی که جوان بود.",
+          "answers": {
+            "a": "played | بازی می‌کرد",
+            "b": "plays | بازی می‌کند",
+            "c": "will play | خواهد کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بازی می‌کرد"
+        },
+        {
+          "question": "I ______ call you tomorrow.",
+          "translation": "سوال: من فردا به تو ______.",
+          "answers": {
+            "a": "will | زنگ خواهم زد",
+            "b": "shall | باید زنگ بزنم",
+            "c": "must | باید زنگ بزنم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "زنگ خواهم زد"
+        },
+        {
+          "question": "They ______ to travel to Paris next month.",
+          "translation": "سوال: آنها ماه آینده به پاریس ______.",
+          "answers": {
+            "a": "are going | سفر خواهند کرد",
+            "b": "went | رفتند",
+            "c": "go | می‌روند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "سفر خواهند کرد"
+        },
+        {
+          "question": "It's raining. I ______ take an umbrella.",
+          "translation": "سوال: باران می‌بارد. من ______ چتر بگیرم.",
+          "answers": {
+            "a": "will | خواهم برداشت",
+            "b": "am going | برداشت می‌کنم",
+            "c": "was | برداشتم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خواهم برداشت"
+        },
+        {
+          "question": "She ______ be a great doctor someday.",
+          "translation": "سوال: او روزی ______ یک دکتر عالی خواهد شد.",
+          "answers": {
+            "a": "will | خواهد شد",
+            "b": "is | هست",
+            "c": "was | بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خواهد شد"
+        },
+        {
+          "question": "I ______ to the market yesterday.",
+          "translation": "سوال: من دیروز به بازار ______.",
+          "answers": {
+            "a": "went | رفتم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "رفتم"
+        },
+        {
+          "question": "We ______ a new car next year.",
+          "translation": "سوال: ما سال آینده ______ یک ماشین جدید خواهیم خرید.",
+          "answers": {
+            "a": "will buy | خواهیم خرید",
+            "b": "buy | می‌خریم",
+            "c": "bought | خریدیم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خواهیم خرید"
+        },
+        {
+          "question": "The teacher ______ the lesson every day.",
+          "translation": "سوال: معلم هر روز درس ______.",
+          "answers": {
+            "a": "teaches | تدریس می‌کند",
+            "b": "taught | تدریس کرد",
+            "c": "will teach | تدریس خواهد کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تدریس می‌کند"
+        },
+        {
+          "question": "They ______ in a new house last year.",
+          "translation": "سوال: آنها سال گذشته در یک خانه جدید ______.",
+          "answers": {
+            "a": "lived | زندگی کردند",
+            "b": "will live | زندگی خواهند کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "زندگی کردند"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "She ______ for her exam last night.",
+          "translation": "سوال: او دیشب در حال ______ برای امتحانش بود.",
+          "answers": {
+            "a": "was studying | مطالعه بود",
+            "b": "is studying | مطالعه است",
+            "c": "will be studying | مطالعه خواهد کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "مطالعه بود"
+        },
+        {
+          "question": "We ______ our grandparents next weekend.",
+          "translation": "سوال: ما آخر هفته آینده به دیدن پدربزرگ و مادربزرگمان ______.",
+          "answers": {
+            "a": "will be visiting | خواهیم رفت",
+            "b": "were visiting | رفتیم",
+            "c": "are visiting | می‌رویم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خواهیم رفت"
+        },
+        {
+          "question": "They ______ to the park at 5 PM yesterday.",
+          "translation": "سوال: آنها دیروز ساعت ۵ عصر در حال ______ به پارک بودند.",
+          "answers": {
+            "a": "were going | رفتن بودند",
+            "b": "are going | رفتن هستند",
+            "c": "will be going | رفتن خواهند بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "رفتن بودند"
+        },
+        {
+          "question": "She ______ late every night next week.",
+          "translation": "سوال: او هفته آینده هر شب تا دیر وقت ______.",
+          "answers": {
+            "a": "will be working | کار خواهد کرد",
+            "b": "is working | کار می‌کند",
+            "c": "was working | کار می‌کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "کار خواهد کرد"
+        },
+        {
+          "question": "The sun ______ as we were walking along the beach.",
+          "translation": "سوال: خورشید در حال ______ بود در حالی که ما در کنار ساحل راه می‌رفتیم.",
+          "answers": {
+            "a": "was setting | غروب کردن بود",
+            "b": "is setting | غروب کردن است",
+            "c": "will be setting | غروب کردن خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "غروب کردن بود"
+        },
+        {
+          "question": "I ______ my homework when you called.",
+          "translation": "سوال:من در حال ______ تکالیفم بودم وقتی که تو زنگ زدی.",
+          "answers": {
+            "a": "was doing | انجام دادن بودم",
+            "b": "am doing | انجام می‌دهم",
+            "c": "will be doing | انجام خواهم داد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "انجام دادن بودم"
+        },
+        {
+          "question": "They ______ TV when I arrived.",
+          "translation": "سوال: آنها در حال ______ تلویزیون بودند وقتی من رسیدم.",
+          "answers": {
+            "a": "were watching | تماشا می‌کردند",
+            "b": "are watching | تماشا می‌کنند",
+            "c": "will be watching | تماشا خواهند کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تماشا می‌کردند"
+        },
+        {
+          "question": "We ______ dinner at 8 PM tonight.",
+          "translation": "سوال:** ما ساعت ۸ امشب در حال ______ شام خواهیم بود.",
+          "answers": {
+            "a": "will be having | خوردن خواهیم بود",
+            "b": "were having | خوردن بودیم",
+            "c": "are having | خوردن هستیم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خوردن خواهیم بود"
+        },
+        {
+          "question": "She ______ with her parents until she finds a job.",
+          "translation": "سوال: او در حال حاضر با والدینش ______ تا زمانی که یک شغل پیدا کند.",
+          "answers": {
+            "a": "is living | زندگی می‌کند",
+            "b": "was living | زندگی می‌کرد",
+            "c": "will be living | زندگی خواهد کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "زندگی می‌کند"
+        },
+        {
+          "question": "They ______ when you called.",
+          "translation": "سوال: آنها در حال ______ بودند وقتی که تو زنگ زدی.",
+          "answers": {
+            "a": "were sleeping | خواب بودند",
+            "b": "are sleeping | خواب هستند",
+            "c": "will be sleeping | خواب خواهند بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خواب بودند"
+        },
+        {
+          "question": "I ______ to the office tomorrow morning.",
+          "translation": "سوال: من فردا صبح در حال ______ به دفتر خواهم بود.",
+          "answers": {
+            "a": "will be going | رفتن خواهم بود",
+            "b": "was going | رفتن بودم",
+            "c": "am going | رفتن هستم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "رفتن خواهم بود"
+        },
+        {
+          "question": "She ______ a book right now.",
+          "translation": "سوال: او در حال ______ یک کتاب است.",
+          "answers": {
+            "a": "is reading | خواندن است",
+            "b": "was reading | خواندن بود",
+            "c": "will be reading | خواندن خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خواندن است"
+        },
+        {
+          "question": "They ______ for their exams at the moment.",
+          "translation": "سوال:آنها در حال ______ برای امتحاناتشان هستند.",
+          "answers": {
+            "a": "are studying | مطالعه هستند",
+            "b": "were studying | مطالعه بودند",
+            "c": "will be studying | مطالعه خواهند کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "مطالعه هستند"
+        },
+        {
+          "question": "I ______ dinner when the phone rang.",
+          "translation": "سوال: من در حال ______ شام بودم که تلفن زنگ زد.",
+          "answers": {
+            "a": "was cooking | پختن بودم",
+            "b": "am cooking | پختن هستم",
+            "c": "will be cooking | پختن خواهم بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "پختن بودم"
+        },
+        {
+          "question": "This time tomorrow, I ______ to New York.",
+          "translation": "سوال: این موقع فردا من در حال ______ به نیویورک خواهم بود.",
+          "answers": {
+            "a": "will be flying | پرواز خواهم بود",
+            "b": "was flying | پرواز بودم",
+            "c": "am flying | پرواز هستم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "پرواز خواهم بود"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "She has a ______ house.",
+          "translation": "سوال: او یک خانه ______ دارد.",
+          "answers": {
+            "a": "big | بزرگ",
+            "b": "quickly | سریع",
+            "c": "on | روی"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بزرگ"
+        },
+        {
+          "question": "He bought a ______ car.",
+          "translation": "سوال: او یک موتر ______ خرید.",
+          "answers": {
+            "a": "red | سرخ",
+            "b": "very | بسیار",
+            "c": "towards | به سمت"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "سرخ"
+        },
+        {
+          "question": "They live in an ______ building.",
+          "translation": "سوال: آنها در یک ساختمان ______ زندگی می‌کنند.",
+          "answers": {
+            "a": "old | قدیمی",
+            "b": "beautifully | به زیبایی",
+            "c": "with | با"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "قدیمی"
+        },
+        {
+          "question": "The table has a ______ top.",
+          "translation": "سوال: میز یک سطح ______ دارد.",
+          "answers": {
+            "a": "round | گرد",
+            "b": "soon | به زودی",
+            "c": "under | زیر"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "گرد"
+        },
+        {
+          "question": "She sings ______.",
+          "translation": "سوال: او ______ می‌خواند.",
+          "answers": {
+            "a": "beautifully | به زیبایی",
+            "b": "big | بزرگ",
+            "c": "on | روی"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "به زیبایی"
+        },
+        {
+          "question": "He is ______ tall.",
+          "translation": "سوال: او ______ قد بلند است.",
+          "answers": {
+            "a": "very | بسیار",
+            "b": "quickly | سریع",
+            "c": "old | قدیمی"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بسیار"
+        },
+        {
+          "question": "She runs ______ quickly.",
+          "translation": "سوال: او ______ سریع می‌دود.",
+          "answers": {
+            "a": "quite | به طور کامل",
+            "b": "red | سرخ",
+            "c": "at | در"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "به طور کامل"
+        },
+        {
+          "question": "They will arrive ______.",
+          "translation": "سوال: آنها ______ خواهند رسید.",
+          "answers": {
+            "a": "soon | به زودی",
+            "b": "beautifully | به زیبایی",
+            "c": "old | قدیمی"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "به زودی"
+        },
+        {
+          "question": "The cat is ______ the roof.",
+          "translation": "سوال: پشک ______ سقف است.",
+          "answers": {
+            "a": "on | روی",
+            "b": "with | با",
+            "c": "big | بزرگ"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "روی"
+        },
+        {
+          "question": "She is walking ______ the park.",
+          "translation": "سوال: او به سمت پارک ______ راه می‌رود.",
+          "answers": {
+            "a": "towards | به سمت",
+            "b": "very | بسیار",
+            "c": "round | گرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "به سمت"
+        },
+        {
+          "question": "We will meet ______ 5 PM.",
+          "translation": "سوال: ما ______ ۵ عصر ملاقات خواهیم کرد.",
+          "answers": {
+            "a": "at | در ساعت",
+            "b": "soon | به زودی",
+            "c": "big | بزرگ"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در ساعت"
+        },
+        {
+          "question": "She solved the problem ______ a calculator.",
+          "translation": "سوال: او مسئله را ______ یک ماشین حساب حل کرد.",
+          "answers": {
+            "a": "with | با",
+            "b": "round | گرد",
+            "c": "very | بسیار"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "با"
+        },
+        {
+          "question": "The ______ girl ran to her mother.",
+          "translation": "سوال: دختر ______ به سمت مادرش دوید.",
+          "answers": {
+            "a": "little | کوچک",
+            "b": "quickly | سریع",
+            "c": "towards | به سمت"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "کوچک"
+        },
+        {
+          "question": "He ______ answered the question.",
+          "translation": "سوال: او سوال را ______ پاسخ داد.",
+          "answers": {
+            "a": "quickly | سریع",
+            "b": "on | روی",
+            "c": "round | گرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "سریع"
+        },
+        {
+          "question": "The dog ran ______ the fence.",
+          "translation": "سوال: سگ ______ حصار دوید.",
+          "answers": {
+            "a": "around | دور",
+            "b": "with | با",
+            "c": "old | قدیمی"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "دور"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "She ______ Paris three times.",
+          "translation": "سوال: او سه بار پاریس ______.",
+          "answers": {
+            "a": "has visited | بازدید کرده است",
+            "b": "had visited | بازدید کرده بود",
+            "c": "will have visited | بازدید کرده خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بازدید کرده است"
+        },
+        {
+          "question": "By the time you arrive, I ______ dinner.",
+          "translation": "سوال: تا زمانی که تو برسی، من ______ شام.",
+          "answers": {
+            "a": "will have cooked | پخته‌ام",
+            "b": "had cooked | پخته بودم",
+            "c": "have cooked | پخته‌ام"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "پخته‌ام"
+        },
+        {
+          "question": "They ______ here for ten years.",
+          "translation": "سوال: آنها ده سال اینجا ______ زندگی می‌کردند.",
+          "answers": {
+            "a": "have lived | زندگی کرده‌اند",
+            "b": "had lived | زندگی کرده بودند",
+            "c": "will have lived | زندگی کرده خواهند بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "زندگی کرده‌اند"
+        },
+        {
+          "question": "She ______ her homework before the movie started.",
+          "translation": "سوال: او کارخانگی‌اش را قبل از شروع فیلم ______ انجام داده بود.",
+          "answers": {
+            "a": "had finished | تمام کرده بود",
+            "b": "has finished | تمام کرده است",
+            "c": "will have finished | تمام خواهد کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تمام کرده بود"
+        },
+        {
+          "question": "I ______ never seen such a beautiful sunset.",
+          "translation": "سوال: من هرگز چنین غروب زیبایی را ______ ندیده‌ام.",
+          "answers": {
+            "a": "have | ندیده‌ام",
+            "b": "had | ندیده بودم",
+            "c": "will have | ندیده‌ام"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "ندیده‌ام"
+        },
+        {
+          "question": "By next year, they ______ the new building.",
+          "translation": "سوال: تا سال آینده، آنها ______ ساختمان جدید را تمام کرده‌اند.",
+          "answers": {
+            "a": "will have completed | تمام کرده‌اند",
+            "b": "have completed | تمام کرده‌اند",
+            "c": "had completed | تمام کرده بودند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تمام کرده‌اند"
+        },
+        {
+          "question": "She ______ the report before the deadline.",
+          "translation": "سوال: او گزارش را قبل از مهلت ______ تحویل داده بود.",
+          "answers": {
+            "a": "had submitted | تحویل داده بود",
+            "b": "has submitted | تحویل داده است",
+            "c": "will have submitted | تحویل داده خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تحویل داده بود"
+        },
+        {
+          "question": "We ______ the house by the time you get here.",
+          "translation": "سوال: ما ______ خانه را تا زمانی که تو اینجا برسی تمیز کرده‌ایم.",
+          "answers": {
+            "a": "will have cleaned | تمیز کرده‌ایم",
+            "b": "have cleaned | تمیز کرده‌ایم",
+            "c": "had cleaned | تمیز کرده بودیم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تمیز کرده‌ایم"
+        },
+        {
+          "question": "He ______ when you called last night.",
+          "translation": "سوال: او ______ زمانی که تو دیشب زنگ زدی به خانه رسیده بود.",
+          "answers": {
+            "a": "had arrived | رسیده بود",
+            "b": "has arrived | رسیده است",
+            "c": "will have arrived | رسیده خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "رسیده بود"
+        },
+        {
+          "question": "By the end of this month, she ______ the project.",
+          "translation": "سوال: تا پایان این ماه او ______ پروژه را تمام کرده است.",
+          "answers": {
+            "a": "will have finished | تمام کرده است",
+            "b": "had finished | تمام کرده بود",
+            "c": "has finished | تمام کرده است"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تمام کرده است"
+        },
+        {
+          "question": "I ______ lunch before they arrived.",
+          "translation": "سوال: من ______ غذای چاشت را قبل از اینکه آنها برسند خورده بودم.",
+          "answers": {
+            "a": "had eaten | خورده بودم",
+            "b": "have eaten | خورده‌ام",
+            "c": "will have eaten | خورده‌ام"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خورده بودم"
+        },
+        {
+          "question": "They ______ the museum before the trip ended.",
+          "translation": "سوال: آنها ______ از موزه قبل از پایان سفر بازدید کرده بودند.",
+          "answers": {
+            "a": "had visited | بازدید کرده بودند",
+            "b": "have visited | بازدید کرده‌اند",
+            "c": "will have visited | بازدید خواهند کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بازدید کرده بودند"
+        },
+        {
+          "question": "By the end of the year, I ______ all the books on my list.",
+          "translation": "سوال: تا پایان سال، من ______ تمام کتاب‌های لیستم را خوانده‌ام.",
+          "answers": {
+            "a": "will have read | خوانده‌ام",
+            "b": "have read | خوانده‌ام",
+            "c": "had read | خوانده بودم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خوانده‌ام"
+        },
+        {
+          "question": "She ______ by the time the meeting started.",
+          "translation": "سوال: او ______ قبل از شروع جلسه رسیده بود.",
+          "answers": {
+            "a": "had arrived | رسیده بود",
+            "b": "has arrived | رسیده است",
+            "c": "will have arrived | رسیده است"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "رسیده بود"
+        },
+        {
+          "question": "By next summer, they ______ the new park.",
+          "translation": "سوال: تا تابستان آینده، آنها ______ پارک جدید را ساخته‌اند.",
+          "answers": {
+            "a": "will have built | ساخته‌اند",
+            "b": "have built | ساخته‌اند",
+            "c": "had built | ساخته بودند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "ساخته‌اند"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "She ______ here for five years.",
+          "translation": "سوال: او پنج سال است که اینجا کار می‌کند.",
+          "answers": {
+            "a": "has been working | در حال کار کردن است",
+            "b": "had been working | در حال کار کردن بود",
+            "c": "will have been working | در حال کار کردن خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال کار کردن است"
+        },
+        {
+          "question": "They ______ since last week.",
+          "translation": "سوال: آنها از هفته گذشته در حال سفر هستند.",
+          "answers": {
+            "a": "have been traveling | در حال سفر بوده‌اند",
+            "b": "had been traveling | در حال سفر بودند",
+            "c": "will have been traveling | در حال سفر خواهند بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال سفر بوده‌اند"
+        },
+        {
+          "question": "I ______ all morning.",
+          "translation": "سوال: من تمام صبح در حال مطالعه بودم.",
+          "answers": {
+            "a": "have been studying | در حال مطالعه بوده‌ام",
+            "b": "had been studying | در حال مطالعه بودم",
+            "c": "will have been studying | در حال مطالعه خواهم بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال مطالعه بوده‌ام"
+        },
+        {
+          "question": "She ______ for an hour when he arrived.",
+          "translation": "سوال: مدت یک ساعت بود که وقتی او رسید در حال پختن بود.",
+          "answers": {
+            "a": "had been cooking | در حال پختن بود",
+            "b": "has been cooking | در حال پختن است",
+            "c": "will have been cooking | در حال پختن خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال پختن بود"
+        },
+        {
+          "question": "By next year, they ______ here for ten years.",
+          "translation": "سوال: تا سال آینده، آنها ده سال اینجا کار کرده‌اند.",
+          "answers": {
+            "a": "will have been working | کار کرده خواهند بود",
+            "b": "have been working | کار کرده‌اند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "کار کرده خواهند بود"
+        },
+        {
+          "question": "They ______ for hours by the time you arrive.",
+          "translation": "سوال: مدت چند ساعت خواهد بود که تا وقتی تو برسی در حال مطالعه خواهند بود.",
+          "answers": {
+            "a": "will have been studying | در حال مطالعه خواهند بود",
+            "b": "have been studying | در حال مطالعه بوده‌اند",
+            "c": "had been studying | در حال مطالعه بودند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال مطالعه خواهند بود"
+        },
+        {
+          "question": "I ______ for hours when the power went out.",
+          "translation": "سوال: من مدت دو ساعت بود که وقتی برق رفت در حال خواندن بودم.",
+          "answers": {
+            "a": "had been reading | در حال خواندن بودم",
+            "b": "have been reading | در حال خواندن بوده‌ام",
+            "c": "will have been reading | در حال خواندن خواهم بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال خواندن بودم"
+        },
+        {
+          "question": "She ______ because she had been working all day.",
+          "translation": "سوال: او خسته بود زیرا تمام روز در حال کار کردن بود.",
+          "answers": {
+            "a": "was tired | خسته بود",
+            "b": "has been tired | خسته است",
+            "c": "will have been tired | خسته خواهد شد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خسته بود"
+        },
+        {
+          "question": "By the end of the year, he ______ for months.",
+          "translation": "سوال: تا پایان سال، او مدت چند ماه است که تمرین کرده خواهد بود.",
+          "answers": {
+            "a": "will have been practicing | تمرین کرده خواهد بود",
+            "b": "have been practicing | تمرین کرده است",
+            "c": "had been practicing | تمرین کرده بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تمرین کرده خواهد بود"
+        },
+        {
+          "question": "We ______ in this house for five years by next June.",
+          "translation": "سوال: ما مدت پنج سال خواهد بود که تا جون آینده در این خانه زندگی کرده‌ایم.",
+          "answers": {
+            "a": "will have been living | زندگی کرده‌ایم",
+            "b": "have been living | زندگی کرده‌ایم",
+            "c": "had been living | زندگی کرده بودیم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "زندگی کرده‌ایم"
+        },
+        {
+          "question": "He ______ for hours before he finally found the solution.",
+          "translation": "سوال: او مدت چند ساعت فکر کرده بود که قبل از اینکه بالاخره راه حل را پیدا کند.",
+          "answers": {
+            "a": "had been thinking | در حال فکر کردن بود",
+            "b": "has been thinking | در حال فکر کردن است",
+            "c": "will have been thinking | در حال فکر کردن خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال فکر کردن بود"
+        },
+        {
+          "question": "By the time she arrives, we ______ for hours.",
+          "translation": "سوال: تا زمانی که او برسد، ما مدت چند ساعت تمرین کرده‌ایم.",
+          "answers": {
+            "a": "will have been practicing | تمرین کرده خواهیم بود",
+            "b": "have been practicing | تمرین کرده‌ایم",
+            "c": "had been practicing | تمرین کرده بودیم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تمرین کرده خواهیم بود"
+        },
+        {
+          "question": "By next summer, they ______ this project for over a year.",
+          "translation": "سوال: تا تابستان آینده، آنها این پروژه را بیش از یک سال است که انجام داده‌اند.",
+          "answers": {
+            "a": "will have been working on | انجام داده‌اند",
+            "b": "have been working on | انجام داده‌اند",
+            "c": "had been working on | انجام داده بودند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "انجام داده‌اند"
+        },
+        {
+          "question": "She ______ for an hour when he called.",
+          "translation": "سوال: مدت یک ساعت بود که وقتی او زنگ زد در حال دویدن بود.",
+          "answers": {
+            "a": "had been running | در حال دویدن بود",
+            "b": "has been running | در حال دویدن است",
+            "c": "will have been running | در حال دویدن خواهد بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال دویدن بود"
+        },
+        {
+          "question": "I ______ for hours, so I need a break.",
+          "translation": "سوال: من چند ساعت مطالعه کرده‌ام، بنابراین به استراحت نیاز دارم.",
+          "answers": {
+            "a": "have been studying | مطالعه کرده‌ام",
+            "b": "had been studying | مطالعه کرده بودم",
+            "c": "will have been studying | مطالعه خواهم کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "مطالعه کرده‌ام"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "If you ______ water to 100°C, it ______.",
+          "translation": "سوال: اگر آب را تا ۱۰۰ درجه سانتی‌گراد گرم کنید، ______.",
+          "answers": {
+            "a": "heat, boils | گرم کنید، جوش می‌آید",
+            "b": "heated, boiled | گرم کردید، جوش آمد",
+            "c": "will heat, will boil | گرم خواهید کرد، جوش خواهد آمد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "گرم کنید، جوش می‌آید"
+        },
+        {
+          "question": "If it ______, we ______ indoors.",
+          "translation": "سوال: اگر ______، ما ______ داخل می‌مانیم.",
+          "answers": {
+            "a": "rains, will stay | باران ببارد، خواهیم ماند",
+            "b": "rained, stayed | باران می‌بارید، ماندیم",
+            "c": "will rain, stay | باران می‌بارد، خواهیم ماند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "باران ببارد، خواهیم ماند"
+        },
+        {
+          "question": "If I ______ rich, I ______ the world.",
+          "translation": "سوال: اگر ______ ثروتمند بودم، ______ به سراسر جهان سفر می‌کردم.",
+          "answers": {
+            "a": "were, would travel | بودم، سفر می‌کردم",
+            "b": "am, will travel | هستم، سفر خواهم کرد",
+            "c": "was, traveled | بودم، سفر کردم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بودم، سفر می‌کردم"
+        },
+        {
+          "question": "If she ______ harder, she ______ the exam.",
+          "translation": "سوال: اگر ______ سخت‌تر درس خوانده بود، ______ امتحان را پاس می‌کرد.",
+          "answers": {
+            "a": "had studied, would have passed | درس خوانده بود، پاس می‌کرد",
+            "b": "studied, will pass | درس بخواند، پاس خواهد کرد",
+            "c": "studies, will pass | درس بخواند، پاس خواهد کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "درس خوانده بود، پاس می‌کرد"
+        },
+        {
+          "question": "She ______ speak three languages.",
+          "translation": "سوال: او ______ می‌تواند سه زبان صحبت کند.",
+          "answers": {
+            "a": "can | می‌تواند",
+            "b": "may | ممکن است",
+            "c": "must | باید"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "می‌تواند"
+        },
+        {
+          "question": "______ I leave early today?",
+          "translation": "سوال: آیا ______ می‌توانم امروز زودتر بروم؟",
+          "answers": {
+            "a": "May | ممکن است",
+            "b": "Can | می‌توانم",
+            "c": "Must | باید"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "ممکن است"
+        },
+        {
+          "question": "You ______ wear a helmet while riding a bike.",
+          "translation": "سوال: شما______ باید هنگام دوچرخه‌سواری کلاه ایمنی بپوشید.",
+          "answers": {
+            "a": "must | باید",
+            "b": "should | باید",
+            "c": "can | می‌توانید"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "باید"
+        },
+        {
+          "question": "It ______ rain tomorrow.",
+          "translation": "سوال: ممکن است فردا ______ باران ببارد.",
+          "answers": {
+            "a": "might | ممکن است",
+            "b": "must | باید",
+            "c": "can | می‌تواند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "ممکن است"
+        },
+        {
+          "question": "The letters ______ every morning.",
+          "translation": "سوال: نامه‌ها هر صبح ______ تحویل داده می‌شوند.",
+          "answers": {
+            "a": "are delivered | تحویل داده می‌شوند",
+            "b": "is delivered | تحویل داده می‌شود",
+            "c": "were delivered | تحویل داده شدند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تحویل داده می‌شوند"
+        },
+        {
+          "question": "The cake ______ by my mother.",
+          "translation": "سوال: کیک توسط مادرم ______ پخته شد.",
+          "answers": {
+            "a": "was baked | پخته شد",
+            "b": "is baked | پخته می‌شود",
+            "c": "has been baked | پخته شده است"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "پخته شد"
+        },
+        {
+          "question": "The project ______.",
+          "translation": "سوال: پروژه ______ تکمیل شده است.",
+          "answers": {
+            "a": "has been completed | تکمیل شده است",
+            "b": "is completed | تکمیل می‌شود",
+            "c": "will be completed | تکمیل خواهد شد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تکمیل شده است"
+        },
+        {
+          "question": "The new bridge ______ next year.",
+          "translation": "سوال: پل جدید سال آینده ______ ساخته خواهد شد.",
+          "answers": {
+            "a": "will be built | ساخته خواهد شد",
+            "b": "is built | ساخته می‌شود",
+            "c": "was built | ساخته شد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "ساخته خواهد شد"
+        },
+        {
+          "question": "If they ______ to the party, they ______ a great time.",
+          "translation": "سوال: اگر آنها ______ به مهمانی آمده بودند، ______ زمان خوبی داشتند.",
+          "answers": {
+            "a": "had come, would have had | آمده بودند، زمان خوبی داشتند",
+            "b": "come, will have | بیایند، زمان خوبی خواهند داشت",
+            "c": "came, have | آمدند، زمان خوبی دارند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آمده بودند، زمان خوبی داشتند"
+        },
+        {
+          "question": "If I ______ the lottery, I ______ a new house.",
+          "translation": "سوال: اگر ______ من بلیط لاتاری را برده بودم، ______ یک خانه جدید می‌خریدم.",
+          "answers": {
+            "a": "had won, would have bought | برده بودم، می‌خریدم",
+            "b": "win, will buy | ببرم، خواهم خرید",
+            "c": "won, buy | برده بودم، می‌خرم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "برده بودم، می‌خریدم"
+        },
+        {
+          "question": "The new rules ______ by the committee.",
+          "translation": "سوال: قوانین جدید توسط کمیته ______ تصویب خواهند شد.",
+          "answers": {
+            "a": "will be approved | تصویب خواهند شد",
+            "b": "is approved | تصویب شده است",
+            "c": "was approved | تصویب شد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "تصویب خواهند شد"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "The man ______ lives next door is a doctor.",
+          "translation": "سوال: مردی ______ در همسایگی زندگی می‌کند، داکتر است.",
+          "answers": {
+            "a": "who | که",
+            "b": "which | که"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "که"
+        },
+        {
+          "question": "My brother, ______ is a teacher, lives in New York.",
+          "translation": "سوال: برادرم، ______ معلم است، در نیویورک زندگی می‌کند.",
+          "answers": {
+            "a": "who | که",
+            "b": "which | که"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "که"
+        },
+        {
+          "question": "The book, ______ I bought yesterday, is very interesting.",
+          "translation": "سوال: کتابی ______ دیروز خریدم، بسیار جالب است.",
+          "answers": {
+            "a": "which | که",
+            "b": "who | که"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "که"
+        },
+        {
+          "question": "The car ______ I drive is very fast.",
+          "translation": "سوال: ماشینی ______ من رانندگی می‌کنم بسیار سریع است.",
+          "answers": {
+            "a": "that | که",
+            "b": "who | که"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "که"
+        },
+        {
+          "question": "She said that she ______ ice cream.",
+          "translation": "سوال: او گفت که ______ بستنی دوست داشت.",
+          "answers": {
+            "a": "liked | دوست داشت",
+            "b": "likes | دوست دارد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "دوست داشت"
+        },
+        {
+          "question": "He said that he ______ a book.",
+          "translation": "سوال: او گفت که ______ در حال خواندن یک کتاب بود.",
+          "answers": {
+            "a": "was reading | در حال خواندن بود",
+            "b": "is reading | در حال خواندن است"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در حال خواندن بود"
+        },
+        {
+          "question": "She said that she ______ to the party.",
+          "translation": "سوال: او گفت که ______ به مهمانی رفت.",
+          "answers": {
+            "a": "would go | می‌رفت",
+            "b": "will go | خواهد رفت"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "می‌رفت"
+        },
+        {
+          "question": "He asked ______ I lived.",
+          "translation": "سوال: او پرسید ______ کجا زندگی می‌کنم.",
+          "answers": {
+            "a": "where | کجا",
+            "b": "what | چه"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "کجا"
+        },
+        {
+          "question": "I wish that he ______ here.",
+          "translation": "سوال: آرزو می‌کنم که او ______ اینجا بود.",
+          "answers": {
+            "a": "were | بود",
+            "b": "was | بود"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بود"
+        },
+        {
+          "question": "I suggest that she ______ harder.",
+          "translation": "سوال: پیشنهاد می‌کنم که او ______ بیشتر مطالعه کند.",
+          "answers": {
+            "a": "study | مطالعه کند",
+            "b": "studied | مطالعه کرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "مطالعه کند"
+        },
+        {
+          "question": "The teacher demands that the student ______ on time.",
+          "translation": "سوال: معلم درخواست می‌کند که دانش‌آموز ______ وقت‌شناس باشد.",
+          "answers": {
+            "a": "be | باشد",
+            "b": "is | هست"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "باشد"
+        },
+        {
+          "question": "If I ______ you, I would apologize.",
+          "translation": "سوال: اگر ______ جای تو بودم، عذرخواهی می‌کردم.",
+          "answers": {
+            "a": "were | بودم",
+            "b": "was | بودم"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بودم"
+        },
+        {
+          "question": "He said that they ______ tomorrow.",
+          "translation": "سوال: او گفت که آنها ______ فردا خواهند آمد.",
+          "answers": {
+            "a": "would come | خواهند آمد",
+            "b": "will come | می‌آیند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خواهند آمد"
+        },
+        {
+          "question": "The house ______ I grew up is very old.",
+          "translation": "سوال: خانه‌ای ______ که من در آن بزرگ شدم، بسیار قدیمی است.",
+          "answers": {
+            "a": "where | که",
+            "b": "which | که"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "که"
+        },
+        {
+          "question": "She wished that she ______ more time.",
+          "translation": "سوال: او آرزو می‌کرد که ______ زمان بیشتری داشت.",
+          "answers": {
+            "a": "had | داشت",
+            "b": "has | دارد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "داشت"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "______ is good for your health.",
+          "translation": "سوال: ______ برای صحت شما مفید است.",
+          "answers": {
+            "a": "Swimming | شنا کردن",
+            "b": "To swim | شنا کردن",
+            "c": "Swim | شنا",
+            "d": "To swim | شنا کردن"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "شنا کردن"
+        },
+        {
+          "question": "She wants ______ to France.",
+          "translation": "سوال: او می‌خواهد ______ به فرانسه برود.",
+          "answers": {
+            "a": "to go | رفتن",
+            "b": "goes | می‌رود",
+            "c": "going | رفتن",
+            "d": "gone | رفته"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "رفتن"
+        },
+        {
+          "question": "He enjoys ______ movies.",
+          "translation": "سوال: او از ______ فیلم لذت می‌برد.",
+          "answers": {
+            "a": "watching | دیدن",
+            "b": "to watch | دیدن",
+            "c": "watch | تماشا کردن",
+            "d": "watches | تماشا می‌کند"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "دیدن"
+        },
+        {
+          "question": "______ is my goal.",
+          "translation": "سوال: ______ هدف من است.",
+          "answers": {
+            "a": "To learn | یادگیری",
+            "b": "Learning | یاد گرفتن",
+            "c": "Learned | یاد گرفته",
+            "d": "To be learned | برای یادگیری"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "یادگیری"
+        },
+        {
+          "question": "I saw ______ dog in the park.",
+          "translation": "سوال: من ______ سگ در پارک دیدم.",
+          "answers": {
+            "a": "a | یک",
+            "b": "an | یک",
+            "c": "the | آن",
+            "d": "this | این"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "یک"
+        },
+        {
+          "question": "She has ______ apple in her bag.",
+          "translation": "سوال: او ______ سیب در کیفش دارد.",
+          "answers": {
+            "a": "an | یک",
+            "b": "a | یک",
+            "c": "the | آن",
+            "d": "this | این"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "یک"
+        },
+        {
+          "question": "______ book on the table is mine.",
+          "translation": "سوال: ______ کتاب روی میز متعلق به من است.",
+          "answers": {
+            "a": "The | آن",
+            "b": "A | یک",
+            "c": "An | یک",
+            "d": "This | این"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آن"
+        },
+        {
+          "question": "______ students are in the classroom.",
+          "translation": "سوال: ______ دانش‌آموزان در کلاس هستند.",
+          "answers": {
+            "a": "The | آن",
+            "b": "A | یک",
+            "c": "An | یک",
+            "d": "These | این‌ها"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آن"
+        },
+        {
+          "question": "I want to buy a shirt ______ a pair of shoes.",
+          "translation": "سوال: من می‌خواهم یک پیراهن ______ یک جفت کفش بخرم.",
+          "answers": {
+            "a": "and | و",
+            "b": "or | یا",
+            "c": "but | اما",
+            "d": "nor | نه"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "و"
+        },
+        {
+          "question": "She stayed home ______ she was sick.",
+          "translation": "سوال: او در خانه ماند ______ بیمار بود.",
+          "answers": {
+            "a": "because | زیرا",
+            "b": "and | و",
+            "c": "although | اگرچه",
+            "d": "but | اما"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "زیرا"
+        },
+        {
+          "question": "You can have either tea ______ coffee.",
+          "translation": "سوال: تو می‌توانی ______ چای ______ قهوه داشته باشی.",
+          "answers": {
+            "a": "either, or | یا، یا",
+            "b": "and, but | و، اما",
+            "c": "neither, nor | نه، نه",
+            "d": "both, and | هر دو"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "یا، یا"
+        },
+        {
+          "question": "He went to the park ______ it was raining.",
+          "translation": "سوال: او به پارک رفت ______ باران می‌بارید.",
+          "answers": {
+            "a": "although | اگرچه",
+            "b": "because | زیرا",
+            "c": "and | و",
+            "d": "but | اما"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "اگرچه"
+        },
+        {
+          "question": "She is interested in ______ new things.",
+          "translation": "سوال: او به ______  چیزهای جدید علاقه دارد.",
+          "answers": {
+            "a": "learning | یادگیری",
+            "b": "learn | یاد گرفتن",
+            "c": "to learn | برای یادگیری",
+            "d": "learns | یاد می‌گیرد"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "یادگیری"
+        },
+        {
+          "question": "The cake ______ she made was delicious.",
+          "translation": "سوال: کیکی که او درست کرد ______ خوشمزه بود.",
+          "answers": {
+            "a": "that | که",
+            "b": "which | کدام",
+            "c": "a | یک",
+            "d": "the | آن"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "که"
+        },
+        {
+          "question": "______ orange is rich in vitamin C.",
+          "translation": "سوال: ______ نارنج سرشار از ویتامین C است.",
+          "answers": {
+            "a": "An | یک",
+            "b": "A | یک",
+            "c": "The | آن",
+            "d": "This | این"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "یک"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "The meal ______ by the chef.",
+          "translation": "غذا توسط آشپز ______.",
+          "answers": {
+            "a": "cooked | پخت",
+            "b": "was cooked | پخته شد",
+            "c": "is cooking | در حال پخت است",
+            "d": "cooks | می‌پزد"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "They ______ the packages yesterday.",
+          "translation": "آنها بسته‌ها را دیروز ______.",
+          "answers": {
+            "a": "deliver | تحویل می‌دهند",
+            "b": "were delivered | تحویل داده شدند",
+            "c": "delivered | تحویل دادند",
+            "d": "have delivered | تحویل داده‌اند"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "The store ______ closed when she arrived.",
+          "translation": "فروشگاه زمانی که او رسید ______ بسته بود.",
+          "answers": {
+            "a": "is | است",
+            "b": "was | بود",
+            "c": "will be | خواهد بود",
+            "d": "has been | بوده است"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "Because it was raining, we ______ home.",
+          "translation": "چون باران می‌بارید، ما ______ ماندیم.",
+          "answers": {
+            "a": "are staying | می‌مانیم",
+            "b": "stayed | ماندیم",
+            "c": "will stay | خواهیم ماند",
+            "d": "have stayed | مانده‌ایم"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "I gave ______ on smoking.",
+          "translation": "من سیگار کشیدن را ______.",
+          "answers": {
+            "a": "up | دست کشیدم",
+            "b": "in | تسلیم شدم",
+            "c": "over | تمام کردم",
+            "d": "off | خاموش کردم"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "The packages ______ yesterday.",
+          "translation": "بسته‌ها دیروز ______.",
+          "answers": {
+            "a": "delivered | تحویل دادند",
+            "b": "are delivered | تحویل می‌شوند",
+            "c": "were delivered | تحویل داده شدند",
+            "d": "was delivered | تحویل داده شد"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "She ______ after her brother when he was sick.",
+          "translation": "وقتی برادرش بیمار بود، از او ______.",
+          "answers": {
+            "a": "gave up | دست کشید",
+            "b": "looked after | مراقبت کرد",
+            "c": "ran into | برخورد کرد",
+            "d": "turned on | روشن کرد"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "If it rains, we ______ indoors.",
+          "translation": "اگر باران ببارد، ما ______ داخل خواهیم ماند.",
+          "answers": {
+            "a": "are staying | می‌مانیم",
+            "b": "stayed | ماندیم",
+            "c": "will stay | خواهیم ماند",
+            "d": "have stayed | مانده‌ایم"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "The chef ______ the meal.",
+          "translation": "آشپز ______ غذا را.",
+          "answers": {
+            "a": "cooks | می‌پزد",
+            "b": "is cooking | در حال پخت است",
+            "c": "cooked | پخت",
+            "d": "was cooking | در حال پخت بود"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "______ I like to read books is an independent clause.",
+          "translation": "______ من دوست دارم کتاب بخوانم یک جمله مستقل است.",
+          "answers": {
+            "a": "If | اگر",
+            "b": "When | وقتی",
+            "c": "Because | چون",
+            "d": "I like to read books | من دوست دارم کتاب بخوانم"
+          },
+          "correct_answer": "d"
+        },
+        {
+          "question": "______ it was raining, we stayed home.",
+          "translation": "______ باران می‌بارید، ما در خانه ماندیم.",
+          "answers": {
+            "a": "Because | چون",
+            "b": "If | اگر",
+            "c": "When | وقتی",
+            "d": "Although | اگرچه"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "She ran ______ an old friend yesterday.",
+          "translation": "او دیروز با یک دوست قدیمی ______.",
+          "answers": {
+            "a": "into | برخورد کرد",
+            "b": "after | به دنبال",
+            "c": "up | بالا",
+            "d": "over | از روی"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "______ she went to the store is a dependent clause.",
+          "translation": "______ او به فروشگاه رفت یک جمله وابسته است.",
+          "answers": {
+            "a": "If | اگر",
+            "b": "When | وقتی",
+            "c": "Because | چون",
+            "d": "She went to the store | او به فروشگاه رفت"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "Turn ______ the lights, please.",
+          "translation": "لطفاً چراغ‌ها را ______.",
+          "answers": {
+            "a": "off | خاموش کن",
+            "b": "up | زیاد کن",
+            "c": "on | روشن کن",
+            "d": "down | کم کن"
+          },
+          "correct_answer": "c"
+        },
+        {
+          "question": "______ she gave up smoking means she stopped smoking.",
+          "translation": "______ او سیگار کشیدن را ترک کرد به معنی متوقف کردن آن است.",
+          "answers": {
+            "a": "Giving up | ترک کردن",
+            "b": "Gave up | ترک کرد",
+            "c": "Giving in | تسلیم شد",
+            "d": "Gave in | تسلیم شد"
+          },
+          "correct_answer": "b"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "The book ______ I borrowed was fascinating.",
+          "translation": "سوال: کتابی ______ من قرض گرفتم جذاب بود.",
+          "answers": {
+            "a": "that | که",
+            "b": "who | که",
+            "c": "which | که"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "My friend, ______ is a doctor, lives in London.",
+          "translation": "سوال: دوست من ______ داکتر است، در لندن زندگی می‌کند.",
+          "answers": {
+            "a": "who | که",
+            "b": "which | که",
+            "c": "that | که"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "This is the place ______ we met.",
+          "translation": "سوال: این همان جایی است ______ ما ملاقات کردیم.",
+          "answers": {
+            "a": "where | کجا",
+            "b": "when | وقتی",
+            "c": "why | چرا"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "I remember the day ______ we first met.",
+          "translation": "سوال: من آن روز ______ که ما برای اولین بار ملاقات کردیم را به یاد دارم.",
+          "answers": {
+            "a": "when | وقتی",
+            "b": "where | کجا",
+            "c": "that | که"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "______ she said was surprising.",
+          "translation": "سوال: ______ او گفت شگفت‌آور بود.",
+          "answers": {
+            "a": "What | آنچه",
+            "b": "Which | که",
+            "c": "That | که"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "I don’t know ______ he went.",
+          "translation": "سوال: من نمی‌دانم ______ رفت.",
+          "answers": {
+            "a": "where | کجا",
+            "b": "why | چرا",
+            "c": "when | چه زمان"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "The problem is ______ we have no money.",
+          "translation": "سوال: مشکل این است ______ که ما پول نداریم.",
+          "answers": {
+            "a": "that | که",
+            "b": "if | اگر",
+            "c": "whether | آیا"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "I wonder ______ he will come.",
+          "translation": "سوال: من تعجب می‌کنم ______ آیا او خواهد آمد.",
+          "answers": {
+            "a": "whether | آیا",
+            "b": "where | کجا",
+            "c": "when | چه زمان"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "My friend ______ is coming over tonight.",
+          "translation": "سوال: دوست من ______ امشب می‌آید.",
+          "answers": {
+            "a": "Sarah | سارا",
+            "b": "who | که",
+            "c": "that | که"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "My brother, ______ plays the piano, is a skilled musician.",
+          "translation": "سوال: برادرم، ______ که پیانو می‌نوازد، یک نوازنده ماهر است.",
+          "answers": {
+            "a": "who is a musician | که نوازنده ماهر است",
+            "b": "that is skilled | که ماهر است",
+            "c": "which is talented | که با استعداد است"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "The city ______ is known for its skyscrapers.",
+          "translation": "سوال: شهر ______ نیویورک به آسمان‌خراش‌هایش معروف است.",
+          "answers": {
+            "a": "New York | نیویورک",
+            "b": "that | که",
+            "c": "which | که"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "My pet, ______ is very friendly.",
+          "translation": "سوال: حیوان خانگی من، ______ که بسیار دوستانه است.",
+          "answers": {
+            "a": "a golden retriever | یک سگ گلدن رتریور",
+            "b": "that is friendly | که دوستانه است",
+            "c": "which | که"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "I don’t know ______ she will attend the meeting.",
+          "translation": "سوال: من نمی‌دانم ______ آیا او در جلسه شرکت خواهد کرد.",
+          "answers": {
+            "a": "whether | آیا",
+            "b": "that | که",
+            "c": "when | چه زمانی"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "The person ______ won the prize is my cousin.",
+          "translation": "سوال: مردی ______ که جایزه را برد پسرکاکای من است.",
+          "answers": {
+            "a": "who | که",
+            "b": "whose | که",
+            "c": "which | که"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "______ she likes most is chocolate.",
+          "translation": "سوال: ______ چیزی که او بیشتر دوست دارد چاکلیت است.",
+          "answers": {
+            "a": "What | آنچه",
+            "b": "Which | که",
+            "c": "That | که"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "She is ______ than her brother.",
+          "translation": "سوال: او از برادرش ______ است.",
+          "answers": {
+            "a": "taller | بلندتر",
+            "b": "tallest | بلندترین",
+            "c": "tall | بلند"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "This is the ______ painting in the gallery.",
+          "translation": "سوال: این زیباترین نقاشی در گالری است.",
+          "answers": {
+            "a": "most beautiful | زیباترین",
+            "b": "more beautiful | زیباتر",
+            "c": "beautiful | زیبا"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "If you ______ ice, it melts.",
+          "translation": "سوال: اگر یخ را ______، ذوب می‌شود.",
+          "answers": {
+            "a": "heat | گرم کنی",
+            "b": "heats | گرم می‌کند",
+            "c": "heated | گرم کردی"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "If it rains, we ______ stay home.",
+          "translation": "سوال: اگر باران ببارد، ما ______ در خانه می‌مانیم.",
+          "answers": {
+            "a": "will | خواهیم",
+            "b": "would | می‌توانستیم",
+            "c": "shall | باید"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "If I ______ you, I would apologize.",
+          "translation": "سوال: اگر من ______ تو بودم، معذرت‌خواهی می‌کردم.",
+          "answers": {
+            "a": "were | بودم",
+            "b": "was | بود",
+            "c": "am | هستم"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "If she had studied, she ______ passed the exam.",
+          "translation": "سوال: اگر او درس خوانده بود، امتحان را ______ پاس می‌کرد.",
+          "answers": {
+            "a": "would have | می‌کرد",
+            "b": "will have | خواهد داشت",
+            "c": "can have | می‌تواند"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "She ______ the tallest person in the class.",
+          "translation": "سوال: او ______ بلندترین فرد در کلاس است.",
+          "answers": {
+            "a": "is | است",
+            "b": "was | بود",
+            "c": "will be | خواهد بود"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "The cake ______ by my mother was delicious.",
+          "translation": "سوال: کیکی که ______ توسط مادرم خوشمزه بود.",
+          "answers": {
+            "a": "made | درست شد",
+            "b": "baked | پخته شد",
+            "c": "cooked | پخته شده"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "She wishes she ______ studied harder.",
+          "translation": "سوال: او آرزو می‌کند که ______ سخت‌تر درس خوانده بود.",
+          "answers": {
+            "a": "had | داشت",
+            "b": "has | دارد",
+            "c": "will | خواهد داشت"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "They ______ for an hour before the rain started.",
+          "translation": "سوال: آنها ______ یک ساعت قبل از شروع باران بودند.",
+          "answers": {
+            "a": "were waiting | منتظر بودند",
+            "b": "wait | منتظر شدند",
+            "c": "will wait | خواهند ماند"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "The city ______ known for its skyscrapers.",
+          "translation": "سوال: این شهر ______ برای آسمان‌خراش‌هایش معروف است.",
+          "answers": {
+            "a": "is | است",
+            "b": "was | بود",
+            "c": "will be | خواهد بود"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "He ______ to the meeting early.",
+          "translation": "سوال: او ______ زودتر به جلسه رسید.",
+          "answers": {
+            "a": "came | آمد",
+            "b": "comes | می‌آید",
+            "c": "was coming | در حال آمدن بود"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "The train ______ leaves at 5 PM.",
+          "translation": "سوال: قطار ______ ساعت ۵ عصر حرکت می‌کند.",
+          "answers": {
+            "a": "always | همیشه",
+            "b": "sometimes | گاهی",
+            "c": "never | هرگز"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "I ______ for an hour before I found my keys.",
+          "translation": "سوال: من یک ساعت ______ قبل از اینکه کلیدهایم را پیدا کنم.",
+          "answers": {
+            "a": "was looking | دنبال می‌کردم",
+            "b": "looked | جستجو کردم",
+            "c": "have looked | دیده‌ام"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "The movie ______ better than I expected.",
+          "translation": "سوال: فیلم ______ بهتر از انتظار من بود.",
+          "answers": {
+            "a": "was | بود",
+            "b": "is | هست",
+            "c": "will be | خواهد بود"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "It ______ rain later.",
+          "translation": "سوال: باران ممکن است چقدر بعدا ببارد.",
+          "answers": {
+            "a": "might | ممکن است",
+            "b": "must | باید",
+            "c": "can | میتواند"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "You ______ wear a seatbelt.",
+          "translation": "سوال: شما ______ کمربند ایمنی ببندید.",
+          "answers": {
+            "a": "must | باید",
+            "b": "might | ممکن است",
+            "c": "could | میتوانید"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "She ______ speak three languages.",
+          "translation": "سوال: او ______ سه زبان صحبت کند.",
+          "answers": {
+            "a": "can | میتواند",
+            "b": "must | باید",
+            "c": "might | ممکن است"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "\"I am tired,\" she said.",
+          "translation": "سوال: \"من خسته‌ام!\" او گفت",
+          "answers": {
+            "a": "is tired | خسته است",
+            "b": "was tired | خسته بود",
+            "c": "will be tired | خسته خواهد شد"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "\"Where do you live?\" he asked.",
+          "translation": "سوال: \"کجا زندگی می‌کنی؟\" او پرسید.",
+          "answers": {
+            "a": "lived | زندگی می‌کردم",
+            "b": "live | زندگی می‌کنم",
+            "c": "was living | زندگی می‌کرد"
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "\"Close the door,\" she told him.",
+          "translation": "سوال: \"در را ببند!\" او به او گفت.",
+          "answers": {
+            "a": "to close | بستن",
+            "b": "closing | بستن",
+            "c": "close | بستن"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "\"Can you help me?\" she asked.",
+          "translation": "سوال: \"میتوانی به من کمک کنی؟\" او پرسید.",
+          "answers": {
+            "a": "could | میتوانم",
+            "b": "can | می‌توانم",
+            "c": "will | خواهم توانست"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "\"Please, sit down,\" he told me.",
+          "translation": "سوال: \"لطفا بنشین!\" او به من گفت.",
+          "answers": {
+            "a": "to | که",
+            "b": "for | برای",
+            "c": "if | اگر"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "They did it ______.",
+          "translation": "سوال: آنها این کار را ______ انجام دادند.",
+          "answers": {
+            "a": "themselves | خودشان",
+            "b": "himself | خودش",
+            "c": "itself | خودش"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "She looked at ______ in the mirror.",
+          "translation": "سوال: او به ______ در آینه نگاه کرد.",
+          "answers": {
+            "a": "herself | خودش",
+            "b": "itself | خودش",
+            "c": "themselves | خودشان"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "I did the work ______.",
+          "translation": "سوال: من کار را ______ انجام دادم.",
+          "answers": {
+            "a": "myself | خودم",
+            "b": "himself | خودش",
+            "c": "yourself | خودت"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "They bought ______ new clothes.",
+          "translation": "سوال: آنها برای ______ لباس‌های جدید خریدند.",
+          "answers": {
+            "a": "themselves | خودشان",
+            "b": "itself | خودش",
+            "c": "himself | خودش"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "He did it by ______.",
+          "translation": "سوال: او این کار را ______ انجام داد.",
+          "answers": {
+            "a": "himself | به تنهایی",
+            "b": "itself | به تنهایی",
+            "c": "themselves | به تنهایی"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "You ______ leave early if you want.",
+          "translation": "سوال: شما ______ اگر می‌خواهید زودتر بروید.",
+          "answers": {
+            "a": "can | می‌توانید",
+            "b": "must | باید",
+            "c": "might | ممکن است"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "\"I will be late,\" John said.",
+          "translation": "سوال: \"من دیر خواهم کرد.\" جان گفت.",
+          "answers": {
+            "a": "would be | خواهد کرد",
+            "b": "was | بود",
+            "c": "will be | خواهد بود"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    }
+  ]
+}

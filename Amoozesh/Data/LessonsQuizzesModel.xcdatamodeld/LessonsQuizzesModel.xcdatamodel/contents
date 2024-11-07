@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="23231" systemVersion="23H124" minimumToolsVersion="Automatic" sourceLanguage="Swift" usedWithSwiftData="YES" userDefinedModelVersionIdentifier="">
+    <entity name="VocabLesson" representedClassName="VocabLesson" syncable="YES" codeGenerationType="class">
+        <attribute name="is_completed" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="is_unlocked" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="lesson_id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="lesson_number" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="lesson_title" optional="YES" attributeType="String"/>
+        <relationship name="quizzes" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="VocabQuiz" inverseName="lesson" inverseEntity="VocabQuiz"/>
+    </entity>
+    <entity name="VocabQuiz" representedClassName="VocabQuiz" syncable="YES" codeGenerationType="class">
+        <attribute name="is_unlocked" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="quiz_id" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="quiz_score" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="quiz_title" optional="YES" attributeType="String"/>
+        <relationship name="lesson" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="VocabLesson" inverseName="quizzes" inverseEntity="VocabLesson"/>
+    </entity>
+</model>

@@ -1,0 +1,2053 @@
+{
+  "quizzes": [
+    {
+      "quiz": [
+        {
+          "question": "How would you introduce yourself to someone new?",
+          "translation": "سوال: چگونه خودتان را به کسی که نمی‌شناسید معرفی می‌کنید؟",
+          "answers": {
+            "a": "Hello, I'm Sara. What's your name? | سلام، من سارا هستم. اسم شما چیست؟",
+            "b": "Do you know me? | آیا مرا می‌شناسی؟",
+            "c": "Hi, can you tell me your job? | سلام، می‌توانی به من شغل خودت را بگویی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone where they are from?",
+          "translation": "سوال: چگونه از کسی بپرسید که اهل کجا است؟",
+          "answers": {
+            "a": "Where are you from? | اهل کجا هستید؟",
+            "b": "Where do you live? | کجا زندگی می‌کنید؟",
+            "c": "Where are you going? | کجا می‌روید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked where you are from?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی از شما بپرسد اهل کجا هستید؟",
+          "answers": {
+            "a": "I'm from Canada. | من اهل کانادا هستم.",
+            "b": "I'm going home. | من به خانه می‌روم.",
+            "c": "I'm from school. | من از مدرسه هستم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask for directions to a place?",
+          "translation": "سوال: چگونه به طور مودبانه مسیر مکانی را بپرسید؟",
+          "answers": {
+            "a": "Where is the post office? | اداره پست کجاست؟",
+            "b": "Excuse me, can you help me find the post office? | ببخشید، می‌توانید به من کمک کنید اداره پست را پیدا کنم؟",
+            "c": "Show me the post office. | اداره پست را به من نشان بده."
+          },
+          "correct_answer": "b"
+        },
+        {
+          "question": "What is a polite way to give directions?",
+          "translation": "سوال: یک راه مودبانه برای دادن مسیر چیست؟",
+          "answers": {
+            "a": "Turn right and then go straight. You'll see it on your left. | به راست بپیچید و مستقیما بروید. آن را در سمت چپ خواهید دید.",
+            "b": "Just go there. | فقط برو آنجا.",
+            "c": "You need to figure it out. | باید خودتان بفهمید."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone if the place you're going is far?",
+          "translation": "سوال: چگونه از کسی بپرسید که آیا مکانی که می‌روید دور است؟",
+          "answers": {
+            "a": "Is it far from here? | آیا از اینجا دور است؟",
+            "b": "How long will it take? | چه مدت طول می‌کشد؟",
+            "c": "Where do I go? | کجا بروم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask a waiter for vegetarian options at a restaurant?",
+          "translation": "سوال: چگونه از گارسون بخواهید گزینه‌های گیاهی را در رستوران به شما نشان دهد؟",
+          "answers": {
+            "a": "Do you have any vegetarian options? | آیا گزینه‌های گیاهی دارید؟",
+            "b": "Give me vegetarian food. | به من غذای گیاهی بده.",
+            "c": "What food do you like? | چه غذایی دوست داری؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask for a drink at a restaurant?",
+          "translation": "سوال: چگونه از گارسون درخواست نوشیدنی می‌کنید؟",
+          "answers": {
+            "a": "I'd like a lemonade, please. | یک لیموناد لطفا.",
+            "b": "Give me lemonade. | یک لیموناد به من بدهید.",
+            "c": "Where is my drink? | نوشیدنی من کجاست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask a waiter for the menu?",
+          "translation": "سوال: چگونه به طور مودبانه از گارسون درخواست منو می‌کنید؟",
+          "answers": {
+            "a": "Could I see the menu, please? | می‌توانم منو را ببینم لطفا؟",
+            "b": "Bring me the menu. | منو را برایم بیاور.",
+            "c": "Where is the menu? | منو کجاست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you respond when a waiter brings your food?",
+          "translation": "سوال: چگونه وقتی گارسون غذا را می‌آورد پاسخ می‌دهید؟",
+          "answers": {
+            "a": "Thank you! | ممنون!",
+            "b": "Finally! | بالاخره!",
+            "c": "I was waiting! | منتظر بودم!"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "If someone asks where you're from, how should you respond?",
+          "translation": "سوال: اگر کسی از شما بپرسد اهل کجا هستید، چگونه پاسخ می‌دهید؟",
+          "answers": {
+            "a": "I'm from Canada. | من اهل کانادا هستم.",
+            "b": "I'm going to work. | من به سر کار می‌روم.",
+            "c": "I live near here. | من در نزدیکی اینجا زندگی می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask for someone's name in a polite way?",
+          "translation": "سوال: چگونه به طور مودبانه نام کسی را بپرسید؟",
+          "answers": {
+            "a": "What's your name? | نام شما چیست؟",
+            "b": "Who are you? | شما کی هستید؟",
+            "c": "Your name? | نام شما؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "If you want to know how long it will take to get somewhere, what should you ask?",
+          "translation": "سوال: اگر بخواهید بدانید چه مدت طول می‌کشد تا به جایی برسید، چه باید بپرسید؟",
+          "answers": {
+            "a": "How long will it take to get there? | چه مدت طول می‌کشد تا به آنجا برسیم؟",
+            "b": "Where should I go? | کجا باید بروم؟",
+            "c": "What should I do? | چه کار باید بکنم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What is a polite way to accept food from someone at a restaurant?",
+          "translation": "سوال: یک راه مودبانه برای قبول غذا از کسی در رستوران چیست؟",
+          "answers": {
+            "a": "Thank you so much. | خیلی ممنون.",
+            "b": "Give me my food. | غذای من را بده.",
+            "c": "I'll take that. | آن را می‌گیرم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask for help if you're lost?",
+          "translation": "سوال: چگونه اگر گم شده باشید، درخواست کمک می‌کنید؟",
+          "answers": {
+            "a": "Excuse me, could you help me? I'm lost. | ببخشید، می‌توانید به من کمک کنید؟ من گم شده‌ام.",
+            "b": "I don't know where I am. | نمی‌دانم کجا هستم.",
+            "c": "Please tell me where I am. | لطفا به من بگویید کجا هستم."
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How would you start a small talk conversation about someone's day?",
+          "translation": "سوال: چگونه یک مکالمه کوتاه درباره روز کسی را شروع می‌کنید؟",
+          "answers": {
+            "a": "Hi! How's your day going? | سلام! روزت چطور می‌گذرد؟",
+            "b": "What did you eat for breakfast? | چه چیزی برای صبحانه خوردی؟",
+            "c": "Do you have a big family? | آیا خانواده بزرگی داری؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "سلام! روزت چطور می‌گذرد؟"
+        },
+        {
+          "question": "How do you ask someone if they have weekend plans?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا برای آخر هفته برنامه‌ای دارید؟",
+          "answers": {
+            "a": "What are you doing right now? | الان چه کار می‌کنی؟",
+            "b": "Do you have any plans for the weekend? | برای آخر هفته برنامه‌ای داری؟",
+            "c": "How do you feel about the weather? | نظرت درباره هوا چطور است؟"
+          },
+          "correct_answer": "b",
+          "correct_answer_translation": "برای آخر هفته برنامه‌ای داری؟"
+        },
+        {
+          "question": "What is a polite way to respond to someone asking about your day?",
+          "translation": "سوال: مودبانه‌ترین پاسخ به کسی که درباره روز شما می‌پرسد چیست؟",
+          "answers": {
+            "a": "It's going well, thanks. How about you? | خوب است، ممنون. حال شما چطور است؟",
+            "b": "I don't want to talk about it. | نمی‌خواهم درباره آن صحبت کنم.",
+            "c": "Why do you ask? | چرا می‌پرسی؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خوب است، ممنون. حال شما چطور است؟"
+        },
+        {
+          "question": "How do you ask someone about their family size?",
+          "translation": "سوال: چگونه از کسی درباره اندازه خانواده‌اش بپرسید؟",
+          "answers": {
+            "a": "Do you have a big family? | آیا خانواده بزرگی داری؟",
+            "b": "How many people live with you? | چند نفر با تو زندگی می‌کنند؟",
+            "c": "Where does your family live? | خانواده‌ات کجا زندگی می‌کنند؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آیا خانواده بزرگی داری؟"
+        },
+        {
+          "question": "How would you answer if someone asked about your family?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی درباره خانواده‌تان بپرسید؟",
+          "answers": {
+            "a": "Yes, I have two brothers and three sisters. | بله، من دو برادر و سه خواهر دارم.",
+            "b": "I don't know them. | من آن‌ها را نمی‌شناسم.",
+            "c": "They are nice people. | آنها آدم‌های خوبی هستند."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بله، من دو برادر و سه خواهر دارم."
+        },
+        {
+          "question": "How would you politely ask someone about their relationship with their family?",
+          "translation": "سوال: راه مودبانه پرسیدن درباره رابطه کسی با خانواده‌اش چیست؟",
+          "answers": {
+            "a": "Are you close with your family? | آیا با خانواده‌ات نزدیک هستی؟",
+            "b": "Do you like your family? | آیا خانواده‌ات را دوست داری؟",
+            "c": "Do you live with your family? | آیا با خانواده‌ات زندگی می‌کنی؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آیا با خانواده‌ات نزدیک هستی؟"
+        },
+        {
+          "question": "How do you start a conversation about hobbies?",
+          "translation": "سوال: چگونه مکالمه‌ای درباره سرگرمی‌ها شروع می‌کنید؟",
+          "answers": {
+            "a": "What do you like to do in your free time? | در اوقات فراغت خود چه کارهایی را دوست داری انجام دهی؟",
+            "b": "What is your favorite sport? | ورزش مورد علاقه‌ات چیست؟",
+            "c": "Do you play any instruments? | آیا ساز می‌نوازی؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در اوقات فراغت خود چه کارهایی را دوست داری انجام دهی؟"
+        },
+        {
+          "question": "How would you respond if someone asked about your hobbies?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی درباره سرگرمی‌های شما بپرسد؟",
+          "answers": {
+            "a": "I like to read books and go for long walks. | من دوست دارم کتاب بخوانم و پیاده‌روی طولانی کنم.",
+            "b": "I don’t have any hobbies. | سرگرمی ندارم.",
+            "c": "I only work. | فقط کار می‌کنم."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "من دوست دارم کتاب بخوانم و پیاده‌روی طولانی کنم."
+        },
+        {
+          "question": "How do you ask someone how long they've been doing their hobby?",
+          "translation": "سوال: چگونه از کسی بپرسید که چه مدت است سرگرمی خود را انجام می‌دهد؟",
+          "answers": {
+            "a": "How long have you been doing that? | چه مدت است که آن را انجام می‌دهی؟",
+            "b": "Do you like your hobby? | آیا سرگرمی‌ات را دوست داری؟",
+            "c": "Is it hard? | آیا سخت است؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "چه مدت است که آن را انجام می‌دهی؟"
+        },
+        {
+          "question": "What would be a polite response if someone told you about their hobby?",
+          "translation": "سوال: پاسخ مودبانه به کسی که درباره سرگرمی‌هایش به شما می‌گوید چیست؟",
+          "answers": {
+            "a": "That's awesome! How long have you been doing it? | این عالیه! چه مدت است که آن را انجام می‌دهی؟",
+            "b": "Why do you do that? | چرا آن را انجام می‌دهی؟",
+            "c": "I don’t care about that. | به آن علاقه ندارم."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "این عالیه! چه مدت است که آن را انجام می‌دهی؟"
+        },
+        {
+          "question": "How do you ask someone if they are planning to relax this weekend?",
+          "translation": "سوال: چگونه از کسی بپرسید آیا برنامه‌ای برای استراحت در این آخر هفته دارد؟",
+          "answers": {
+            "a": "Are you going to relax this weekend? | آیا قصد داری این آخر هفته استراحت کنی؟",
+            "b": "Will you work this weekend? | آیا این آخر هفته کار خواهی کرد؟",
+            "c": "What are you doing on Friday? | جمعه چه کار می‌کنی؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آیا قصد داری این آخر هفته استراحت کنی؟"
+        },
+        {
+          "question": "How do you ask someone if they have brothers or sisters?",
+          "translation": "سوال: چگونه از کسی بپرسید آیا خواهر یا برادر دارد؟",
+          "answers": {
+            "a": "Do you have any brothers or sisters? | آیا خواهر یا برادری داری؟",
+            "b": "How many people live with you? | چند نفر با تو زندگی می‌کنند؟",
+            "c": "Where is your family from? | خانواده‌ات اهل کجاست؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آیا خواهر یا برادری داری؟"
+        },
+        {
+          "question": "If someone tells you they enjoy painting, what is a polite response?",
+          "translation": "سوال: اگر کسی به شما بگوید از نقاشی لذت می‌برد، یک پاسخ مودبانه چیست؟",
+          "answers": {
+            "a": "That sounds great! How long have you been painting? | خیلی خوب به نظر می‌رسد! چه مدت است که نقاشی می‌کنی؟",
+            "b": "I don’t like painting. | من نقاشی را دوست ندارم.",
+            "c": "Why do you do that? | چرا آن را دوست داری؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "خیلی خوب به نظر می‌رسد! چه مدت است که نقاشی می‌کنی؟"
+        },
+        {
+          "question": "How would you ask someone what their plans are for the weekend?",
+          "translation": "سوال: چگونه از کسی بپرسید برنامه‌تان برای آخر هفته چیست؟",
+          "answers": {
+            "a": "What are your plans for the weekend? | برنامه‌ات برای آخر هفته چیست؟",
+            "b": "Do you work on weekends? | آیا آخر هفته‌ها کار می‌کنی؟",
+            "c": "What did you do yesterday? | دیروز چه کار کردی؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "برنامه‌ات برای آخر هفته چیست؟"
+        },
+        {
+          "question": "How would you ask someone if they enjoy reading in their free time?",
+          "translation": "سوال: چگونه از کسی بپرسید آیا از کتاب‌خوانی در اوقات فراغت لذت می‌برد؟",
+          "answers": {
+            "a": "Do you like to read in your free time? | آیا از کتاب‌خوانی در اوقات فراغت لذت می‌بری؟",
+            "b": "Do you work a lot? | آیا زیاد کار می‌کنی؟",
+            "c": "What kind of books do you read? | چه نوع کتاب‌هایی می‌خوانی؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آیا از کتاب‌خوانی در اوقات فراغت لذت می‌بری؟"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How do you politely ask someone for help with something?",
+          "translation": "چگونه به طور مودبانه از کسی درخواست کمک می‌کنید؟",
+          "answers": {
+            "a": "Excuse me, could you help me with something? | ببخشید، می‌توانید به من در مورد چیزی کمک کنید؟",
+            "b": "Help me now. | الان به من کمک کن.",
+            "c": "I need help! | من نیاز به کمک دارم!",
+            "d": "Please help. | لطفا کمک کن."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked you for help?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی از شما درخواست کمک کند؟",
+          "answers": {
+            "a": "What do you need help with? | در چه چیزی نیاز به کمک دارید؟",
+            "b": "Why do you need help? | چرا به کمک نیاز دارید؟",
+            "c": "I'm busy. | من مشغول هستم.",
+            "d": "I don’t want to help. | من نمی‌خواهم کمک کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you suggest restarting a computer if it's not working?",
+          "translation": "چگونه پیشنهاد می‌دهید کامپیوتر را راه‌اندازی مجدد کنید اگر کار نمی‌کند؟",
+          "answers": {
+            "a": "Have you tried restarting it? | آیا سعی کرده‌اید آن را دوباره راه‌اندازی کنید؟",
+            "b": "It's broken. | خراب است.",
+            "c": "You should buy a new one. | باید یک جدید بخرید.",
+            "d": "I'll fix it. | من آن را درست می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask to make an appointment with a doctor?",
+          "translation": "چگونه درخواست می‌کنید برای ملاقات با یک دکتر وقت بگیرید؟",
+          "answers": {
+            "a": "Hello, I'd like to make an appointment with Dr. Smith. | سلام، من می‌خواهم برای ملاقات با دکتر اسمیت وقت بگیرم.",
+            "b": "When can I see the doctor? | چه زمانی می‌توانم دکتر را ببینم؟",
+            "c": "Do I need to come in today? | آیا باید امروز بیایم؟",
+            "d": "I have a problem. | من یک مشکل دارم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What is a polite way to ask if the doctor has availability on a specific day?",
+          "translation": "راه مودبانه برای پرسیدن اینکه دکتر در روز خاصی وقت خالی دارد چیست؟",
+          "answers": {
+            "a": "Do you have anything available this Thursday afternoon? | آیا بعدازظهر پنج‌شنبه وقت دارید؟",
+            "b": "I need to see the doctor on Thursday. | من باید پنج‌شنبه دکتر را ببینم.",
+            "c": "Can I come in on Thursday? | می‌توانم پنج‌شنبه بیایم؟",
+            "d": "Can I see the doctor today? | می‌توانم امروز دکتر را ببینم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if a receptionist offers you an appointment at 3 PM on Thursday?",
+          "translation": "چگونه پاسخ می‌دهید اگر منشی به شما وقت ملاقات ساعت ۳ روز پنج‌شنبه بدهد؟",
+          "answers": {
+            "a": "That works perfectly. I'll be there at 3. | این عالی است. ساعت ۳ خواهم بود.",
+            "b": "I want to come earlier. | من می‌خواهم زودتر بیایم.",
+            "c": "I can't make it. | نمی‌توانم.",
+            "d": "I'll be late. | من دیر خواهم کرد."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone about the weather?",
+          "translation": "چگونه از کسی درباره آب و هوا می‌پرسید؟",
+          "answers": {
+            "a": "Do you think it will stay like this for the weekend? | فکر می‌کنی تا آخر هفته هوا همینطور می‌ماند؟",
+            "b": "Is it raining? | آیا باران می‌آید؟",
+            "c": "Why is it so hot? | چرا هوا اینقدر گرم است؟",
+            "d": "What is the weather? | وضعیت هوا چیست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you describe a sunny but not too hot day?",
+          "translation": "چگونه یک روز آفتابی اما نه خیلی گرم را توصیف می‌کنید؟",
+          "answers": {
+            "a": "The sun is shining, and it's not too hot. | خورشید می‌تابد و هوا خیلی گرم نیست.",
+            "b": "It's a bit cloudy today. | امروز کمی ابری است.",
+            "c": "It's really cold outside. | هوا واقعاً سرد است.",
+            "d": "I don't like the weather. | من این هوا را دوست ندارم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely agree that it's a nice day?",
+          "translation": "چگونه به طور مودبانه تأیید می‌کنید که روز خوبی است؟",
+          "answers": {
+            "a": "Yes, it's beautiful! | بله، خیلی زیباست!",
+            "b": "It's okay. | بد نیست.",
+            "c": "I've seen better days. | روزهای بهتری دیده‌ام.",
+            "d": "It could be better. | می‌توانست بهتر باشد."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you express hope that it doesn't rain during the weekend?",
+          "translation": "چگونه امیدواری خود را ابراز می‌کنید که در آخر هفته باران نیاید؟",
+          "answers": {
+            "a": "I hope the rain doesn't come too early. | امیدوارم باران زود شروع نشود.",
+            "b": "I'm sure it won't rain. | مطمئنم باران نمی‌آید.",
+            "c": "I don't care about the weather. | برایم مهم نیست چه خواهد شد.",
+            "d": "It will rain. | باران خواهد آمد."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What would you say if someone mentioned they are planning to go to the beach on a sunny day?",
+          "translation": "اگر کسی گفت قصد دارد به یک روز آفتابی به ساحل برود، چه می‌گویید؟",
+          "answers": {
+            "a": "That sounds fun! | خیلی جالب به نظر می‌رسد!",
+            "b": "Why would you go there? | چرا به آنجا می‌روی؟",
+            "c": "I don't like the beach. | من ساحل را دوست ندارم.",
+            "d": "I have other plans. | من برنامه‌های دیگری دارم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask if someone needs help with their computer?",
+          "translation": "چگونه از کسی بپرسید که آیا به کمک با کامپیوترش نیاز دارد؟",
+          "answers": {
+            "a": "Do you need help with your computer? | آیا نیاز به کمک با کامپیوترت داری؟",
+            "b": "Why is your computer not working? | چرا کامپیوترت کار نمی‌کند؟",
+            "c": "What's wrong with your computer? | مشکل کامپیوترت چیست؟",
+            "d": "Is your computer fixed? | آیا کامپیوترت درست شد؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "If someone asks for help with their computer, what should you say first?",
+          "translation": "اگر کسی درخواست کمک با کامپیوتر کند، ابتدا چه باید بگویید؟",
+          "answers": {
+            "a": "Let me take a look. | اجازه بده نگاهی بیندازم.",
+            "b": "That's a big problem. | این یک مشکل بزرگ است.",
+            "c": "Buy a new one. | یک جدید بخر.",
+            "d": "I can't help you. | نمی‌توانم کمکت کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone if they need help restarting their computer?",
+          "translation": "چگونه از کسی بپرسید که آیا به کمک برای راه‌اندازی مجدد کامپیوترش نیاز دارد؟",
+          "answers": {
+            "a": "Have you tried restarting it? | آیا سعی کرده‌اید آن را دوباره راه‌اندازی کنید؟",
+            "b": "It's broken. | خراب است.",
+            "c": "You should buy a new one. | باید یک جدید بخرید.",
+            "d": "I'll fix it for you. | من آن را برایت درست می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you express that you're happy to help someone?",
+          "translation": "سوال: چگونه ابراز می‌کنید که خوشحالید که به کسی کمک می‌کنید؟",
+          "answers": {
+            "a": "You're welcome! Hope it works. | خواهش می‌کنم! امیدوارم درست شود.",
+            "b": "I didn't mind. | مشکلی نبود.",
+            "c": "It's okay this time. | اینبار اشکالی ندارد.",
+            "d": "I feel obligated. | احساس اجبار می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely end a conversation after making an appointment?",
+          "translation": "سوال: چگونه به طور مودبانه یک مکالمه را پس از گرفتن وقت ملاقات تمام می‌کنید؟",
+          "answers": {
+            "a": "Thank you! I'll see you on Thursday. | ممنون! پنجشنبه می‌بینمت.",
+            "b": "Goodbye! | خداحافظ!",
+            "c": "I'll be there. | خواهم بود.",
+            "d": "Take care. | مراقب خودت باش."
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How would you ask someone about their job?",
+          "translation": "چگونه از کسی درباره شغلش می‌پرسید؟",
+          "answers": {
+            "a": "What do you do for work? | شغلت چیست؟",
+            "b": "Where do you live? | کجا زندگی می‌کنی؟",
+            "c": "Do you enjoy working? | آیا از کار لذت می‌بری؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked you what you do for work?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی از شما درباره شغل‌تان بپرسد؟",
+          "answers": {
+            "a": "I'm a teacher. I teach English. | من معلم هستم. انگلیسی تدریس می‌کنم.",
+            "b": "I work every day. | هر روز کار می‌کنم.",
+            "c": "I work in an office. | من در یک دفتر کار می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone how long they've been in their current job?",
+          "translation": "چگونه از کسی می‌پرسید چه مدت است که در شغل فعلی‌شان هستند؟",
+          "answers": {
+            "a": "How long have you been working here? | چه مدت است که اینجا کار می‌کنید؟",
+            "b": "Do you like your job? | آیا از شغلت راضی هستی؟",
+            "c": "What's your work schedule? | برنامه کاری‌تان چیست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What's a polite way to ask someone if they like their job?",
+          "translation": "راه مودبانه‌ای برای پرسیدن اینکه آیا کسی شغلش را دوست دارد چیست؟",
+          "answers": {
+            "a": "Do you enjoy it? | آیا از آن لذت می‌بری؟",
+            "b": "Do you hate your job? | آیا از شغل‌ات متنفری؟",
+            "c": "Is it fun to work? | آیا کار کردن لذت‌بخش است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone if they are planning to travel soon?",
+          "translation": "چگونه از کسی می‌پرسید که آیا قصد دارد به زودی سفر کند؟",
+          "answers": {
+            "a": "Are you planning to travel anywhere soon? | آیا قصد داری به زودی جایی سفر کنی؟",
+            "b": "Where are you going? | کجا می‌روی؟",
+            "c": "How long are you staying? | چقدر می‌مانی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked about your upcoming travel plans?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی درباره برنامه‌های سفر شما بپرسد؟",
+          "answers": {
+            "a": "Yes, I'm going to visit Italy next month. | بله، ماه آینده قصد دارم به ایتالیا بروم.",
+            "b": "No, I don't have any plans. | نه، برنامه‌ای ندارم.",
+            "c": "I'm not sure. | مطمئن نیستم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone what they are planning to do on their trip?",
+          "translation": "چگونه از کسی می‌پرسید که در سفرش چه برنامه‌ای دارد؟",
+          "answers": {
+            "a": "What are you planning to do there? | برنامه‌ات برای آنجا چیست؟",
+            "b": "How long are you staying? | چقدر می‌مانی؟",
+            "c": "What's your favorite place? | مکان مورد علاقه‌ات کجاست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely compliment someone's travel plans?",
+          "translation": "چگونه مودبانه از برنامه‌های سفر کسی تعریف می‌کنید؟",
+          "answers": {
+            "a": "That sounds like a wonderful trip! | این به نظر یک سفر فوق‌العاده است!",
+            "b": "I think that's a good idea. | فکر می‌کنم ایده خوبی است.",
+            "c": "It's okay. | خوب است."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone how long they've been working at their job?",
+          "translation": "چگونه از کسی می‌پرسید چه مدت است که در شغلشان مشغول به کار است؟",
+          "answers": {
+            "a": "How long have you been working here? | چه مدت است که اینجا کار می‌کنید؟",
+            "b": "Do you like working here? | آیا از کار کردن اینجا لذت می‌بری؟",
+            "c": "Where do you work? | کجا کار می‌کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you thank someone after receiving a compliment?",
+          "translation": "چگونه از کسی تشکر می‌کنید بعد از دریافت یک تعریف؟",
+          "answers": {
+            "a": "Thank you! I appreciate that. | ممنون! لطف دارید.",
+            "b": "I already know. | من می‌دانستم.",
+            "c": "Why are you saying that? | چرا این را می‌گویی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone about their work schedule?",
+          "translation": "چگونه از کسی درباره برنامه کاری‌شان می‌پرسید؟",
+          "answers": {
+            "a": "What's your work schedule? | برنامه کاری‌ات چیست؟",
+            "b": "How do you like your job? | از شغل‌ات لذت می‌بری؟",
+            "c": "How long do you work each day? | هر روز چند ساعت کار می‌کنی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely ask someone if they are happy with their job?",
+          "translation": "چگونه مودبانه از کسی می‌پرسید آیا از شغل‌شان راضی هستند؟",
+          "answers": {
+            "a": "Do you enjoy your job? | آیا از شغل‌ات لذت می‌بری؟",
+            "b": "Do you work every day? | آیا هر روز کار می‌کنی؟",
+            "c": "Do you want to change jobs? | آیا می‌خواهی شغلت را تغییر دهی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone about their future career plans?",
+          "translation": "چگونه از کسی درباره برنامه‌های شغلی آینده‌شان می‌پرسید؟",
+          "answers": {
+            "a": "Do you have any future career plans? | آیا برنامه‌های شغلی آینده‌ای داری؟",
+            "b": "Do you plan to retire? | آیا قصد بازنشستگی داری؟",
+            "c": "Are you going to change careers? | آیا قصد تغییر شغل داری؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely ask someone if they like to travel?",
+          "translation": "چگونه مودبانه از کسی می‌پرسید که آیا از سفر کردن لذت می‌برد؟",
+          "answers": {
+            "a": "Do you like to travel? | آیا از سفر کردن لذت می‌بری؟",
+            "b": "Do you travel often? | آیا زیاد سفر می‌کنی؟",
+            "c": "Where do you usually travel? | معمولا کجا سفر می‌کنی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone what their favorite travel destination is?",
+          "translation": "چگونه از کسی می‌پرسید که مقصد مورد علاقه‌اش برای سفر کجاست؟",
+          "answers": {
+            "a": "What's your favorite travel destination? | مقصد سفر مورد علاقه‌ات چیست؟",
+            "b": "Where do you want to go next? | مقصد بعدی‌ات کجاست؟",
+            "c": "Do you like to travel? | آیا از سفر کردن لذت می‌بری؟"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How do you ask someone about their plans for the future?",
+          "translation": "سوال: چگونه از کسی درباره برنامه‌های آینده‌اش می‌پرسید؟",
+          "answers": {
+            "a": "What are your plans for the future? | برنامه‌های شما برای آینده چیست؟",
+            "b": "What are you doing right now? | الان چه کار می‌کنی؟",
+            "c": "Do you have any hobbies? | آیا سرگرمی‌ای داری؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked about your future plans?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی از برنامه‌های آینده شما بپرسد؟",
+          "answers": {
+            "a": "I plan to go back to school to get my master’s degree. | قصد دارم دوباره به دانشگاه بروم تا مدرک کارشناسی ارشد بگیرم.",
+            "b": "I don’t know yet. | هنوز نمی‌دانم.",
+            "c": "I am traveling soon. | به زودی سفر می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask someone what they will study in the future?",
+          "translation": "سوال: چگونه به طور مودبانه از کسی می‌پرسید که در آینده چه چیزی خواهند خواند؟",
+          "answers": {
+            "a": "What will you study? | چه چیزی خواهی خواند؟",
+            "b": "What’s your plan? | برنامه‌ات چیست؟",
+            "c": "Do you have any hobbies? | آیا سرگرمی‌ای داری؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you wish someone good luck with their studies?",
+          "translation": "سوال: چگونه به کسی برای تحصیلاتش آرزوی موفقیت می‌کنید؟",
+          "answers": {
+            "a": "Good luck with your studies! | موفق باشی در تحصیلاتت!",
+            "b": "Hope you pass. | امیدوارم قبول شوی.",
+            "c": "Study hard! | سخت درس بخوان!"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask someone their opinion about something?",
+          "translation": "سوال: چگونه به طور مودبانه از کسی نظرش را درباره چیزی می‌پرسید؟",
+          "answers": {
+            "a": "What do you think about the new park? | نظر شما درباره پارک جدید چیست؟",
+            "b": "Why do you care about the park? | چرا به پارک اهمیت می‌دهید؟",
+            "c": "Do you like the park? | آیا پارک را دوست داری؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely agree with someone’s opinion?",
+          "translation": "سوال: چگونه به طور مودبانه با نظر کسی موافقت می‌کنید؟",
+          "answers": {
+            "a": "I agree. | موافقم.",
+            "b": "Yes, I know that. | بله می‌دانم.",
+            "c": "That’s your opinion. | این نظر شماست."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What’s a polite way to express that you think something is a great idea?",
+          "translation": "سوال: یک راه مودبانه برای بیان اینکه فکر می‌کنید چیزی ایده خوبی است چیست؟",
+          "answers": {
+            "a": "I think it’s a great idea. | فکر می‌کنم ایده خیلی خوبی است.",
+            "b": "I don’t care. | برایم مهم نیست.",
+            "c": "It’s okay. | بد نیست."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely invite someone to your house for a get-together?",
+          "translation": "سوال: چگونه به طور مودبانه کسی را به خانه خود دعوت می‌کنید؟",
+          "answers": {
+            "a": "I’m having a small get-together at my place. Would you like to come? | من یک دورهمی کوچک دارم. دوست داری بیایی؟",
+            "b": "Come to my house this weekend. | این آخر هفته به خانه من بیا.",
+            "c": "I have plans. Want to join? | برنامه دارم. می‌خواهی بپیوندی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you accept an invitation to a small gathering?",
+          "translation": "سوال: چگونه به طور مودبانه دعوت به یک گردهمایی کوچک را قبول می‌کنید؟",
+          "answers": {
+            "a": "Yes, I’d love to come. | بله، دوست دارم بیایم.",
+            "b": "I’ll think about it. | در موردش فکر می‌کنم.",
+            "c": "I don’t know if I can make it. | نمی‌دانم بتوانم بیایم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask what time an event starts?",
+          "translation": "سوال: چگونه به طور مودبانه می‌پرسید که یک رویداد چه زمانی شروع می‌شود؟",
+          "answers": {
+            "a": "What time does it start? | چه ساعتی شروع می‌شود؟",
+            "b": "When does the event end? | رویداد چه زمانی تمام می‌شود؟",
+            "c": "Do you know the schedule? | برنامه را می‌دانی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone thanked you for inviting them to an event?",
+          "translation": "سوال: چگونه به کسی پاسخ می‌دهید اگر شما را برای دعوت به یک رویداد تشکر کنند؟",
+          "answers": {
+            "a": "You’re welcome! I’m glad you can come. | خواهش می‌کنم! خوشحالم که می‌توانی بیایی.",
+            "b": "Sure, why not? | حتماً چرا که نه؟",
+            "c": "It’s no problem. | مشکلی نیست."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you say that you are looking forward to an event?",
+          "translation": "سوال: چگونه می‌گویید که منتظر یک رویداد هستید؟",
+          "answers": {
+            "a": "I’m looking forward to it! | منتظرم!",
+            "b": "I’m happy to attend. | خوشحالم که شرکت کنم.",
+            "c": "It should be fun. | باید جالب باشد."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely ask someone if they can attend your event?",
+          "translation": "سوال: چگونه به طور مودبانه از کسی می‌پرسید آیا می‌تواند در رویدادتان شرکت کند؟",
+          "answers": {
+            "a": "Can you make it? | می‌توانی بیایی؟",
+            "b": "Are you coming or not? | می‌آیی یا نه؟",
+            "c": "Will you come to my event? | به رویدادم می‌آیی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely offer your opinion on a city project?",
+          "translation": "سوال: چگونه به طور مودبانه نظر خود را درباره یک پروژه شهری ابراز می‌کنید؟",
+          "answers": {
+            "a": "I think it’s a great idea. | فکر می‌کنم ایده خیلی خوبی است.",
+            "b": "It’s a waste of money. | هدر دادن پول است.",
+            "c": "They should do something else. | باید کار دیگری انجام دهند."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you agree with someone that green spaces are important for a city?",
+          "translation": "سوال: چگونه موافقت خود را با اهمیت فضای سبز برای یک شهر ابراز می‌کنید؟",
+          "answers": {
+            "a": "Yes, it’s important to have more green spaces. | بله، داشتن فضای سبز بیشتر مهم است.",
+            "b": "I do not think it matters. | فکر نمی‌کنم مهم باشد.",
+            "c": "Why do we need them? | چرا به آنها نیاز داریم؟"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How would you ask someone how they have been feeling recently?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که اخیرا حالتان چطور است؟",
+          "answers": {
+            "a": "How have you been feeling lately? | این روزها چطور هستید؟",
+            "b": "What are you doing today? | امروز چه کار می‌کنید؟",
+            "c": "Do you feel tired? | آیا احساس خستگی می‌کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked you how you've been feeling and you're not feeling well?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی از شما بپرسد حالتان چطور است و حال خوبی ندارید؟",
+          "answers": {
+            "a": "Not so well, I've been feeling really tired. | خیلی خوب نیستم، این روزها خیلی خسته بوده‌ام.",
+            "b": "I'm fine, thanks. | حالم خوب است، ممنون.",
+            "c": "I'm great, thank you! | خیلی خوبم، متشکرم!"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone if they have seen a doctor?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا به دکتر مراجعه کرده‌اید؟",
+          "answers": {
+            "a": "Have you seen a doctor about it? | آیا به دکتر مراجعه کرده‌اید؟",
+            "b": "Do you need medicine? | آیا به دارو نیاز داری؟",
+            "c": "Do you like doctors? | آیا دکترها را دوست داری؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What's a polite way to remind someone to take care of their health?",
+          "translation": "سوال: یک راه مودبانه برای یادآوری به کسی که از سلامتی خود مراقبت کند چیست؟",
+          "answers": {
+            "a": "Take care of yourself. Your health is important. | از خودت مراقبت کن. سلامتی‌ات مهم است.",
+            "b": "You should sleep more. | باید بیشتر بخوابی.",
+            "c": "You need to exercise more. | باید بیشتر ورزش کنی."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone about their daily routine?",
+          "translation": "سوال: چگونه از کسی درباره برنامه روزانه‌شان می‌پرسید؟",
+          "answers": {
+            "a": "What's your daily routine like? | برنامه روزانه‌ات چگونه است؟",
+            "b": "Are you busy today? | امروز سر شلوغ هستی؟",
+            "c": "What do you do every day? | هر روز چه کار می‌کنی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you describe a typical morning routine?",
+          "translation": "سوال: چگونه یک برنامه صبح معمولی را توصیف می‌کنید؟",
+          "answers": {
+            "a": "I usually wake up at 6 AM, have breakfast, and head to work by 8 AM. | من معمولاً ساعت 6 صبح بیدار می‌شوم، صبحانه می‌خورم و ساعت 8 سر کار می‌روم.",
+            "b": "I wake up early and work all day! | من زود بیدار می‌شوم و تمام روز کار می‌کنم!",
+            "c": "I stay up late and wake up whenever I want. | من تا دیر وقت بیدار می‌مانم و هر وقت که بخواهم بیدار می‌شوم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely ask someone if they need advice on something?",
+          "translation": "سوال: چگونه به طور مودبانه از کسی می‌پرسید که آیا به مشاوره‌ای نیاز دارند؟",
+          "answers": {
+            "a": "Do you need advice on something? | آیا در مورد چیزی به مشاوره نیاز داری؟",
+            "b": "What's your opinion? | نظرت چیست؟",
+            "c": "Do you need medicine? | آیا به دارو نیاز داری؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone what they do after work?",
+          "translation": "سوال: چگونه از کسی می‌پرسید بعد از کار چه می‌کنید؟",
+          "answers": {
+            "a": "What do you do after work? | بعد از کار چه می‌کنی؟",
+            "b": "What’s your work schedule? | برنامه کاری‌تان چیست؟",
+            "c": "When do you leave work? | چه زمانی از کار برمی‌گردی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone if they have been feeling tired lately?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا اخیراً احساس خستگی می‌کند؟",
+          "answers": {
+            "a": "Do you feel tired? | آیا احساس خستگی می‌کنی؟",
+            "b": "Have you been feeling better? | آیا حالتان بهتر است؟",
+            "c": "What are you doing today? | امروز چه کار می‌کنی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you describe a typical evening routine after work?",
+          "translation": "سوال: چگونه یک برنامه عصر معمولی بعد از کار را توصیف می‌کنید؟",
+          "answers": {
+            "a": "I go to the gym, have dinner, and relax at home. | من به باشگاه می‌روم، شام می‌خورم و در خانه استراحت می‌کنم.",
+            "b": "I sleep early. | من زود می‌خوابم.",
+            "c": "I stay up late and watch TV. | من تا دیر وقت بیدار می‌مانم و تلویزیون تماشا می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely ask someone about their current health status?",
+          "translation": "سوال: چگونه به طور مودبانه از کسی درباره وضعیت سلامتی‌اش می‌پرسید؟",
+          "answers": {
+            "a": "How have you been feeling lately? | این روزها چطور هستید؟",
+            "b": "Do you like doctors? | آیا دکترها را دوست داری؟",
+            "c": "Have you seen a doctor? | آیا به دکتر مراجعه کرده‌اید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone if they have visited the doctor recently?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا اخیراً به دکتر مراجعه کرده است؟",
+          "answers": {
+            "a": "Have you seen a doctor about it? | آیا به دکتر مراجعه کرده‌اید؟",
+            "b": "Do you need medicine? | آیا به دارو نیاز داری؟",
+            "c": "What’s your daily routine like? | برنامه روزانه‌ات چگونه است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you remind someone to take care of their health?",
+          "translation": "سوال: چگونه به کسی یادآوری می‌کنید که از سلامتی خود مراقبت کند؟",
+          "answers": {
+            "a": "Take care of yourself. Your health is important. | از خودت مراقبت کن. سلامتی‌ات مهم است.",
+            "b": "You should sleep more. | باید بیشتر بخوابی.",
+            "c": "You need to exercise more. | باید بیشتر ورزش کنی."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What is a polite way to ask someone if they are feeling tired?",
+          "translation": "سوال: یک راه مودبانه برای پرسیدن از کسی که آیا احساس خستگی می‌کند چیست؟",
+          "answers": {
+            "a": "Do you feel tired? | آیا احساس خستگی می‌کنی؟",
+            "b": "Are you tired? | آیا خسته‌ای؟",
+            "c": "Have you been sleeping well? | آیا خوب می‌خوابی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you suggest someone visit a doctor when they are not feeling well?",
+          "translation": "سوال: چگونه به کسی پیشنهاد می‌دهید که اگر حال خوبی ندارد به دکتر مراجعه کند؟",
+          "answers": {
+            "a": "You should see a doctor. | باید به دکتر مراجعه کنی.",
+            "b": "You should sleep more. | باید بیشتر بخوابی.",
+            "c": "You need to rest. | باید استراحت کنی."
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How would you ask someone if they use social media frequently?",
+          "translation": "چگونه از کسی میپرسید که آیا زیاد از شبکه‌های اجتماعی استفاده می‌کند؟",
+          "answers": {
+            "a": "Do you use social media much? | آیا زیاد از شبکه‌های اجتماعی استفاده می‌کنی؟",
+            "b": "What do you do online? | آنلاین چکار می‌کنی؟",
+            "c": "What’s your favorite social media platform? | شبکه اجتماعی مورد علاقه‌ات چیست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked you what you usually post about on social media?",
+          "translation": "چگونه پاسخ میدهید اگر کسی پرسید معمولاً چه چیزی در شبکه‌های اجتماعی پست می‌کنید؟",
+          "answers": {
+            "a": "I like to share photos of my travels and some quotes I like. | دوست دارم عکس‌های سفرهایم را به اشتراک بگذارم و برخی نقل‌قول‌ها که دوست دارم",
+            "b": "I don’t use social media. | من از شبکه‌های اجتماعی استفاده نمی‌کنم.",
+            "c": "I only follow a few people. | فقط چند نفر را دنبال می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone if they follow a lot of people on social media?",
+          "translation": "چگونه از کسی میپرسید که آیا افراد زیادی را در شبکه‌های اجتماعی دنبال می‌کند؟",
+          "answers": {
+            "a": "Do you follow a lot of people? | آیا افراد زیادی را دنبال می‌کنی؟",
+            "b": "How many friends do you have? | چند دوست داری؟",
+            "c": "What’s your follower count? | تعداد دنبال‌کننده‌هایت چقدر است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone if they went to a concert last night?",
+          "translation": "چگونه از کسی میپرسید که آیا دیشب به کنسرت رفته است؟",
+          "answers": {
+            "a": "Did you go to the concert last night? | آیا دیشب به کنسرت رفتی؟",
+            "b": "Did you hear about the concert? | آیا درباره کنسرت شنیدی؟",
+            "c": "When is the next concert? | کنسرت بعدی چه زمانی است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked you about your experience at a concert?",
+          "translation": "چگونه پاسخ میدهید اگر کسی درباره تجربه شما در یک کنسرت پرسید؟",
+          "answers": {
+            "a": "It was amazing! The band played all my favorite songs. | عالی بود! گروه همه آهنگ‌های مورد علاقه‌ام را نواختند.",
+            "b": "I don’t remember. | یادم نمی‌آید.",
+            "c": "It was okay. | بد نبود."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone how many people were at an event?",
+          "translation": "چگونه از کسی میپرسید که در یک رویداد چند نفر بودند؟",
+          "answers": {
+            "a": "How many people were there? | چند نفر آنجا بودند؟",
+            "b": "Was the event crowded? | آیا رویداد شلوغ بود؟",
+            "c": "Who did you go with? | با چه کسی رفتی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask for a discount on an item you’re interested in buying?",
+          "translation": "چگونه درخواست تخفیف برای خرید یک کالا می‌کنید؟",
+          "answers": {
+            "a": "Is there any discount available? | آیا تخفیفی در دسترس است؟",
+            "b": "Can I get this for less? | میتوانم این را با قیمت کمتر بخرم؟",
+            "c": "How much is the price? | قیمت چقدر است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask if there’s a better deal if you buy more items?",
+          "translation": "چگونه میپرسید که اگر بیشتر خرید کنید تخفیف بیشتری میگیرید؟",
+          "answers": {
+            "a": "Could you do something if I buy more accessories? | آیا اگر لوازم جانبی بیشتری بخرم کاری می‌توانید انجام دهید؟",
+            "b": "How much for two? | دو تا چقدر میشود؟",
+            "c": "Can I get one free if I buy more? | اگر بیشتر بخرم، یکی رایگان میگیرم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you accept a deal offered during a negotiation?",
+          "translation": "چگونه یک پیشنهاد معامله در طول مذاکره را قبول می‌کنید؟",
+          "answers": {
+            "a": "That sounds like a good deal. I’ll take it! | این پیشنهاد خوبی به نظر میرسد. قبول میکنم!",
+            "b": "I’ll think about it. | در موردش فکر میکنم.",
+            "c": "I want more than that. | بیشتر از این میخواهم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask someone if they have thought about starting their own blog?",
+          "translation": "چگونه به طور مودبانه میپرسید که آیا به شروع بلاگ خود فکر کرده‌اند؟",
+          "answers": {
+            "a": "Have you ever thought about starting your own blog? | آیا به شروع بلاگ شخصی خود فکر کرده‌ای؟",
+            "b": "Why don’t you start blogging? | چرا بلاگ نویسی را شروع نمی‌کنی؟",
+            "c": "Do you write on social media? | آیا در شبکه‌های اجتماعی مینویسی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked you if you’ve ever thought about blogging?",
+          "translation": "چگونه پاسخ میدهید اگر کسی پرسید که آیا به بلاگ‌نویسی فکر کرده‌اید؟",
+          "answers": {
+            "a": "Not really, but maybe I will someday! | نه خیلی، ولی شاید یک روزی این کار را بکنم!",
+            "b": "Yes, I’ve already started. | بله، از قبل شروع کرده‌ام.",
+            "c": "I don’t want to blog. | نمی‌خواهم بلاگ‌نویسی کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you apologize for missing an event and hope to attend next time?",
+          "translation": "چگونه برای از دست دادن یک رویداد عذرخواهی می‌کنید و امید به حضور در دفعه بعد دارید؟",
+          "answers": {
+            "a": "I’m sorry I missed it. Maybe next time! | متاسفم که از دستش دادم. شاید دفعه بعد!",
+            "b": "I didn’t want to go. | نمیخواستم بروم.",
+            "c": "Why wasn’t I invited? | چرا دعوت نشدم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone what their favorite part of an event was?",
+          "translation": "چگونه از کسی میپرسید که بهترین بخش یک رویداد چه بود؟",
+          "answers": {
+            "a": "What was the best part? | بهترین بخش چه بود؟",
+            "b": "Did you like the event? | آیا رویداد را دوست داشتی؟",
+            "c": "Who did you meet there? | آنجا با چه کسی ملاقات کردی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask for a discount when buying multiple items?",
+          "translation": "چگونه هنگام خرید چندین کالا درخواست تخفیف می‌کنید؟",
+          "answers": {
+            "a": "Can I get a discount if I buy more? | آیا اگر بیشتر بخرم تخفیف می‌گیرم؟",
+            "b": "How much is this item? | قیمت این کالا چقدر است؟",
+            "c": "Is this price final? | آیا قیمت نهایی است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely check if a store has discounts on certain products?",
+          "translation": "چگونه مودبانه بررسی می‌کنید که آیا فروشگاه تخفیفی برای محصولات خاص دارد؟",
+          "answers": {
+            "a": "Is there any discount available on this product? | آیا تخفیفی برای این محصول وجود دارد؟",
+            "b": "Can you give me a better price? | میتوانید قیمت بهتری بدهید؟",
+            "c": "How much for one of these? | قیمت یکی از اینها چقدر است؟"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How do you ask someone about their future goals?",
+          "translation": "سوال: چگونه از کسی درباره اهداف آینده‌شان می‌پرسید؟",
+          "answers": {
+            "a": "What are your goals for the next few years? | اهداف شما برای چند سال آینده چیست؟",
+            "b": "Where do you want to live? | کجا می‌خواهید زندگی کنید؟",
+            "c": "Do you have any plans for today? | آیا برنامه‌ای برای امروز دارید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked about your goals?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی درباره اهداف شما بپرسد؟",
+          "answers": {
+            "a": "I want to finish my degree and start my own business. | می‌خواهم مدرکم را بگیرم و کسب و کار خودم را شروع کنم.",
+            "b": "I'm not sure. | مطمئن نیستم.",
+            "c": "I don't have any goals. | من هدفی ندارم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone what kind of business they want to start?",
+          "translation": "سوال: چگونه از کسی می‌پرسید چه نوع کسب‌وکاری می‌خواهد شروع کند؟",
+          "answers": {
+            "a": "What kind of business are you thinking of? | به چه نوع کسب و کاری فکر می‌کنید؟",
+            "b": "Do you like business? | آیا کسب و کار را دوست دارید؟",
+            "c": "Where do you work? | کجا کار می‌کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone if they have experience in their field?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا در زمینه خود تجربه دارد؟",
+          "answers": {
+            "a": "Do you have any experience in that field? | آیا در آن زمینه تجربه‌ای دارید؟",
+            "b": "Do you know how to do this? | آیا می‌دانید چگونه این کار را انجام دهید؟",
+            "c": "Where do you work? | کجا کار می‌کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone if they have ever traveled abroad?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا تا به حال به خارج از کشور سفر کرده‌اید؟",
+          "answers": {
+            "a": "Have you ever traveled abroad? | آیا تا به حال به خارج از کشور سفر کرده‌اید؟",
+            "b": "Do you like to travel? | آیا دوست دارید سفر کنید؟",
+            "c": "Where do you work? | کجا کار می‌کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked you if you’ve traveled abroad?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی پرسید که آیا به خارج از کشور سفر کرده‌اید؟",
+          "answers": {
+            "a": "Yes, I’ve traveled to several countries in Europe. | بله، به چندین کشور در اروپا سفر کرده‌ام.",
+            "b": "No, I haven’t. | نه، نرفته‌ام.",
+            "c": "I don’t know. | نمی‌دانم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone which country they enjoyed the most during their travels?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که از کدام کشور در سفرهایشان بیشتر لذت برده‌اند؟",
+          "answers": {
+            "a": "Which country did you enjoy the most? | از کدام کشور بیشتر لذت بردید؟",
+            "b": "Where do you like to travel? | کجا دوست دارید سفر کنید؟",
+            "c": "Do you like to travel? | آیا دوست دارید سفر کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you describe the highlight of a trip to Italy?",
+          "translation": "سوال: چگونه بهترین بخش سفر به ایتالیا را توصیف می‌کنید؟",
+          "answers": {
+            "a": "Visiting the Colosseum in Rome was unforgettable. | بازدید از کولوسئوم در رم فراموش نشدنی بود.",
+            "b": "The weather was nice. | هوا خوب بود.",
+            "c": "I didn’t see much. | چیز زیادی ندیدم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask someone for directions to the train station?",
+          "translation": "سوال: چگونه به طور مودبانه از کسی برای ایستگاه قطار راهنمایی می‌خواهید؟",
+          "answers": {
+            "a": "Could you tell me how to get to the train station? | می‌توانید به من بگویید چگونه به ایستگاه قطار بروم؟",
+            "b": "Where’s the train station? | ایستگاه قطار کجاست؟",
+            "c": "How do I get to the train station? | چگونه به ایستگاه قطار برسم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked for directions to the train station?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی از شما برای مسیر ایستگاه قطار سوال کند؟",
+          "answers": {
+            "a": "Go straight for two blocks, then turn left. | دو بلوک مستقیم بروید و سپس به چپ بپیچید.",
+            "b": "It’s far away from here. | از اینجا دور است.",
+            "c": "I don’t know. | نمی‌دانم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask for confirmation if you need to keep going straight after turning left?",
+          "translation": "سوال: چگونه برای تایید مسیر بپرسید که آیا بعد از اینکه به چپ پیچیدم، باید مستقیم بروم؟",
+          "answers": {
+            "a": "After I turn left, do I keep going straight? | بعد از اینکه به چپ پیچیدم، باید مستقیم بروم؟",
+            "b": "Should I stop? | باید متوقف شوم؟",
+            "c": "Am I going the right way? | آیا مسیر درست را می‌روم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you thank someone for giving you directions?",
+          "translation": "سوال: چگونه از کسی بابت دادن مسیر تشکر می‌کنید؟",
+          "answers": {
+            "a": "Thank you! That sounds easy enough. | ممنون! به نظر آسان می‌آید.",
+            "b": "I’m not sure if that’s right. | مطمئن نیستم که درست باشد.",
+            "c": "Where should I go? | کجا باید بروم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely wish someone a safe journey after giving them directions?",
+          "translation": "سوال: چگونه به طور مودبانه به کسی پس از دادن مسیر، سفر خوبی آرزو می‌کنید؟",
+          "answers": {
+            "a": "Safe travels! | سفر امن!",
+            "b": "Good luck! | موفق باشی!",
+            "c": "See you later! | بعدا می‌بینمت!"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone what the highlight of their trip was?",
+          "translation": "سوال: چگونه از کسی می‌پرسید بهترین بخش سفرشان چه بوده است؟",
+          "answers": {
+            "a": "What was the highlight of your trip? | بهترین بخش سفرتان چه بود؟",
+            "b": "Where did you go? | کجا رفتید؟",
+            "c": "Did you enjoy your trip? | آیا از سفرتان لذت بردید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone what their favorite destination is when traveling?",
+          "translation": "سوال: چگونه از کسی بپرسید که مقصد مورد علاقه‌شان هنگام سفر کجاست؟",
+          "answers": {
+            "a": "What’s your favorite destination when traveling? | مقصد مورد علاقه شما هنگام سفر چیست؟",
+            "b": "Where do you stay when traveling? | کجا در حین سفر اقامت می‌کنید؟",
+            "c": "Where do you like to go? | کجا دوست دارید بروید؟"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How do you ask someone about their hobbies?",
+          "translation": "چگونه از کسی درباره سرگرمی‌هایشان بپرسید؟",
+          "answers": {
+            "a": "What do you like to do in your free time? | در اوقات فراغت خود چه کاری را دوست دارید انجام دهید؟",
+            "b": "Do you work a lot? | آیا زیاد کار می‌کنید؟",
+            "c": "Where do you like to go? | کجا را دوست دارید بروید؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "در اوقات فراغت خود چه کاری را دوست دارید انجام دهید؟"
+        },
+        {
+          "question": "How would you respond if someone asked you about your hobbies?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی درباره سرگرمی‌هایتان بپرسد؟",
+          "answers": {
+            "a": "I enjoy painting and hiking. | من از نقاشی و پیاده‌روی لذت می‌برم.",
+            "b": "I don’t have any hobbies. | من هیچ سرگرمی ندارم.",
+            "c": "I’m always working. | من همیشه مشغول کار هستم."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "من از نقاشی و پیاده‌روی لذت می‌برم."
+        },
+        {
+          "question": "How do you ask someone how long they've been playing an instrument?",
+          "translation": "چگونه از کسی بپرسید چه مدت است که یک ساز می‌نوازند؟",
+          "answers": {
+            "a": "How long have you been playing the guitar? | چه مدت است که گیتار می‌زنید؟",
+            "b": "Do you play the piano? | آیا پیانو می‌نوازید؟",
+            "c": "What kind of music do you play? | چه نوع موسیقی می‌نوازید؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "چه مدت است که گیتار می‌زنید؟"
+        },
+        {
+          "question": "How would you respond if someone asked how long you've been playing an instrument?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی بپرسد چه مدت است که سازی می‌نوازید؟",
+          "answers": {
+            "a": "I’ve been playing for about five years. | حدود پنج سال است که می‌نوازم.",
+            "b": "I’ve just started! | من تازه شروع کرده‌ام!",
+            "c": "I don’t play any instruments. | من هیچ سازی نمی‌نوازم."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "حدود پنج سال است که می‌نوازم."
+        },
+        {
+          "question": "How do you ask someone if they prefer tea or coffee?",
+          "translation": "چگونه از کسی بپرسید چای یا قهوه را بیشتر دوست دارد؟",
+          "answers": {
+            "a": "Do you prefer tea or coffee? | چای را بیشتر دوست دارید یا قهوه؟",
+            "b": "Do you drink tea? | آیا چای می‌نوشید؟",
+            "c": "Do you like coffee? | آیا قهوه دوست دارید؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "چای را بیشتر دوست دارید یا قهوه؟"
+        },
+        {
+          "question": "How would you respond if someone asked whether you prefer tea or coffee?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی بپرسد آیا چای یا قهوه را بیشتر دوست دارید؟",
+          "answers": {
+            "a": "I prefer coffee, especially in the morning. | من قهوه را ترجیح می‌دهم، به‌ویژه در صبح.",
+            "b": "I don’t drink coffee. | من قهوه نمی‌نوشم.",
+            "c": "I like tea more. | چای را بیشتر دوست دارم."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "من قهوه را ترجیح می‌دهم، به‌ویژه در صبح."
+        },
+        {
+          "question": "How would you ask someone if they have a favorite kind of tea?",
+          "translation": "چگونه از کسی بپرسید که آیا نوع خاصی از چای را بیشتر دوست دارد؟",
+          "answers": {
+            "a": "Do you have a favorite kind of tea? | آیا نوع خاصی از چای را بیشتر دوست دارید؟",
+            "b": "Do you drink tea? | آیا چای می‌نوشید؟",
+            "c": "What’s your favorite drink? | نوشیدنی مورد علاقه‌تان چیست؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آیا نوع خاصی از چای را بیشتر دوست دارید؟"
+        },
+        {
+          "question": "How would you respond if someone asked about your favorite kind of tea?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی درباره چای مورد علاقه‌تان بپرسد؟",
+          "answers": {
+            "a": "Yes, I really like green tea. | بله، من چای سبز را خیلی دوست دارم.",
+            "b": "I like all kinds of tea. | همه نوع چای را دوست دارم.",
+            "c": "I don’t drink tea. | من چای نمی‌نوشم."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بله، من چای سبز را خیلی دوست دارم."
+        },
+        {
+          "question": "How do you ask someone for suggestions on what to do during the weekend?",
+          "translation": "چگونه از کسی پیشنهاد بگیرید که چه کارهایی برای آخر هفته انجام دهید؟",
+          "answers": {
+            "a": "What should we do this weekend? | آخر هفته چه کنیم؟",
+            "b": "Do you have any plans this weekend? | آیا برای آخر هفته برنامه‌ای دارید؟",
+            "c": "Where are you going this weekend? | آخر هفته کجا می‌روی؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آخر هفته چه کنیم؟"
+        },
+        {
+          "question": "How would you respond if someone asked you for suggestions for the weekend?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی پیشنهاد آخر هفته از شما بخواهد؟",
+          "answers": {
+            "a": "How about going for a picnic in the park? | چه طور است به یک پیک‌نیک در پارک برویم؟",
+            "b": "Let’s stay home. | بیایید در خانه بمانیم.",
+            "c": "I have no plans. | من هیچ برنامه‌ای ندارم."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "چه طور است به یک پیک‌نیک در پارک برویم؟"
+        },
+        {
+          "question": "How do you politely suggest that everyone bring food to share at a picnic?",
+          "translation": "چگونه مودبانه پیشنهاد دهید که هرکس غذا برای پیک‌نیک بیاورد؟",
+          "answers": {
+            "a": "Let’s each bring something to share. | بیا هر کدام چیزی بیاوریم که به اشتراک بگذاریم.",
+            "b": "I’ll bring all the food. | من همه غذاها را می‌آورم.",
+            "c": "You should bring everything. | شما باید همه چیز را بیاورید."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "بیا هر کدام چیزی بیاوریم که به اشتراک بگذاریم."
+        },
+        {
+          "question": "How would you respond if someone suggested a picnic and asked you to bring something?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی پیک‌نیک پیشنهاد دهد و از شما بخواهد که چیزی بیاورید؟",
+          "answers": {
+            "a": "I’ll bring sandwiches. | من ساندویچ‌ها را می‌آورم.",
+            "b": "I can’t bring anything. | نمی‌توانم چیزی بیاورم.",
+            "c": "Let’s go to a restaurant instead. | بیایید به جای آن به رستوران برویم."
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "من ساندویچ‌ها را می‌آورم."
+        },
+        {
+          "question": "How do you politely ask someone if they play any other instruments?",
+          "translation": "چگونه به طور مودبانه بپرسید آیا ساز دیگری هم می‌نوازید؟",
+          "answers": {
+            "a": "Do you play any other instruments? | آیا ساز دیگری هم می‌نوازید؟",
+            "b": "What other things do you do? | چه کارهای دیگری انجام می‌دهید؟",
+            "c": "Do you play the piano? | آیا پیانو می‌نوازید؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آیا ساز دیگری هم می‌نوازید؟"
+        },
+        {
+          "question": "How do you ask someone what kind of tea they like the most?",
+          "translation": "چگونه از کسی بپرسید چه نوع چایی را بیشتر دوست دارند؟",
+          "answers": {
+            "a": "Do you have a favorite kind of tea? | آیا نوع خاصی از چای را بیشتر دوست دارید؟",
+            "b": "What’s your favorite tea? | چای مورد علاقه‌تان چیست؟",
+            "c": "Do you like tea? | آیا چای دوست دارید؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "آیا نوع خاصی از چای را بیشتر دوست دارید؟"
+        },
+        {
+          "question": "How do you suggest bringing fruit and drinks to a picnic?",
+          "translation": "چگونه پیشنهاد می‌دهید میوه و نوشیدنی برای پیک‌نیک بیاورید؟",
+          "answers": {
+            "a": "I’ll bring some fruit and drinks. | من مقداری میوه و نوشیدنی می‌آورم.",
+            "b": "I’ll take care of everything. | من همه چیز را آماده می‌کنم.",
+            "c": "Can you bring fruit and drinks? | می‌توانید میوه و نوشیدنی بیاورید؟"
+          },
+          "correct_answer": "a",
+          "correct_answer_translation": "من مقداری میوه و نوشیدنی می‌آورم."
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How do you ask someone about their plans for next weekend?",
+          "translation": "سوال: چگونه از کسی درباره برنامه‌های آخر هفته آینده بپرسید؟",
+          "answers": {
+            "a": "What are you doing next weekend? | آخر هفته آینده چه برنامه‌ای دارید؟",
+            "b": "Where are you going this weekend? | آخر هفته کجا می‌روید؟",
+            "c": "What are your plans today? | برای امروز چه برنامه‌ای دارید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked about your plans for the weekend?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی درباره برنامه‌های آخر هفته بپرسد؟",
+          "answers": {
+            "a": "I'm planning to go camping with some friends. | قصد دارم با چند دوست به کمپینگ بروم.",
+            "b": "I don't have any plans yet. | هنوز برنامه‌ای ندارم.",
+            "c": "I'll stay at home. | در خانه خواهم ماند."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask where someone is going camping?",
+          "translation": "سوال: چگونه از کسی بپرسید که به کجا کمپینگ می‌رود؟",
+          "answers": {
+            "a": "Where are you going? | به کجا می‌روید؟",
+            "b": "How far is your trip? | چقدر دور است؟",
+            "c": "Who are you going with? | با چه کسی می‌روید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone if they need to bring a lot of equipment for a camping trip?",
+          "translation": "سوال: چگونه از کسی بپرسید که آیا نیاز به آوردن تجهیزات زیادی برای کمپینگ دارد؟",
+          "answers": {
+            "a": "Do you need to bring a lot of equipment? | آیا نیاز به آوردن تجهیزات زیادی دارید؟",
+            "b": "What do you need to pack? | چه چیزهایی باید ببندید؟",
+            "c": "Is the trip long? | آیا سفر طولانی است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone to explain how an app works?",
+          "translation": "سوال: چگونه از کسی بخواهید توضیح دهد که یک اپلیکیشن چگونه کار می‌کند؟",
+          "answers": {
+            "a": "Can you explain how this app works? | می‌توانید توضیح دهید که این اپلیکیشن چگونه کار می‌کند؟",
+            "b": "What does this app do? | این اپلیکیشن چه کاری انجام می‌دهد؟",
+            "c": "How often do you use the app? | هر چند وقت از اپلیکیشن استفاده می‌کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask if an app shows daily progress?",
+          "translation": "سوال: چگونه بپرسید که آیا اپلیکیشن پیشرفت روزانه را نشان می‌دهد؟",
+          "answers": {
+            "a": "Does it show daily progress? | آیا پیشرفت روزانه را نشان می‌دهد؟",
+            "b": "What features does this app have? | این اپلیکیشن چه ویژگی‌هایی دارد؟",
+            "c": "How many users does it have? | چند کاربر دارد؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask how to set up an account on an app?",
+          "translation": "سوال: چگونه بپرسید که چگونه می‌توان یک حساب در اپلیکیشن ایجاد کرد؟",
+          "answers": {
+            "a": "How do I set up an account? | چگونه حساب کاربری ایجاد کنم؟",
+            "b": "Do I need an account to use this app? | آیا برای استفاده از این اپلیکیشن نیاز به حساب کاربری دارم؟",
+            "c": "What do I need to log in? | برای ورود به چه چیزهایی نیاز دارم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked how to create an account on an app?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی بپرسد که چگونه می‌توان یک حساب کاربری در اپلیکیشن ایجاد کرد؟",
+          "answers": {
+            "a": "You just need to sign up with your email and create a password. | فقط باید با ایمیل خود ثبت‌نام کنید و یک رمز عبور ایجاد کنید.",
+            "b": "You have to pay first. | ابتدا باید پرداخت کنید.",
+            "c": "I don't know the process. | من فرآیند را نمی‌دانم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you offer help to someone carrying heavy bags?",
+          "translation": "سوال: چگونه پیشنهاد کمک به کسی که کیسه‌های سنگین حمل می‌کند، می‌دهید؟",
+          "answers": {
+            "a": "Do you need help carrying those bags? | آیا نیاز به کمک برای حمل این کیسه‌ها دارید؟",
+            "b": "What's inside the bags? | در داخل کیسه‌ها چیست؟",
+            "c": "Where are you taking those bags? | کیسه‌ها را کجا می‌برید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone offered to help carry your bags and you wanted help?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی پیشنهاد کمک به حمل کیسه‌های شما بدهد و شما نیاز به کمک دارید؟",
+          "answers": {
+            "a": "Yes, please! They're a bit heavy. | بله، لطفاً! کمی سنگین هستند.",
+            "b": "No, I can handle them. | نه، من می‌توانم از پسش بربیایم.",
+            "c": "I don't need help. | نیاز به کمک ندارم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you offer to carry one of the bags for someone?",
+          "translation": "سوال: چگونه پیشنهاد می‌دهید یکی از کیسه‌ها را برای کسی حمل کنید؟",
+          "answers": {
+            "a": "I'll take one for you. | یکی را برایت برمی‌دارم.",
+            "b": "Can I take this for you? | می‌توانم این را برایت بگیرم؟",
+            "c": "I'll help you later. | بعداً کمکت می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone helped you with carrying heavy bags?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی به شما در حمل کیسه‌های سنگین کمک کرد؟",
+          "answers": {
+            "a": "Thank you so much! I appreciate the help. | خیلی ممنون! از کمک شما قدردانی می‌کنم.",
+            "b": "You didn’t have to help. | نیازی به کمک نبود.",
+            "c": "I could have done it myself. | می‌توانستم خودم انجام دهم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely offer to help with something else after helping carry bags?",
+          "translation": "سوال: چگونه به طور مودبانه پیشنهاد می‌دهید که اگر کمکی نیاز باشد بعد از کمک به حمل کیسه‌ها، کمک کنید؟",
+          "answers": {
+            "a": "Let me know if you need anything else. | اگر چیزی دیگری نیاز داشتید، به من بگویید.",
+            "b": "What else do you need? | چه چیز دیگری نیاز دارید؟",
+            "c": "Do you want more help? | آیا کمک بیشتری می‌خواهید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you respond politely when someone offers help again?",
+          "translation": "سوال: چگونه به طور مودبانه پاسخ می‌دهید وقتی کسی دوباره پیشنهاد کمک می‌دهد؟",
+          "answers": {
+            "a": "I will. Thanks again! | حتماً. باز هم ممنون.",
+            "b": "I don't need more help. | به کمک بیشتری نیاز ندارم.",
+            "c": "Why do you keep asking? | چرا هی می‌پرسی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone about the basic equipment they need for camping?",
+          "translation": "سوال: چگونه از کسی درباره تجهیزات اساسی مورد نیاز برای کمپینگ بپرسید؟",
+          "answers": {
+            "a": "What basic equipment do you need for camping? | برای کمپینگ چه تجهیزات اساسی نیاز دارید؟",
+            "b": "What should I bring for the trip? | برای سفر چه چیزهایی باید بیاورم؟",
+            "c": "Why do you need equipment? | چرا نیاز به تجهیزات دارید؟"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How do you ask someone about their main responsibilities at work?",
+          "translation": "سوال: چگونه از کسی درباره مسئولیت‌های اصلی آنها در محل کار می‌پرسید؟",
+          "answers": {
+            "a": "What are your main responsibilities at work? | مسئولیت‌های اصلی شما در محل کار چیست؟",
+            "b": "Do you like your job? | آیا شغل خود را دوست دارید؟",
+            "c": "How many people do you work with? | شما با چند نفر کار می‌کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked about your responsibilities at work?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی درباره مسئولیت‌های شما در محل کار بپرسد؟",
+          "answers": {
+            "a": "I'm responsible for managing the team and overseeing projects. | من مسئول مدیریت تیم و نظارت بر پروژه‌ها هستم.",
+            "b": "I work with many people. | من با افراد زیادی کار می‌کنم.",
+            "c": "I’m responsible for answering emails. | من مسئول پاسخ‌دهی به ایمیل‌ها هستم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask someone if they enjoy their responsibilities at work?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا از مسئولیت‌هایشان در محل کار لذت می‌برند؟",
+          "answers": {
+            "a": "Do you enjoy your responsibilities? | آیا از مسئولیت‌های خود لذت می‌برید؟",
+            "b": "Do you work a lot? | آیا زیاد کار می‌کنید؟",
+            "c": "What do you do every day? | هر روز چه کار می‌کنید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone how they manage stress at work?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که چگونه استرس در محل کار را مدیریت می‌کنند؟",
+          "answers": {
+            "a": "How do you manage stress at work? | چگونه استرس در کار را مدیریت می‌کنید؟",
+            "b": "Do you get stressed? | آیا شما استرس می‌گیرید؟",
+            "c": "When do you feel stressed? | چه زمانی استرس دارید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone why they want to switch jobs?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که چرا می‌خواهند شغلشان را عوض کنند؟",
+          "answers": {
+            "a": "Why do you want to switch jobs? | چرا می‌خواهی شغلت را عوض کنی؟",
+            "b": "Are you happy with your job? | آیا از شغل خود راضی هستی؟",
+            "c": "When do you want to change jobs? | چه زمانی می‌خواهید شغل خود را تغییر دهید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked why you want to change jobs?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی بپرسد چرا می‌خواهید شغلتان را عوض کنید؟",
+          "answers": {
+            "a": "I feel like I’m not learning anything new in my current position. | احساس می‌کنم در موقعیت فعلی‌ام چیز جدیدی یاد نمی‌گیرم.",
+            "b": "I’m not happy with my team. | من از تیمم راضی نیستم.",
+            "c": "I don’t like my boss. | من از رئیس خود خوشم نمی‌آید."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone if they have looked for other job opportunities?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا به دنبال فرصت‌های شغلی دیگر بوده‌اند؟",
+          "answers": {
+            "a": "Have you looked for other opportunities yet? | آیا به دنبال فرصت‌های دیگر بوده‌اید؟",
+            "b": "Are there other jobs available? | آیا شغل‌های دیگری در دسترس است؟",
+            "c": "When will you switch jobs? | چه زمانی شغل خود را تغییر می‌دهید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely suggest someone take their time before making a big decision?",
+          "translation": "سوال: چگونه به طور مودبانه پیشنهاد می‌دهید که کسی قبل از تصمیم‌گیری بزرگ وقت بگذارد؟",
+          "answers": {
+            "a": "Take your time, and make sure you’re ready before making any big decisions. | عجله نکن، و مطمئن شو قبل از تصمیم‌گیری‌های بزرگ آماده هستی.",
+            "b": "You should wait. | تو باید صبر کنی.",
+            "c": "You should take a month to make a decision. | تو باید یک ماه وقت بگذاری تا تصمیم‌گیری کنی."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone if they'd like to make an appointment for something?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا می‌خواهد برای کاری وقت ملاقات بگیرد؟",
+          "answers": {
+            "a": "Would you like to make an appointment? | آیا می‌خواهی وقت ملاقات بگیری؟",
+            "b": "Do you have an appointment today? | آیا امروز وقت ملاقات داری؟",
+            "c": "What’s your schedule for today? | برنامه تو برای امروز چیست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if you wanted to make an appointment for a haircut?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر می‌خواهید برای یک کوتاهی مو وقت ملاقات بگیرید؟",
+          "answers": {
+            "a": "I’d like to make an appointment for a haircut. | می‌خواهم یک وقت ملاقات برای کوتاهی مو بگیرم.",
+            "b": "Can I get a haircut today? | آیا امروز می‌توانم موهایم را کوتاه کنم؟",
+            "c": "I don’t need an appointment. | به وقت ملاقات نیاز ندارم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask what time is best for an appointment?",
+          "translation": "سوال: چگونه می‌پرسید چه ساعتی برای وقت ملاقات مناسب است؟",
+          "answers": {
+            "a": "What time works best for you? | چه ساعتی برایت مناسب است؟",
+            "b": "What time can I come? | چه ساعتی می‌توانم بیایم؟",
+            "c": "Are you available tomorrow? | آیا فردا در دسترس هستی؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you ask if there's availability for an appointment on Saturday morning?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که آیا وقت خالی برای ملاقات در صبح شنبه وجود دارد؟",
+          "answers": {
+            "a": "Do you have any availability this Saturday morning? | آیا این شنبه صبح وقت خالی داری؟",
+            "b": "Can I come on Saturday? | می‌توانم شنبه بیایم؟",
+            "c": "What time are you open on Saturday? | شنبه چه ساعتی باز هستید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone offered a 10 AM appointment and it worked for you?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی ساعت 10 صبح وقت ملاقات بدهد و برای شما مناسب باشد؟",
+          "answers": {
+            "a": "That’s perfect. I’ll take it. | عالی است. من آن را قبول می‌کنم.",
+            "b": "Can we make it earlier? | می‌توانیم آن را زودتر کنیم؟",
+            "c": "I’m not sure if that time works for me. | مطمئن نیستم که آن زمان برای من مناسب است."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you confirm an appointment for a specific day and time?",
+          "translation": "سوال: چگونه یک وقت ملاقات برای یک روز و ساعت مشخص را تایید می‌کنید؟",
+          "answers": {
+            "a": "Great! We’ll see you on Saturday at 10 AM. | خیلی خوب! شنبه ساعت 10 می‌بینیمت.",
+            "b": "What time will you come? | چه ساعتی می‌آیی؟",
+            "c": "Let me check my schedule. | بگذار برنامه‌ام را بررسی کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask for a later appointment if the proposed time doesn’t work?",
+          "translation": "سوال: چگونه به طور مودبانه درخواست می‌دهید اگر زمان پیشنهاد شده مناسب نیست، وقت دیگری بگیرید؟",
+          "answers": {
+            "a": "Can we schedule for a later time? | می‌توانیم برای زمان بعدی برنامه‌ریزی کنیم؟",
+            "b": "I don’t like this time. | من این زمان را دوست ندارم.",
+            "c": "Can I cancel the appointment? | می‌توانم وقت را لغو کنم؟"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How do you ask someone to show you how to set up a printer?",
+          "translation": "چگونه از کسی می‌خواهید که نحوه نصب پرینتر را به شما نشان دهد؟",
+          "answers": {
+            "a": "Can you show me how to set up the printer? | آیا می‌توانید به من نشان دهید چگونه پرینتر را نصب کنم؟",
+            "b": "How do you print a document? | چگونه یک سند چاپ می‌کنید؟",
+            "c": "Where is the printer? | پرینتر کجاست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What's the first step in setting up a printer?",
+          "translation": "اولین قدم در نصب پرینتر چیست؟",
+          "answers": {
+            "a": "Plug it into the power outlet. | آن را به پریز برق وصل کنید.",
+            "b": "Turn on the computer. | کامپیوتر را روشن کنید.",
+            "c": "Print a test page. | یک صفحه آزمایشی چاپ کنید."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "What do you do after connecting the printer to the computer?",
+          "translation": "بعد از وصل کردن پرینتر به کامپیوتر چه می‌کنید؟",
+          "answers": {
+            "a": "Install the printer driver. | درایور پرینتر را نصب کنید.",
+            "b": "Print a document. | یک سند چاپ کنید.",
+            "c": "Turn off the computer. | کامپیوتر را خاموش کنید."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely tell someone there is a problem with your order?",
+          "translation": "چگونه به طور مودبانه به کسی می‌گویید که مشکلی در سفارش شما وجود دارد؟",
+          "answers": {
+            "a": "I'm sorry, but there seems to be a problem with my order. | متأسفم، اما به نظر می‌رسد مشکلی در سفارش من وجود دارد.",
+            "b": "This order is wrong. | این سفارش اشتباه است.",
+            "c": "I don't like my order. | من از سفارش خودم خوشم نمی‌آید."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone complained about their order being damaged?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی از آسیب دیدن سفارش خود شکایت کند؟",
+          "answers": {
+            "a": "I apologize for the inconvenience. We can offer a replacement or a refund. | بابت این مشکل عذرخواهی می‌کنیم. ما می‌توانیم یک جایگزین یا بازپرداخت ارائه دهیم.",
+            "b": "It's not our fault. | تقصیر ما نیست.",
+            "c": "Are you sure it's damaged? | آیا مطمئن هستید که آسیب دیده است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask for a replacement when something you ordered is damaged?",
+          "translation": "چگونه درخواست جایگزین می‌دهید وقتی چیزی که سفارش دادید آسیب دیده است؟",
+          "answers": {
+            "a": "I'd prefer a replacement, if possible. | ترجیح می‌دهم جایگزین شود، اگر ممکن است.",
+            "b": "I want a refund. | من می‌خواهم بازپرداخت شود.",
+            "c": "Can I use it anyway? | آیا می‌توانم از آن استفاده کنم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone how their project is progressing?",
+          "translation": "چگونه از کسی می‌پرسید که پروژه آنها چطور پیش می‌رود؟",
+          "answers": {
+            "a": "How is the project coming along? | پروژه چطور پیش می‌رود؟",
+            "b": "Is your project finished? | آیا پروژه شما تمام شده است؟",
+            "c": "What's the deadline? | مهلت آن چیست؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you offer help if someone needs assistance with their project?",
+          "translation": "چگونه پیشنهاد کمک می‌دهید اگر کسی به کمک نیاز داشته باشد؟",
+          "answers": {
+            "a": "Let me know if there's anything you need help with. | اگر به کمک نیاز داشتید، به من اطلاع دهید.",
+            "b": "What do you need help with? | به چه کمکی نیاز دارید؟",
+            "c": "I'll take over the project. | من پروژه را به دست می‌گیرم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone offered help with your project?",
+          "translation": "چگونه پاسخ می‌دهید اگر کسی پیشنهاد کمک به پروژه شما دهد؟",
+          "answers": {
+            "a": "Will do. Thanks for checking in! | حتماً. ممنون که پیگیری کردید.",
+            "b": "I don't need help right now. | الان به کمک نیاز ندارم.",
+            "c": "Why do you ask? | چرا می‌پرسید؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely offer someone a refund or replacement if they have a problem with their order?",
+          "translation": "چگونه به طور مودبانه پیشنهاد بازپرداخت یا جایگزینی می‌دهید اگر کسی مشکل دارد؟",
+          "answers": {
+            "a": "We can offer a replacement or a refund. | ما می‌توانیم یک جایگزین یا بازپرداخت ارائه دهیم.",
+            "b": "You can return it if you want. | می‌توانید آن را برگردانید اگر می‌خواهید.",
+            "c": "Sorry, there's nothing we can do. | متأسفم، کاری نمی‌توانیم انجام دهیم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask if there's anything else someone needs to do after setting up a device?",
+          "translation": "چگونه از کسی می‌پرسید که آیا کار دیگری بعد از نصب دستگاه باید انجام شود؟",
+          "answers": {
+            "a": "Is there anything else I need to do? | آیا کار دیگری هم هست که باید انجام دهم؟",
+            "b": "Do I need to buy anything else? | آیا نیاز به خرید چیز دیگری دارم؟",
+            "c": "Can I use it now? | آیا حالا می‌توانم از آن استفاده کنم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely confirm that you'll send a replacement right away after someone makes a complaint?",
+          "translation": "چگونه به طور مودبانه تأیید می‌کنید که فوراً جایگزین ارسال خواهید کرد بعد از اینکه کسی شکایت کرد؟",
+          "answers": {
+            "a": "We'll send a replacement right away. | ما فوراً یک جایگزین ارسال خواهیم کرد.",
+            "b": "We'll see what we can do. | ببینیم چه کار می‌توانیم بکنیم.",
+            "c": "It might take some time. | ممکن است کمی طول بکشد."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely ask if the replacement will arrive on time?",
+          "translation": "چگونه به طور مودبانه می‌پرسید که آیا جایگزین به موقع خواهد رسید؟",
+          "answers": {
+            "a": "Will the replacement arrive on time? | آیا جایگزین به موقع خواهد رسید؟",
+            "b": "When is it arriving? | چه زمانی می‌رسد؟",
+            "c": "Is it delayed? | آیا تأخیر دارد؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you politely ask for a refund if you're unhappy with your order?",
+          "translation": "چگونه به طور مودبانه درخواست بازپرداخت می‌کنید اگر از سفارش خود ناراضی هستید؟",
+          "answers": {
+            "a": "Could I request a refund, please? | می‌توانم درخواست بازپرداخت کنم، لطفاً؟",
+            "b": "I don't like this, can you return it? | من از این خوشم نمی‌آید، می‌توانید آن را برگردانید؟",
+            "c": "I want my money back. | من پولم را می‌خواهم."
+          },
+          "correct_answer": "a"
+        }
+      ]
+    },
+    {
+      "quiz": [
+        {
+          "question": "How do you ask someone when the deadline for a project is?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که مهلت پروژه چه زمانی است؟",
+          "answers": {
+            "a": "When is the deadline for this project? | مهلت این پروژه چه زمانی است؟",
+            "b": "When do we need to start the project? | چه زمانی باید پروژه را شروع کنیم؟",
+            "c": "Is the project difficult? | آیا پروژه سخت است؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone asked when the project deadline is?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی بپرسد مهلت پروژه چه زمانی است؟",
+          "answers": {
+            "a": "We need to submit it by the end of the week. | ما باید آن را تا آخر هفته ارسال کنیم.",
+            "b": "The project is almost done. | پروژه تقریبا تمام شده است.",
+            "c": "We're starting next week. | هفته آینده شروع می‌کنیم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask if the project is on track to finish on time?",
+          "translation": "سوال: چگونه می‌پرسید که آیا پروژه طبق برنامه به موقع تمام می‌شود؟",
+          "answers": {
+            "a": "Are we on track to finish? | آیا طبق برنامه پیش می‌رویم؟",
+            "b": "Is the project completed? | آیا پروژه تمام شده است؟",
+            "c": "Do we need more time? | آیا به زمان بیشتری نیاز داریم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you offer help with the final touches on a project?",
+          "translation": "سوال: چگونه پیشنهاد کمک برای مراحل پایانی یک پروژه می‌دهید؟",
+          "answers": {
+            "a": "Let me know if you need any help with the final touches. | اگر به کمک داشتی به من اطلاع بده.",
+            "b": "I’ll do it for you. | من این کار را برایت انجام می‌دهم.",
+            "c": "Can I help with the next project? | آیا می‌توانم در پروژه بعدی هم کمک کنم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask how to handle a disagreement in a team?",
+          "translation": "سوال: چگونه می‌پرسید که چگونه باید با اختلافات تیمی برخورد کنیم؟",
+          "answers": {
+            "a": "How should we handle it? | چگونه باید آن را مدیریت کنیم؟",
+            "b": "What’s wrong with the team? | مشکل تیم چیست؟",
+            "c": "Who caused the disagreement? | چه کسی اختلاف را ایجاد کرد؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you express appreciation for someone’s support on a project?",
+          "translation": "سوال: چگونه از حمایت کسی در یک پروژه قدردانی می‌کنید؟",
+          "answers": {
+            "a": "I really appreciate your support. It made a big difference. | من واقعاً از حمایت شما قدردانی می‌کنم. تأثیر زیادی داشت.",
+            "b": "I’m glad you could help. | خوشحالم که توانستی کمک کنی.",
+            "c": "I didn’t expect you to help. | انتظار نداشتم که کمک کنی."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you respond if someone said they appreciated your support?",
+          "translation": "سوال: چگونه پاسخ می‌دهید اگر کسی بگوید که از حمایت شما قدردانی می‌کند؟",
+          "answers": {
+            "a": "It was no trouble at all. I’m happy to help. | هیچ زحمتی نبود. خوشحالم که توانستم کمک کنم.",
+            "b": "I didn’t do much. | من کار زیادی نکردم.",
+            "c": "I’m glad it wasn’t too difficult. | خوشحالم که خیلی سخت نبود."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you let someone know you’ll reach out if you need more help in the future?",
+          "translation": "سوال: چگونه به کسی اطلاع می‌دهید که اگر در آینده به کمک بیشتری نیاز داشتید با او تماس می‌گیرید؟",
+          "answers": {
+            "a": "I’ll definitely reach out if I need more help in the future. | حتماً اگر در آینده نیاز به کمک بیشتری داشتم با تو تماس می‌گیرم.",
+            "b": "Can you help me with future projects? | آیا می‌توانی در پروژه‌های آینده کمک کنی؟",
+            "c": "I’m sure I’ll need more help. | مطمئناً به کمک بیشتری نیاز خواهم داشت."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you suggest that everyone’s concerns should be addressed before finding a solution to a conflict?",
+          "translation": "سوال: چگونه پیشنهاد می‌دهید که نگرانی‌های همه قبل از یافتن راه حل برای یک اختلاف مطرح شود؟",
+          "answers": {
+            "a": "We can address everyone’s concerns and find a solution. | می‌توانیم نگرانی‌های همه را مطرح کنیم و راه‌حلی پیدا کنیم.",
+            "b": "We should ignore the concerns. | باید نگرانی‌ها را نادیده بگیریم.",
+            "c": "Only some concerns matter. | فقط برخی از نگرانی‌ها مهم هستند."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely confirm that a team meeting will be set up later in the week?",
+          "translation": "سوال: چگونه به طور مودبانه تأیید می‌کنید که جلسه تیمی در اواخر هفته تنظیم می‌شود؟",
+          "answers": {
+            "a": "Let’s set up a time for the meeting later this week. | بیایید زمانی برای جلسه در اواخر هفته تنظیم کنیم.",
+            "b": "We’ll cancel the meeting. | جلسه را لغو خواهیم کرد.",
+            "c": "Can we meet tomorrow instead? | آیا می‌توانیم فردا ملاقات کنیم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone when the project will be completed?",
+          "translation": "سوال: چگونه از کسی می‌پرسید پروژه چه زمانی به اتمام می‌رسد؟",
+          "answers": {
+            "a": "When will the project be completed? | پروژه چه زمانی به اتمام می‌رسد؟",
+            "b": "How difficult is the project? | پروژه چقدر سخت است؟",
+            "c": "How long will the project take? | پروژه چقدر زمان می‌برد؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you offer help if the project is behind schedule?",
+          "translation": "سوال: چگونه پیشنهاد کمک می‌دهید اگر پروژه عقب مانده است؟",
+          "answers": {
+            "a": "Let me know if you need help catching up. | اگر نیاز به کمک داشتی تا جبران کنی به من اطلاع بده.",
+            "b": "I’ll do it for you. | من آن را برایت انجام می‌دهم.",
+            "c": "Can I help with the final touches? | آیا می‌توانم در مراحل پایانی کمک کنم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you ask someone to follow up on a team discussion later?",
+          "translation": "سوال: چگونه از کسی می‌پرسید که بعداً به بحث تیمی ادامه دهد؟",
+          "answers": {
+            "a": "Let’s follow up on the team discussion later. | بیایید بعداً به بحث تیمی ادامه دهیم.",
+            "b": "We’ll skip the discussion. | بحث را رد می‌کنیم.",
+            "c": "Can we delay the discussion? | آیا می‌توانیم بحث را به تأخیر بیندازیم؟"
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How do you handle scheduling conflicts in a team?",
+          "translation": "سوال: چگونه با تداخل‌های برنامه‌ریزی در یک تیم برخورد می‌کنید؟",
+          "answers": {
+            "a": "We can discuss the scheduling conflicts in the next meeting. | می‌توانیم تداخل‌های برنامه‌ریزی را در جلسه بعدی بحث کنیم.",
+            "b": "We should cancel the meeting. | باید جلسه را لغو کنیم.",
+            "c": "I’ll handle it myself. | خودم با آن برخورد می‌کنم."
+          },
+          "correct_answer": "a"
+        },
+        {
+          "question": "How would you politely confirm that a team meeting will be set up later in the week?",
+          "translation": "سوال: چگونه به طور مودبانه تأیید می‌کنید که یک جلسه تیمی در اواخر هفته تنظیم خواهد شد؟",
+          "answers": {
+            "a": "Let's set up a time for the meeting later this week. | بیایید زمانی برای جلسه در اواخر این هفته تعیین کنیم.",
+            "b": "We'll cancel the meeting. | جلسه را لغو خواهیم کرد.",
+            "c": "Can we meet tomorrow instead? | آیا می‌توانیم فردا به‌جای آن ملاقات کنیم؟"
+          },
+          "correct_answer": "a"
+        }
+      ]
+    }
+  ]
+}
+
